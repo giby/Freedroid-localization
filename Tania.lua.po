@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,12 +45,6 @@ msgstr ""
 msgid "Are we there yet?"
 msgstr ""
 
-#: dialogs/Tania.lua:74 dialogs/Tania.lua:91 dialogs/Tania.lua:272
-#: dialogs/Tania.lua:314 dialogs/Tania.lua:341 dialogs/Tania.lua:407
-#: dialogs/Tania.lua:422 dialogs/Tania.lua:446 dialogs/Tania.lua:456
-msgid "Tania's Escape"
-msgstr ""
-
 #: dialogs/Tania.lua:75
 msgid "It is OK. I'll wait here at the gate."
 msgstr ""
@@ -73,6 +67,10 @@ msgstr ""
 
 #: dialogs/Tania.lua:87
 msgid "He said you are free to go where you like."
+msgstr ""
+
+#: dialogs/Tania.lua:94
+msgid "I'm so glad that I am finally here, take this."
 msgstr ""
 
 #: dialogs/Tania.lua:104

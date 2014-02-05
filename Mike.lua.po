@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#: dialogs/Mike.lua:36
+msgid "You have won the arena."
+msgstr ""
 
 #: dialogs/Mike.lua:39
 msgid "Novice arena cleared!"
@@ -25,6 +29,30 @@ msgstr ""
 msgid "Level cleared!"
 msgstr ""
 
-#: dialogs/Mike.lua:41
-msgid "Novice Arena"
+#: dialogs/Mike.lua:45
+msgid "You have left the arena."
+msgstr ""
+
+#: dialogs/Mike.lua:48
+msgid "The arena is already started."
+msgstr ""
+
+#: dialogs/Mike.lua:65
+msgid "Choose a level."
+msgstr ""
+
+#: dialogs/Mike.lua:73
+msgid "Start Novice Arena"
+msgstr ""
+
+#: dialogs/Mike.lua:81
+msgid "Start Elite Arena"
+msgstr ""
+
+#: dialogs/Mike.lua:89
+msgid "Start Champion Arena"
+msgstr ""
+
+#: dialogs/Mike.lua:98
+msgid "Terminate"
 msgstr ""

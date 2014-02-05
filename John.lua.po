@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,266 +17,266 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: dialogs/John.lua:35
+#: dialogs/John.lua:36
 msgid "I am s-"
 msgstr ""
 
-#: dialogs/John.lua:36
+#: dialogs/John.lua:37
 msgid "Go away please."
 msgstr ""
 
-#: dialogs/John.lua:45
+#: dialogs/John.lua:46
 msgid "What was that?!"
 msgstr ""
 
-#: dialogs/John.lua:46
+#: dialogs/John.lua:47
 msgid "See..?"
 msgstr ""
 
-#: dialogs/John.lua:47
+#: dialogs/John.lua:48
 msgid "It's not as easy as you thought."
 msgstr ""
 
-#: dialogs/John.lua:48
+#: dialogs/John.lua:49
 msgid "Take a closer look at the storage room again..."
 msgstr ""
 
-#: dialogs/John.lua:49
+#: dialogs/John.lua:50
 msgid "Okay."
 msgstr ""
 
-#: dialogs/John.lua:62
+#: dialogs/John.lua:63
 msgid "Looks like you had some problems?"
 msgstr ""
 
-#: dialogs/John.lua:63
+#: dialogs/John.lua:64
 msgid "Yes..."
 msgstr ""
 
-#: dialogs/John.lua:64
+#: dialogs/John.lua:65
 msgid "Ok, I'll give you another chance."
 msgstr ""
 
-#: dialogs/John.lua:65
+#: dialogs/John.lua:66
 msgid "But it will be your last chance, so take care..."
 msgstr ""
 
-#: dialogs/John.lua:66
+#: dialogs/John.lua:67
 msgid "Thanks."
 msgstr ""
 
-#: dialogs/John.lua:76
+#: dialogs/John.lua:77
 msgid "Dude!"
 msgstr ""
 
-#: dialogs/John.lua:77
+#: dialogs/John.lua:78
 msgid "You made the same mistake twice."
 msgstr ""
 
-#: dialogs/John.lua:78
+#: dialogs/John.lua:79
 msgid "You walked through the same teleporter twice!"
 msgstr ""
 
-#: dialogs/John.lua:79
+#: dialogs/John.lua:80
 msgid "What's wrong with your mind?"
 msgstr ""
 
-#: dialogs/John.lua:80
+#: dialogs/John.lua:81
 msgid "I-"
 msgstr ""
 
-#: dialogs/John.lua:81
+#: dialogs/John.lua:82
 msgid "How is that ever going to work?"
 msgstr ""
 
-#: dialogs/John.lua:82
+#: dialogs/John.lua:83
 msgid "I locked the puzzle."
 msgstr ""
 
-#: dialogs/John.lua:83
+#: dialogs/John.lua:84
 msgid "It doesn't seem like you'd ever be able to solve it."
 msgstr ""
 
-#: dialogs/John.lua:90
+#: dialogs/John.lua:91
 msgid "Sorry, seems like that puzzle was too hard for you."
 msgstr ""
 
-#: dialogs/John.lua:91
+#: dialogs/John.lua:92
 msgid "But I-"
 msgstr ""
 
-#: dialogs/John.lua:92
+#: dialogs/John.lua:93
 msgid "It is locked now."
 msgstr ""
 
-#: dialogs/John.lua:93
+#: dialogs/John.lua:94
 msgid "I was very close to the solution."
 msgstr ""
 
-#: dialogs/John.lua:94
+#: dialogs/John.lua:95
 msgid "Well, why did you still fail if you were so close?"
 msgstr ""
 
-#: dialogs/John.lua:95
+#: dialogs/John.lua:96
 msgid "Hmpf.."
 msgstr ""
 
-#: dialogs/John.lua:108
+#: dialogs/John.lua:109
 msgid "Congratulations, you solved my little puzzle."
 msgstr ""
 
-#: dialogs/John.lua:109
+#: dialogs/John.lua:110
 msgid "I give you this as a small reward."
 msgstr ""
 
-#: dialogs/John.lua:113
+#: dialogs/John.lua:114
 msgid "Wow... you solved it, and on your first time, too."
 msgstr ""
 
-#: dialogs/John.lua:114
+#: dialogs/John.lua:115
 msgid "That's pretty good."
 msgstr ""
 
-#: dialogs/John.lua:115
+#: dialogs/John.lua:116
 msgid "Here, take this as reward."
 msgstr ""
 
-#: dialogs/John.lua:116
+#: dialogs/John.lua:117
 msgid "Oh, thank you."
 msgstr ""
 
-#: dialogs/John.lua:135
+#: dialogs/John.lua:136
 msgid "Hello."
 msgstr ""
 
-#: dialogs/John.lua:136
+#: dialogs/John.lua:137
 msgid "Errr... How did you get in here?!"
 msgstr ""
 
-#: dialogs/John.lua:137
+#: dialogs/John.lua:138
 msgid "I just walked through the door."
 msgstr ""
 
-#: dialogs/John.lua:138
+#: dialogs/John.lua:139
 msgid "And your name?"
 msgstr ""
 
-#: dialogs/John.lua:139
+#: dialogs/John.lua:141
 msgid "I'm %s."
 msgstr ""
 
-#: dialogs/John.lua:140
+#: dialogs/John.lua:142
 msgid "And you were not slaughtered by the bots outside?"
 msgstr ""
 
-#: dialogs/John.lua:141
+#: dialogs/John.lua:143
 msgid "Apparently, I am still alive."
 msgstr ""
 
-#: dialogs/John.lua:142
+#: dialogs/John.lua:144
 msgid "Does that answer your question?"
 msgstr ""
 
-#: dialogs/John.lua:143
+#: dialogs/John.lua:145
 msgid "It does... smart aleck."
 msgstr ""
 
-#: dialogs/John.lua:151
+#: dialogs/John.lua:153
 msgid "I'm living here."
 msgstr ""
 
-#: dialogs/John.lua:152
+#: dialogs/John.lua:154
 msgid "What did you expect?"
 msgstr ""
 
-#: dialogs/John.lua:153
+#: dialogs/John.lua:155
 msgid "Okay, that question was a little stupid."
 msgstr ""
 
-#: dialogs/John.lua:161
+#: dialogs/John.lua:163
 msgid "Not that I know."
 msgstr ""
 
-#: dialogs/John.lua:162
+#: dialogs/John.lua:164
 msgid "Only you and me."
 msgstr ""
 
-#: dialogs/John.lua:163
+#: dialogs/John.lua:165
 msgid "Okay, that question was also a little stupid."
 msgstr ""
 
-#: dialogs/John.lua:171
+#: dialogs/John.lua:173
 msgid "I'm fine."
 msgstr ""
 
-#: dialogs/John.lua:172
+#: dialogs/John.lua:174
 msgid "When I'm bored, I try to make up some puzzles..."
 msgstr ""
 
-#: dialogs/John.lua:180
+#: dialogs/John.lua:182
 msgid "Yeah, puzzles."
 msgstr ""
 
-#: dialogs/John.lua:181
+#: dialogs/John.lua:183
 msgid "Do you want to try one?"
 msgstr ""
 
-#: dialogs/John.lua:189
+#: dialogs/John.lua:191
 msgid "Can you tell me more about it?"
 msgstr ""
 
-#: dialogs/John.lua:190
+#: dialogs/John.lua:192
 msgid "No."
 msgstr ""
 
-#: dialogs/John.lua:191
+#: dialogs/John.lua:193
 msgid "But you can experience it for yourself."
 msgstr ""
 
-#: dialogs/John.lua:192
+#: dialogs/John.lua:194
 msgid "Interested?"
 msgstr ""
 
-#: dialogs/John.lua:200
+#: dialogs/John.lua:202
 msgid "Ok, so the entrance is in my storage room."
 msgstr ""
 
-#: dialogs/John.lua:201
+#: dialogs/John.lua:203
 msgid "Shouldn't be too difficult to find."
 msgstr ""
 
-#: dialogs/John.lua:202
+#: dialogs/John.lua:204
 msgid "Ok, let me take a look."
 msgstr ""
 
-#: dialogs/John.lua:203
+#: dialogs/John.lua:205
 msgid "Wait, wait. I'll give you a hint:"
 msgstr ""
 
-#: dialogs/John.lua:204
+#: dialogs/John.lua:206
 msgid "'Looking from above hostiles may appear as salvation.'"
 msgstr ""
 
-#: dialogs/John.lua:205
+#: dialogs/John.lua:207
 msgid "Uh, ok, thanks."
 msgstr ""
 
-#: dialogs/John.lua:215
+#: dialogs/John.lua:217
 msgid "I think, it's a trap!"
 msgstr ""
 
-#: dialogs/John.lua:216
+#: dialogs/John.lua:218
 msgid "Well, you can leave at any time."
 msgstr ""
 
-#: dialogs/John.lua:217
+#: dialogs/John.lua:219
 msgid "I wish you would!"
 msgstr ""
 
-#: dialogs/John.lua:228
+#: dialogs/John.lua:230
 msgid "I don't think so..."
 msgstr ""
 
-#: dialogs/John.lua:230
+#: dialogs/John.lua:232
 msgid "See you later."
 msgstr ""

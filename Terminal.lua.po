@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,10 +29,10 @@ msgstr ""
 msgid "Well, hello again."
 msgstr ""
 
-#: dialogs/Terminal.lua:43
-msgid "Available commands: logout"
+#: dialogs/Terminal.lua:44
+msgid "Available commands: help, logout"
 msgstr ""
 
-#: dialogs/Terminal.lua:50
+#: dialogs/Terminal.lua:52
 msgid "Goodbye"
 msgstr ""

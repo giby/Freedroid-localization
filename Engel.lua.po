@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,158 +17,329 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: dialogs/Engel.lua:38
+#: dialogs/Engel.lua:39
 msgid "Hello. We are the Fleischer brothers."
 msgstr ""
 
-#: dialogs/Engel.lua:39
+#: dialogs/Engel.lua:41
 msgid "I am Engel. He is Geist, and he does not know the language."
 msgstr ""
 
-#: dialogs/Engel.lua:40
+#: dialogs/Engel.lua:42
 msgid "Engel - Hunter"
 msgstr ""
 
-#: dialogs/Engel.lua:41
+#: dialogs/Engel.lua:43
 msgid "Geist - Hunter"
 msgstr ""
 
-#: dialogs/Engel.lua:49
+#: dialogs/Engel.lua:51
 msgid "Revenge."
 msgstr ""
 
-#: dialogs/Engel.lua:50
+#: dialogs/Engel.lua:52
 msgid "The bots have killed our mother. Now we kill them."
 msgstr ""
 
-#: dialogs/Engel.lua:51
+#: dialogs/Engel.lua:53
 msgid "No mercy. We hunt them."
 msgstr ""
 
-#: dialogs/Engel.lua:59
+#: dialogs/Engel.lua:62
 msgid "Nein. Let us die as warriors. That is all we ask for."
 msgstr ""
 
-#: dialogs/Engel.lua:68
+#: dialogs/Engel.lua:71
 msgid "If you keep standing here more bots will come and --"
 msgstr ""
 
-#: dialogs/Engel.lua:69
+#: dialogs/Engel.lua:73
 msgid "Sehr gut. Let them come. We are ready."
 msgstr ""
 
-#: dialogs/Engel.lua:70
+#: dialogs/Engel.lua:74
 msgid "What a beautiful day. Yes."
 msgstr ""
 
-#: dialogs/Engel.lua:78
+#: dialogs/Engel.lua:82
 msgid "No."
 msgstr ""
 
-#: dialogs/Engel.lua:79
+#: dialogs/Engel.lua:83
 msgid "Every day since the mess started I come here to fight the bots."
 msgstr ""
 
-#: dialogs/Engel.lua:80
+#: dialogs/Engel.lua:84
 msgid "Today will be no different."
 msgstr ""
 
-#: dialogs/Engel.lua:81
+#: dialogs/Engel.lua:85
 msgid "Do not try to stop us. We have our rifles loaded."
 msgstr ""
 
-#: dialogs/Engel.lua:89
+#: dialogs/Engel.lua:93
 msgid "Nowhere. This is the end of the world. There is no help."
 msgstr ""
 
-#: dialogs/Engel.lua:90
+#: dialogs/Engel.lua:94
 msgid ""
 "There is a town a bit south from here, but if I were you, I would not go "
 "there."
 msgstr ""
 
-#: dialogs/Engel.lua:91
+#: dialogs/Engel.lua:96
 msgid ""
 "The Rot Guard is the ruler there, and cruelty is their solution to "
 "everything."
 msgstr ""
 
-#: dialogs/Engel.lua:92
+#: dialogs/Engel.lua:97
 msgid "Real freedom is really dead."
 msgstr ""
 
-#: dialogs/Engel.lua:101
+#: dialogs/Engel.lua:106
 msgid "You guys are tota --"
 msgstr ""
 
-#: dialogs/Engel.lua:102
+#: dialogs/Engel.lua:107
 msgid "WHAT?! What is it that you want to say?"
 msgstr ""
 
-#: dialogs/Engel.lua:103
+#: dialogs/Engel.lua:108
 msgid "Erm... I --"
 msgstr ""
 
-#: dialogs/Engel.lua:104
+#: dialogs/Engel.lua:110
 msgid "WHAT!? SPIT IT OUT, BACKPFEIFENGESICHT!"
 msgstr ""
 
-#: dialogs/Engel.lua:105
+#: dialogs/Engel.lua:111
 msgid ""
 "Er... You guys are really great and I admire your bravery in the face of "
 "certain death."
 msgstr ""
 
-#: dialogs/Engel.lua:106
+#: dialogs/Engel.lua:113
 msgid "Donnerwetter, you are a funny one."
 msgstr ""
 
-#: dialogs/Engel.lua:107
+#: dialogs/Engel.lua:114
 msgid "I hope that one day we shall meet again, maybe in a better time."
 msgstr ""
 
-#: dialogs/Engel.lua:108
+#: dialogs/Engel.lua:116
 msgid "Maybe then you will tell us other gut jokes that you know."
 msgstr ""
 
-#: dialogs/Engel.lua:109
+#: dialogs/Engel.lua:117
 msgid "Maybe one day..."
 msgstr ""
 
-#: dialogs/Engel.lua:117
+#: dialogs/Engel.lua:125
 msgid "I was a bot constructor. Built the killers of my mother."
 msgstr ""
 
-#: dialogs/Engel.lua:118
+#: dialogs/Engel.lua:126
 msgid ""
 "Now I sell the parts that I remove from the bots to buy more ammunition and "
 "food."
 msgstr ""
 
-#: dialogs/Engel.lua:127
+#: dialogs/Engel.lua:136
 msgid "I schon told you alles I know about that."
 msgstr ""
 
-#: dialogs/Engel.lua:131
+#: dialogs/Engel.lua:140 dialogs/Engel.lua:170
 msgid "Yes."
 msgstr ""
 
-#: dialogs/Engel.lua:132
+#: dialogs/Engel.lua:142
 msgid "I will sell the information for a lot of Schaltkreise."
 msgstr ""
 
-#: dialogs/Engel.lua:133
+#: dialogs/Engel.lua:143
 msgid "Interested?"
 msgstr ""
 
-#: dialogs/Engel.lua:143
+#: dialogs/Engel.lua:154
 msgid "Nein. Our problem. Our hunt."
 msgstr ""
 
-#: dialogs/Engel.lua:151
+#: dialogs/Engel.lua:162
 msgid "Are they used to build other bots?"
 msgstr ""
 
-#: dialogs/Engel.lua:152
+#: dialogs/Engel.lua:164
 msgid "Most of them are used to bauen little nette gadgets."
+msgstr ""
+
+#: dialogs/Engel.lua:165
+msgid "You can use them to make weapons better or make you stronger."
+msgstr ""
+
+#: dialogs/Engel.lua:166
+msgid "How does this work?"
+msgstr ""
+
+#: dialogs/Engel.lua:167
+msgid "I don't know."
+msgstr ""
+
+#: dialogs/Engel.lua:168
+msgid "But these gadgets are very nice for making your equipment better."
+msgstr ""
+
+#: dialogs/Engel.lua:169
+msgid "So they are kind of add-ons?"
+msgstr ""
+
+#: dialogs/Engel.lua:172
+msgid "Ask the Stadtmenschen if you want to know more."
+msgstr ""
+
+#: dialogs/Engel.lua:176
+msgid "I think the Rot Guard makes them."
+msgstr ""
+
+#: dialogs/Engel.lua:178
+msgid "If you have Gluck, they won't kill you directly."
+msgstr ""
+
+#: dialogs/Engel.lua:181
+msgid "But I don't know more about these gadgets."
+msgstr ""
+
+#: dialogs/Engel.lua:182
+msgid "Asking me more questions about that makes no sense..."
+msgstr ""
+
+#: dialogs/Engel.lua:211 dialogs/Engel.lua:215
+msgid "Hmmm..."
+msgstr ""
+
+#: dialogs/Engel.lua:212
+msgid "You look green. Toughen up. Get some experience, kill some bots."
+msgstr ""
+
+#: dialogs/Engel.lua:213
+msgid "Then we can talk."
+msgstr ""
+
+#: dialogs/Engel.lua:217
+msgid "Kein Geld, keine Hilfe."
+msgstr ""
+
+#: dialogs/Engel.lua:218
+msgid "Come back with some circuits."
+msgstr ""
+
+#: dialogs/Engel.lua:229
+msgid "If you want me to repeat something, don't hesitate to ask."
+msgstr ""
+
+#: dialogs/Engel.lua:251
+msgid "Let us start with Entropy Inverters. This is quite simple."
+msgstr ""
+
+#: dialogs/Engel.lua:253
+msgid "Just take a hammer and hit the bot sehr hard on the head."
+msgstr ""
+
+#: dialogs/Engel.lua:254
+msgid ""
+"When you have the head open wide, look around for a part which looks like "
+"two circles around a cube. That is what you are looking for."
+msgstr ""
+
+#: dialogs/Engel.lua:271
+msgid "How about... Plasma Transistors? Trivial."
+msgstr ""
+
+#: dialogs/Engel.lua:272
+msgid "Remove the bot's engine and look around somewhere close to the battery."
+msgstr ""
+
+#: dialogs/Engel.lua:273
+msgid ""
+"Plasma Transistors are shaped like the letter Y. Just rip them out, it's "
+"safe."
+msgstr ""
+
+#: dialogs/Engel.lua:290
+msgid "Hmmm... Ah, gut. Superconductors."
+msgstr ""
+
+#: dialogs/Engel.lua:291
+msgid "They are relatively easy to get out."
+msgstr ""
+
+#: dialogs/Engel.lua:292
+msgid ""
+"Look around the electric system. Power coils, capacitors, generators and the "
+"like. Usually there are plenty of sehr gut parts there."
+msgstr ""
+
+#: dialogs/Engel.lua:293
+msgid "Wear rubber gloves. Just in case, you know."
+msgstr ""
+
+#: dialogs/Engel.lua:310
+msgid "I will tell you everything about Antimatter-Matter Converters."
+msgstr ""
+
+#: dialogs/Engel.lua:311
+msgid "Yes... Converters are a problem."
+msgstr ""
+
+#: dialogs/Engel.lua:312
+msgid ""
+"They are easy to find, all you have to do is to get to the engine. But you "
+"must remember something very important:"
+msgstr ""
+
+#: dialogs/Engel.lua:313
+msgid "Make sure you turn the Converter off before you remove it."
+msgstr ""
+
+#: dialogs/Engel.lua:314
+msgid ""
+"If you do not do that, you will only succeed in converting yourself to anti-"
+"matter. And as you know, there is no coming back from there."
+msgstr ""
+
+#: dialogs/Engel.lua:331
+msgid "I will teach you about Tachyon Condensators."
+msgstr ""
+
+#: dialogs/Engel.lua:332
+msgid ""
+"Tachyons are very interesting particles. Many stories have been told about "
+"them."
+msgstr ""
+
+#: dialogs/Engel.lua:333
+msgid ""
+"I have no idea why bots have them inside. They are usually not connected to "
+"anything and serve no function."
+msgstr ""
+
+#: dialogs/Engel.lua:334
+msgid ""
+"They are usually quite hot when you get them out, but they cool down "
+"quickly, so handling them is not a big deal."
+msgstr ""
+
+#: dialogs/Engel.lua:335
+msgid ""
+"They can be installed just about anywhere, so you have to spend some time "
+"digging through the circuits to find one."
+msgstr ""
+
+#: dialogs/Engel.lua:345
+msgid ""
+"Nein, I told you everything I know about that. No use asking me twice, ja?"
+msgstr ""
+
+#: dialogs/Engel.lua:364
+msgid "Goodbye and viel Gluck."
 msgstr ""

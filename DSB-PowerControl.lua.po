@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,10 +33,14 @@ msgstr ""
 msgid "*******"
 msgstr ""
 
-#: dialogs/DSB-PowerControl.lua:31
+#: dialogs/DSB-PowerControl.lua:32
 msgid "First login from /dev/ttySO on %s %d"
 msgstr ""
 
-#: dialogs/DSB-PowerControl.lua:43
-msgid "Exiting"
+#: dialogs/DSB-PowerControl.lua:37
+msgid "admin@main.pc.dsb.ms: ~ #"
+msgstr ""
+
+#: dialogs/DSB-PowerControl.lua:45
+msgid "Exiting..."
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -342,10 +342,6 @@ msgstr ""
 msgid "Restored Michelangelo's power supply"
 msgstr ""
 
-#: dialogs/Michelangelo.lua:296 dialogs/Michelangelo.lua:439
-msgid "Anything but the army snacks, please!"
-msgstr ""
-
 #: dialogs/Michelangelo.lua:306
 msgid ""
 "However I need at least three crystals. Can you come back with all the "
@@ -474,10 +470,6 @@ msgstr ""
 
 #: dialogs/Michelangelo.lua:404
 msgid "I guess I can spare one of them, since it is an emergency."
-msgstr ""
-
-#: dialogs/Michelangelo.lua:407
-msgid "SADD's power supply"
 msgstr ""
 
 #: dialogs/Michelangelo.lua:415

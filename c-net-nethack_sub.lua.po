@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -73,239 +73,239 @@ msgstr ""
 msgid "You drink from the spring at the entrance to the cave."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:367
+#: dialogs/c-net-nethack_sub.lua:369
 msgid "You present the [b]Amulet of Yendor[/b] to [b]"
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:368
+#: dialogs/c-net-nethack_sub.lua:370
 msgid "You win!"
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:369
+#: dialogs/c-net-nethack_sub.lua:371
 msgid "You ascended a "
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:373
+#: dialogs/c-net-nethack_sub.lua:375
 msgid "By ascending in Nethack, you have improved your Hacking ability!"
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:378
+#: dialogs/c-net-nethack_sub.lua:380
 msgid "You are on level [b]"
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:380
+#: dialogs/c-net-nethack_sub.lua:382
 msgid "You find yourself in a series of passages all alike."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:410
+#: dialogs/c-net-nethack_sub.lua:412
 msgid "angry woodchuck"
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:416
+#: dialogs/c-net-nethack_sub.lua:418
 msgid "dragon"
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:422
+#: dialogs/c-net-nethack_sub.lua:424
 msgid "balrog"
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:428
+#: dialogs/c-net-nethack_sub.lua:430
 msgid "clippy"
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:434
+#: dialogs/c-net-nethack_sub.lua:436
 msgid "politician"
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:439
+#: dialogs/c-net-nethack_sub.lua:441
 msgid "darkness"
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:443
+#: dialogs/c-net-nethack_sub.lua:445
 msgid "woodchuck"
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:449
+#: dialogs/c-net-nethack_sub.lua:451
 msgid "bureaucrat"
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:454
+#: dialogs/c-net-nethack_sub.lua:456
 msgid "A wild [b]"
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:460 dialogs/c-net-nethack_sub.lua:577
-#: dialogs/c-net-nethack_sub.lua:582 dialogs/c-net-nethack_sub.lua:589
-#: dialogs/c-net-nethack_sub.lua:623 dialogs/c-net-nethack_sub.lua:757
+#: dialogs/c-net-nethack_sub.lua:462 dialogs/c-net-nethack_sub.lua:579
+#: dialogs/c-net-nethack_sub.lua:584 dialogs/c-net-nethack_sub.lua:591
+#: dialogs/c-net-nethack_sub.lua:625 dialogs/c-net-nethack_sub.lua:759
 msgid "Your stats are: [b]"
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:472
+#: dialogs/c-net-nethack_sub.lua:474
 msgid "You attack the inanimate "
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:477
+#: dialogs/c-net-nethack_sub.lua:479
 msgid "Your fireball hits the "
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:485
+#: dialogs/c-net-nethack_sub.lua:487
 msgid "Your arrow misses the "
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:501 dialogs/c-net-nethack_sub.lua:507
+#: dialogs/c-net-nethack_sub.lua:503 dialogs/c-net-nethack_sub.lua:509
 msgid "You escape!"
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:512 dialogs/c-net-nethack_sub.lua:537
-#: dialogs/c-net-nethack_sub.lua:550 dialogs/c-net-nethack_sub.lua:559
-#: dialogs/c-net-nethack_sub.lua:655
+#: dialogs/c-net-nethack_sub.lua:514 dialogs/c-net-nethack_sub.lua:539
+#: dialogs/c-net-nethack_sub.lua:552 dialogs/c-net-nethack_sub.lua:561
+#: dialogs/c-net-nethack_sub.lua:657
 msgid "The "
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:528
+#: dialogs/c-net-nethack_sub.lua:530
 msgid "You toss a rock. The sound distracts the "
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:542
+#: dialogs/c-net-nethack_sub.lua:544
 msgid ""
 "Not having any tricks left, you resort to you trying your feminine wiles."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:545
+#: dialogs/c-net-nethack_sub.lua:547
 msgid "You succeed getting past the "
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:555 dialogs/c-net-nethack_sub.lua:723
+#: dialogs/c-net-nethack_sub.lua:557 dialogs/c-net-nethack_sub.lua:725
 msgid "You are now "
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:574 dialogs/c-net-nethack_sub.lua:579
+#: dialogs/c-net-nethack_sub.lua:576 dialogs/c-net-nethack_sub.lua:581
 msgid "Your goddess "
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:584
+#: dialogs/c-net-nethack_sub.lua:586
 msgid "Your enemy "
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:591 dialogs/c-net-nethack_sub.lua:601
+#: dialogs/c-net-nethack_sub.lua:593 dialogs/c-net-nethack_sub.lua:603
 msgid "Nothing happens."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:609
+#: dialogs/c-net-nethack_sub.lua:611
 msgid "You take a short nap."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:622
+#: dialogs/c-net-nethack_sub.lua:624
 msgid "You feel refreshed."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:629
+#: dialogs/c-net-nethack_sub.lua:631
 msgid "Suddenly you find yourself teleported to the next level."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:662
+#: dialogs/c-net-nethack_sub.lua:664
 msgid "You find prayer beads invoking the goodwill of the Random Number God."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:680
+#: dialogs/c-net-nethack_sub.lua:682
 msgid "You find a bandage and put it on."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:687
+#: dialogs/c-net-nethack_sub.lua:689
 msgid "Your health improves."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:694
+#: dialogs/c-net-nethack_sub.lua:696
 msgid "You find a tophat with a rabbit."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:706
+#: dialogs/c-net-nethack_sub.lua:708
 msgid "You reform your wicked ways, and join the side of good."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:711
+#: dialogs/c-net-nethack_sub.lua:713
 msgid "The urge to sin fills you, you now are evil!"
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:716
+#: dialogs/c-net-nethack_sub.lua:718
 msgid ""
 "You decide good and evil are too two sides of the same coin, so you take the "
 "coin."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:718
+#: dialogs/c-net-nethack_sub.lua:720
 msgid "Both "
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:720
+#: dialogs/c-net-nethack_sub.lua:722
 msgid "You put on a tarnished belt, and you feel something strange happen."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:729
+#: dialogs/c-net-nethack_sub.lua:731
 msgid "The devious "
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:739
+#: dialogs/c-net-nethack_sub.lua:741
 msgid "You dodge a blow from the "
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:748
+#: dialogs/c-net-nethack_sub.lua:750
 msgid "You died."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:754
+#: dialogs/c-net-nethack_sub.lua:756
 msgid "Game over."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:764
+#: dialogs/c-net-nethack_sub.lua:766
 msgid "> "
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:777 dialogs/c-net-nethack_sub.lua:780
+#: dialogs/c-net-nethack_sub.lua:779 dialogs/c-net-nethack_sub.lua:782
 msgid "You come to the end of level "
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:791
+#: dialogs/c-net-nethack_sub.lua:793
 msgid "You climb up the ladder with care."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:809
+#: dialogs/c-net-nethack_sub.lua:811
 msgid "You rappel down the pit to the level below."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:835
+#: dialogs/c-net-nethack_sub.lua:837
 msgid ""
 "Save game detected: %s %s %s %s in service to [b]%s[/b] on level [b]%d[/b]."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:837
+#: dialogs/c-net-nethack_sub.lua:839
 msgid "Save game has the [b]Amulet of Yendor[/b]!"
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:847
+#: dialogs/c-net-nethack_sub.lua:849
 msgid "[b]%d[/b] attack/armor, [b]%d[/b] tricks, and [b]%d[/b] health"
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:856
+#: dialogs/c-net-nethack_sub.lua:858
 msgid ""
 "[b]%s[/b], the enemy of your goddess [b]%s[/b], plans your demise with glee."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:857
+#: dialogs/c-net-nethack_sub.lua:859
 msgid ""
 "The vile god [b]%s[/b] cackles that you will again flee from the dungeon in "
 "terror!"
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:858
+#: dialogs/c-net-nethack_sub.lua:860
 msgid "[b]%s[/b] blesses your return to the dungeon."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:882
+#: dialogs/c-net-nethack_sub.lua:884
 msgid ""
 "Your stats are: [b]%d[/b] attack/armor, [b]%d[/b] tricks, and [b]%d[/b] "
 "health."
 msgstr ""
 
-#: dialogs/c-net-nethack_sub.lua:883
+#: dialogs/c-net-nethack_sub.lua:885
 msgid "A [b]%s[/b] is before you. What do you do?"
 msgstr ""

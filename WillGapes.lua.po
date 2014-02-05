@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,182 +49,178 @@ msgstr ""
 msgid "I see you're still alive. Maybe the robots won't win after all."
 msgstr ""
 
-#: dialogs/WillGapes.lua:54
+#: dialogs/WillGapes.lua:55
 msgid "My name is %s, and I'm here to stop the robots!"
 msgstr ""
 
-#: dialogs/WillGapes.lua:55
+#: dialogs/WillGapes.lua:56
 msgid "Stop them!? You can't. It's too late. The robots have killed everyone."
 msgstr ""
 
-#: dialogs/WillGapes.lua:63
+#: dialogs/WillGapes.lua:64
 msgid "Huh? Am I dreaming?"
 msgstr ""
 
-#: dialogs/WillGapes.lua:64
+#: dialogs/WillGapes.lua:65
 msgid "Sorry, I've always wanted to say that."
 msgstr ""
 
-#: dialogs/WillGapes.lua:65 dialogs/WillGapes.lua:74
+#: dialogs/WillGapes.lua:66 dialogs/WillGapes.lua:75
 msgid "Who are you really?"
 msgstr ""
 
-#: dialogs/WillGapes.lua:73
+#: dialogs/WillGapes.lua:74
 msgid ""
 "Wait, Stop! I'm worth billions of circuits... I'll give you anything. Just "
 "don't kill me!"
 msgstr ""
 
-#: dialogs/WillGapes.lua:82
+#: dialogs/WillGapes.lua:83
 msgid ""
 "Ha, they won't last long. The robots will destroy them all. It's hopeless!"
 msgstr ""
 
-#: dialogs/WillGapes.lua:90
+#: dialogs/WillGapes.lua:91
 msgid ""
 "Barely, all I've had to eat for the past few months were energy bars from "
 "the snack machine."
 msgstr ""
 
-#: dialogs/WillGapes.lua:91
+#: dialogs/WillGapes.lua:92
 msgid ""
 "Now all that's left are military rations, and I would rather starve than eat "
 "those!"
 msgstr ""
 
-#: dialogs/WillGapes.lua:99
+#: dialogs/WillGapes.lua:100
 msgid ""
 "My name is Will Gapes. I'm the chief software architect for MegaSys. I "
 "helped start the company."
 msgstr ""
 
-#: dialogs/WillGapes.lua:100
+#: dialogs/WillGapes.lua:101
 msgid "Without my help this company would still be learning BASIC!"
 msgstr ""
 
-#: dialogs/WillGapes.lua:101
+#: dialogs/WillGapes.lua:102
 msgid "Will Gapes - MegaSys CSA"
 msgstr ""
 
-#: dialogs/WillGapes.lua:109
+#: dialogs/WillGapes.lua:110
 msgid ""
 "If you bring me a well-cooked meal, I will tell you about Hell's Fortress."
 msgstr ""
 
-#: dialogs/WillGapes.lua:110
+#: dialogs/WillGapes.lua:111
 msgid "Trust me, you won't survive long in there without my help."
 msgstr ""
 
-#: dialogs/WillGapes.lua:111 dialogs/WillGapes.lua:137
-msgid "Gapes Gluttony"
-msgstr ""
-
-#: dialogs/WillGapes.lua:119
+#: dialogs/WillGapes.lua:120
 msgid "NO! It was the company's fault!"
 msgstr ""
 
-#: dialogs/WillGapes.lua:120
+#: dialogs/WillGapes.lua:121
 msgid "I told them the upgrade wasn't ready. It hadn't been fully tested."
 msgstr ""
 
-#: dialogs/WillGapes.lua:121
+#: dialogs/WillGapes.lua:122
 msgid "They wouldn't listen to me. They called me a fool! ME!?"
 msgstr ""
 
-#: dialogs/WillGapes.lua:122
+#: dialogs/WillGapes.lua:123
 msgid "Now they are all dead. Serves them right too!"
 msgstr ""
 
-#: dialogs/WillGapes.lua:130
+#: dialogs/WillGapes.lua:131
 msgid "It's about time! I'm starving."
 msgstr ""
 
-#: dialogs/WillGapes.lua:131
+#: dialogs/WillGapes.lua:132
 msgid "Oh, this is delicious!"
 msgstr ""
 
-#: dialogs/WillGapes.lua:132
+#: dialogs/WillGapes.lua:133
 msgid "[b]om nom nom[/b]"
 msgstr ""
 
-#: dialogs/WillGapes.lua:133
+#: dialogs/WillGapes.lua:134
 msgid "Um...You're welcome?"
 msgstr ""
 
-#: dialogs/WillGapes.lua:134
+#: dialogs/WillGapes.lua:135
 msgid "..."
 msgstr ""
 
-#: dialogs/WillGapes.lua:135
+#: dialogs/WillGapes.lua:136
 msgid "Now, how about some information?"
 msgstr ""
 
-#: dialogs/WillGapes.lua:136
+#: dialogs/WillGapes.lua:137
 msgid "OK, so what do you want to know?"
 msgstr ""
 
-#: dialogs/WillGapes.lua:148
+#: dialogs/WillGapes.lua:149
 msgid "I'm afraid so... It wasn't finished yet."
 msgstr ""
 
-#: dialogs/WillGapes.lua:149
+#: dialogs/WillGapes.lua:150
 msgid ""
 "The upgrade was supposed to revolutionize the world, but instead, it seems "
 "to have destroyed it."
 msgstr ""
 
-#: dialogs/WillGapes.lua:157
+#: dialogs/WillGapes.lua:158
 msgid "You must deactivate the energy supply."
 msgstr ""
 
-#: dialogs/WillGapes.lua:158
+#: dialogs/WillGapes.lua:159
 msgid "But the robots have sealed the doors shut."
 msgstr ""
 
-#: dialogs/WillGapes.lua:166
+#: dialogs/WillGapes.lua:167
 msgid "You might be able to get guest access."
 msgstr ""
 
-#: dialogs/WillGapes.lua:167
+#: dialogs/WillGapes.lua:168
 msgid ""
 "It was created to give clearance to the tourists when the factory was first "
 "built."
 msgstr ""
 
-#: dialogs/WillGapes.lua:168
+#: dialogs/WillGapes.lua:169
 msgid ""
 "Because the program hasn't been used in years, maybe the robots haven't "
 "disabled it."
 msgstr ""
 
-#: dialogs/WillGapes.lua:169
+#: dialogs/WillGapes.lua:170
 msgid ""
 "But you will have to find some other way into the headquarters. Guests were "
 "never given clearance."
 msgstr ""
 
-#: dialogs/WillGapes.lua:170
+#: dialogs/WillGapes.lua:171
 msgid "However, owners are."
 msgstr ""
 
-#: dialogs/WillGapes.lua:171
+#: dialogs/WillGapes.lua:172
 msgid ""
 "I guess that is all this otherwise worthless piece of paper is useful for "
 "anymore."
 msgstr ""
 
-#: dialogs/WillGapes.lua:172
+#: dialogs/WillGapes.lua:173
 msgid "Paper?"
 msgstr ""
 
-#: dialogs/WillGapes.lua:173
+#: dialogs/WillGapes.lua:174
 msgid "Sheet of cellulose."
 msgstr ""
 
-#: dialogs/WillGapes.lua:174
+#: dialogs/WillGapes.lua:175
 msgid "Here, take it."
 msgstr ""
 
-#: dialogs/WillGapes.lua:183
+#: dialogs/WillGapes.lua:184
 msgid "Be careful!"
 msgstr ""

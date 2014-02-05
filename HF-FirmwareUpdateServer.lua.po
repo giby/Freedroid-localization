@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,42 +45,43 @@ msgstr ""
 msgid "Currently deployed firmware is v. 5.0.8+worldto-nogpl."
 msgstr ""
 
-#: dialogs/HF-FirmwareUpdateServer.lua:65
+#: dialogs/HF-FirmwareUpdateServer.lua:66
 msgid "Currently deployed firmware is v. 5.0.8+%swashere+gpl"
 msgstr ""
 
-#: dialogs/HF-FirmwareUpdateServer.lua:73
+#: dialogs/HF-FirmwareUpdateServer.lua:74
 msgid "Compressing image...."
 msgstr ""
 
-#: dialogs/HF-FirmwareUpdateServer.lua:74
+#: dialogs/HF-FirmwareUpdateServer.lua:75
 msgid "Advertising update to clients..."
 msgstr ""
 
-#: dialogs/HF-FirmwareUpdateServer.lua:75
+#: dialogs/HF-FirmwareUpdateServer.lua:76
 msgid "Waiting for all connections...."
 msgstr ""
 
+#: dialogs/HF-FirmwareUpdateServer.lua:77
 #: dialogs/HF-FirmwareUpdateServer.lua:78
+msgid "..."
+msgstr ""
+
+#: dialogs/HF-FirmwareUpdateServer.lua:79
 msgid "Please resolve merge conflicts:"
 msgstr ""
 
-#: dialogs/HF-FirmwareUpdateServer.lua:80
+#: dialogs/HF-FirmwareUpdateServer.lua:81
 msgid "Conflicts resolved,"
 msgstr ""
 
-#: dialogs/HF-FirmwareUpdateServer.lua:81
+#: dialogs/HF-FirmwareUpdateServer.lua:82
 msgid "Firmware update propagated!"
 msgstr ""
 
-#: dialogs/HF-FirmwareUpdateServer.lua:83
-msgid "Propagating a faulty firmware update"
-msgstr ""
-
-#: dialogs/HF-FirmwareUpdateServer.lua:87
+#: dialogs/HF-FirmwareUpdateServer.lua:88
 msgid "Merge failed."
 msgstr ""
 
-#: dialogs/HF-FirmwareUpdateServer.lua:88
+#: dialogs/HF-FirmwareUpdateServer.lua:89
 msgid "Exiting..."
 msgstr ""

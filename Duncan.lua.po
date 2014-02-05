@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgstr ""
 msgid "Duncan McNamara, The Red Guard's resident bomb maker, at your service."
 msgstr ""
 
-#: dialogs/Duncan.lua:66 dialogs/Duncan.lua:346
+#: dialogs/Duncan.lua:66 dialogs/Duncan.lua:347
 msgid "Duncan - Bombmaker"
 msgstr ""
 
@@ -160,11 +160,6 @@ msgstr ""
 
 #: dialogs/Duncan.lua:179
 msgid "Good luck!"
-msgstr ""
-
-#: dialogs/Duncan.lua:180 dialogs/Duncan.lua:260 dialogs/Duncan.lua:266
-#: dialogs/Duncan.lua:318 dialogs/Duncan.lua:332
-msgid "Doing Duncan a favor"
 msgstr ""
 
 #: dialogs/Duncan.lua:188
@@ -345,55 +340,55 @@ msgstr ""
 msgid "But then again, neither are you, so my thoughts are, we are even."
 msgstr ""
 
-#: dialogs/Duncan.lua:344
+#: dialogs/Duncan.lua:345
 msgid "What do you mean? I am %s and not anyone else."
 msgstr ""
 
-#: dialogs/Duncan.lua:345
+#: dialogs/Duncan.lua:346
 msgid "And I am Duncan McNamara, the maker of grenades and nothing else."
 msgstr ""
 
-#: dialogs/Duncan.lua:347
+#: dialogs/Duncan.lua:348
 msgid "I believe the topic is thoroughly exhausted now."
 msgstr ""
 
-#: dialogs/Duncan.lua:355
+#: dialogs/Duncan.lua:356
 msgid "Twenty years ago, people were kinder to each other."
 msgstr ""
 
-#: dialogs/Duncan.lua:356
+#: dialogs/Duncan.lua:357
 msgid "I suggest you be kind to me as well, and I will be kind to you."
 msgstr ""
 
-#: dialogs/Duncan.lua:357
+#: dialogs/Duncan.lua:358
 msgid "That way I get to keep my secret, and you get to keep yours."
 msgstr ""
 
-#: dialogs/Duncan.lua:365
+#: dialogs/Duncan.lua:366
 msgid "And neither do I."
 msgstr ""
 
-#: dialogs/Duncan.lua:374
+#: dialogs/Duncan.lua:375
 msgid "I wish you cold winds."
 msgstr ""
 
-#: dialogs/Duncan.lua:375
+#: dialogs/Duncan.lua:376
 msgid ""
 "Huh? How do you know the Linarian farewell? No one around here knows it."
 msgstr ""
 
-#: dialogs/Duncan.lua:376
+#: dialogs/Duncan.lua:377
 msgid "I read many books on Linarians. That is all."
 msgstr ""
 
-#: dialogs/Duncan.lua:377
+#: dialogs/Duncan.lua:378
 msgid "Nothing more and nothing less."
 msgstr ""
 
-#: dialogs/Duncan.lua:385
+#: dialogs/Duncan.lua:386
 msgid "May the ice bring you wisdom."
 msgstr ""
 
-#: dialogs/Duncan.lua:397
+#: dialogs/Duncan.lua:398
 msgid "See you later."
 msgstr ""

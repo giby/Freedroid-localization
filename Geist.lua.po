@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,34 +17,34 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: dialogs/Geist.lua:35 dialogs/Geist.lua:63
+#: dialogs/Geist.lua:36 dialogs/Geist.lua:71
 msgid "Verschwinde!"
 msgstr ""
 
-#: dialogs/Geist.lua:43
+#: dialogs/Geist.lua:45
 msgid "Ich bin der Geist, der stets verneint."
 msgstr ""
 
-#: dialogs/Geist.lua:44
+#: dialogs/Geist.lua:47
 msgid "Und das mit Recht; denn alles, was entsteht,"
 msgstr ""
 
-#: dialogs/Geist.lua:45
+#: dialogs/Geist.lua:49
 msgid "ist wert, dass es zugrunde geht."
 msgstr ""
 
-#: dialogs/Geist.lua:53
+#: dialogs/Geist.lua:58
 msgid "Wer sie nicht kennte, die Elemente,"
 msgstr ""
 
-#: dialogs/Geist.lua:54
+#: dialogs/Geist.lua:60
 msgid "ihre Kraft und Eigenschaft,"
 msgstr ""
 
-#: dialogs/Geist.lua:55
+#: dialogs/Geist.lua:62
 msgid "waere kein Meister ueber die Geister."
 msgstr ""
 
-#: dialogs/Geist.lua:72
-msgid " . . ."
+#: dialogs/Geist.lua:80
+msgid ". . ."
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,10 +16,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#: dialogs/SACD.lua:31
-msgid "Tania's Escape"
-msgstr ""
 
 #: dialogs/SACD.lua:35
 msgid "Login : "
@@ -37,71 +33,71 @@ msgstr ""
 msgid "*******"
 msgstr ""
 
-#: dialogs/SACD.lua:40
+#: dialogs/SACD.lua:41
 msgid "First login from /dev/ttySO on %s %d"
 msgstr ""
 
-#: dialogs/SACD.lua:42
+#: dialogs/SACD.lua:44
 msgid "Last login from /dev/ttyS0 on %s %d"
 msgstr ""
 
-#: dialogs/SACD.lua:45 dialogs/SACD.lua:59 dialogs/SACD.lua:70
-#: dialogs/SACD.lua:99
+#: dialogs/SACD.lua:47 dialogs/SACD.lua:61 dialogs/SACD.lua:73
+#: dialogs/SACD.lua:102
 msgid "admin@sadefence: ~ #"
 msgstr ""
 
-#: dialogs/SACD.lua:53
+#: dialogs/SACD.lua:55
 msgid "Disabling guns..."
 msgstr ""
 
-#: dialogs/SACD.lua:54 dialogs/SACD.lua:68 dialogs/SACD.lua:78
+#: dialogs/SACD.lua:56 dialogs/SACD.lua:70 dialogs/SACD.lua:81
 msgid "Connecting to peripheral controller..."
 msgstr ""
 
-#: dialogs/SACD.lua:55
+#: dialogs/SACD.lua:57
 msgid "Guns disabled."
 msgstr ""
 
-#: dialogs/SACD.lua:67
+#: dialogs/SACD.lua:69
 msgid "Enabling guns..."
 msgstr ""
 
-#: dialogs/SACD.lua:69
+#: dialogs/SACD.lua:71
 msgid "ERROR: Guns cannot be enabled."
 msgstr ""
 
-#: dialogs/SACD.lua:77
+#: dialogs/SACD.lua:80
 msgid "Opening doors..."
 msgstr ""
 
-#: dialogs/SACD.lua:87
+#: dialogs/SACD.lua:90
 msgid "ERROR: An error occurred while opening some doors."
 msgstr ""
 
-#: dialogs/SACD.lua:88
+#: dialogs/SACD.lua:91
 msgid "Please enter unlock security override password:"
 msgstr ""
 
-#: dialogs/SACD.lua:89
+#: dialogs/SACD.lua:92
 msgid "CTRL+C"
 msgstr ""
 
-#: dialogs/SACD.lua:90
+#: dialogs/SACD.lua:93
 msgid "Invalid password. Entering lockdown mode."
 msgstr ""
 
-#: dialogs/SACD.lua:91
+#: dialogs/SACD.lua:94
 msgid "ERROR: Lockdown mode encountered an error."
 msgstr ""
 
-#: dialogs/SACD.lua:92
+#: dialogs/SACD.lua:95
 msgid "ERROR: error encountered an error."
 msgstr ""
 
-#: dialogs/SACD.lua:94
+#: dialogs/SACD.lua:97
 msgid "ERROR: SADD droids now set to search-and-destroy mode."
 msgstr ""
 
-#: dialogs/SACD.lua:96
+#: dialogs/SACD.lua:99
 msgid "SADD - Exterminate Mode"
 msgstr ""

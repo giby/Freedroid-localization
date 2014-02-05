@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -50,16 +50,8 @@ msgstr ""
 msgid "Well, hello again."
 msgstr ""
 
-#: dialogs/Kevin.lua:52
-msgid "A strange guy stealing from town"
-msgstr ""
-
-#: dialogs/Kevin.lua:60 dialogs/Kevin.lua:105 dialogs/Kevin.lua:259
-msgid "And there was light..."
-msgstr ""
-
 #: dialogs/Kevin.lua:70
-msgid "Oh, and did you play around with my Lawnmower?"
+msgid "Oh, and did you play around with my lawnmower?"
 msgstr ""
 
 #: dialogs/Kevin.lua:75
@@ -198,10 +190,6 @@ msgstr ""
 msgid ""
 "I'll give you the data cube. Take it to the computer cluster administration "
 "people. They will know what to do. And don't mention me there."
-msgstr ""
-
-#: dialogs/Kevin.lua:146
-msgid "A kingdom for a cluster!"
 msgstr ""
 
 #: dialogs/Kevin.lua:158
@@ -361,169 +349,173 @@ msgstr ""
 msgid "Three hundred per lesson, up front."
 msgstr ""
 
-#: dialogs/Kevin.lua:274
+#: dialogs/Kevin.lua:275
 msgid "You will need %d training points."
 msgstr ""
 
-#: dialogs/Kevin.lua:275
+#: dialogs/Kevin.lua:276
 msgid "Still interested?"
 msgstr ""
 
-#: dialogs/Kevin.lua:288
+#: dialogs/Kevin.lua:289
 msgid ""
 "Good. The most important thing about hacking is to understand the nature of "
 "the machine you want to hack."
 msgstr ""
 
-#: dialogs/Kevin.lua:289
+#: dialogs/Kevin.lua:290
 msgid ""
 "Once you have figured out what the creators of the system were thinking when "
 "setting it up, you'll also know how to best hack it."
 msgstr ""
 
-#: dialogs/Kevin.lua:290
+#: dialogs/Kevin.lua:291
 msgid ""
 "Now I see the feature set of your hacking program has already improved a lot."
 msgstr ""
 
-#: dialogs/Kevin.lua:306
+#: dialogs/Kevin.lua:307
 msgid "Hold on, I don't seem to have that much money right now."
 msgstr ""
 
-#: dialogs/Kevin.lua:308
+#: dialogs/Kevin.lua:309
 msgid "Ok, come back when you can afford to pay me if you are interested."
 msgstr ""
 
-#: dialogs/Kevin.lua:320
+#: dialogs/Kevin.lua:321
 msgid ""
 "Sorry, my memory data bank is filled to the brim right now. Can't learn more "
 "until I get some more experience."
 msgstr ""
 
-#: dialogs/Kevin.lua:322
+#: dialogs/Kevin.lua:323
 msgid ""
 "You Linarians are funny creatures. Come back later when you feel ready if "
 "you please."
 msgstr ""
 
-#: dialogs/Kevin.lua:337
+#: dialogs/Kevin.lua:338
 msgid "Strange, I should have a look at it..."
 msgstr ""
 
-#: dialogs/Kevin.lua:338
+#: dialogs/Kevin.lua:339
 msgid "...when I have more time.."
 msgstr ""
 
-#: dialogs/Kevin.lua:348
+#: dialogs/Kevin.lua:349
 msgid "Please, don't touch it."
 msgstr ""
 
-#: dialogs/Kevin.lua:349
+#: dialogs/Kevin.lua:350
 msgid "I don't want you to break it somehow."
 msgstr ""
 
-#: dialogs/Kevin.lua:352
+#: dialogs/Kevin.lua:353
 msgid "You better not touch it!"
 msgstr ""
 
-#: dialogs/Kevin.lua:353
+#: dialogs/Kevin.lua:354
 msgid "If you break it somehow, I'll be very angry."
 msgstr ""
 
-#: dialogs/Kevin.lua:354
+#: dialogs/Kevin.lua:355
 msgid "And I still have no time."
 msgstr ""
 
-#: dialogs/Kevin.lua:355
+#: dialogs/Kevin.lua:356
 msgid "The power level is still very low, hence, I am quite busy."
 msgstr ""
 
-#: dialogs/Kevin.lua:366
+#: dialogs/Kevin.lua:367
 msgid "You could just go around and enter by the main door."
 msgstr ""
 
-#: dialogs/Kevin.lua:367
+#: dialogs/Kevin.lua:368
 msgid "This way, you might waste time. You've optimized your path. Good job!"
 msgstr ""
 
-#: dialogs/Kevin.lua:368
+#: dialogs/Kevin.lua:369
 msgid "Thank you for your report, but I don't have time to fix it."
 msgstr ""
 
-#: dialogs/Kevin.lua:377
+#: dialogs/Kevin.lua:378
 msgid "You are really careful with the security of your mission."
 msgstr ""
 
-#: dialogs/Kevin.lua:378
+#: dialogs/Kevin.lua:379
 msgid "However don't destroy my equipment, I can support you to be stealthy."
 msgstr ""
 
-#: dialogs/Kevin.lua:379
+#: dialogs/Kevin.lua:380
 msgid "But later, maybe... I don't have time now."
 msgstr ""
 
-#: dialogs/Kevin.lua:388
+#: dialogs/Kevin.lua:389
 msgid ""
 "Oh, you have just entered by curiosity. I always fought for made it a "
 "exception to the rules."
 msgstr ""
 
-#: dialogs/Kevin.lua:389
+#: dialogs/Kevin.lua:390
 msgid ""
 "I like curiosity. I think it will has rocketed us on Mars. And beyond..."
 msgstr ""
 
-#: dialogs/Kevin.lua:390
+#: dialogs/Kevin.lua:391
 msgid "Thank you, I now know the issue, but I don't have time to fix it."
 msgstr ""
 
-#: dialogs/Kevin.lua:413
+#: dialogs/Kevin.lua:414
 msgid "Hey Linarian..."
 msgstr ""
 
-#: dialogs/Kevin.lua:414
+#: dialogs/Kevin.lua:415
 msgid "Mmmh, yes?"
 msgstr ""
 
-#: dialogs/Kevin.lua:415
+#: dialogs/Kevin.lua:416
 msgid "Do you know this feeling..."
 msgstr ""
 
-#: dialogs/Kevin.lua:416
-msgid "...when you get a really strange output..."
-msgstr ""
-
 #: dialogs/Kevin.lua:417
-msgid "... and you look at the code..."
+msgid "... when you get a really strange output..."
 msgstr ""
 
 #: dialogs/Kevin.lua:418
-msgid "... again and again..."
+msgid "... and you look at the code..."
 msgstr ""
 
 #: dialogs/Kevin.lua:419
-msgid "... but you see no path it could come from?"
+msgid "... again and again..."
 msgstr ""
 
 #: dialogs/Kevin.lua:420
-msgid "Hmm, yes, I get this sometimes..."
+msgid "... but you see no path it could come from?"
 msgstr ""
 
 #: dialogs/Kevin.lua:421
+msgid "Hmm, yes, I get this sometimes..."
+msgstr ""
+
+#: dialogs/Kevin.lua:422
 msgid ""
 "I checked online if there is a name for this symptom... but couldn't find "
 "anything..."
 msgstr ""
 
-#: dialogs/Kevin.lua:422
+#: dialogs/Kevin.lua:423
 msgid "I guess I am going to call it 'stdoubt'."
 msgstr ""
 
-#: dialogs/Kevin.lua:423
+#: dialogs/Kevin.lua:424
 msgid "Ok..."
 msgstr ""
 
-#: dialogs/Kevin.lua:426
+#: dialogs/Kevin.lua:425
+msgid "..."
+msgstr ""
+
+#: dialogs/Kevin.lua:427
 msgid ""
 "Be careful. The bots are in a foul mood today. Very easy to get killed. Very "
 "easy."

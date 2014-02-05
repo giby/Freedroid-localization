@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -65,10 +65,6 @@ msgid ""
 "Hydra has never let me down."
 msgstr ""
 
-#: dialogs/Richard.lua:65
-msgid "A kingdom for a cluster!"
-msgstr ""
-
 #: dialogs/Richard.lua:73
 msgid ""
 "Of course! I told you, Hydra has never failed me! I designed it myself, and "
@@ -119,26 +115,26 @@ msgid ""
 "until I get some more experience."
 msgstr ""
 
-#: dialogs/Richard.lua:97
+#: dialogs/Richard.lua:96
 msgid ""
 "You Linarians are funny creatures. Come back later when you feel ready if "
 "you please."
 msgstr ""
 
-#: dialogs/Richard.lua:112
+#: dialogs/Richard.lua:111
 msgid "I can teach you everything, for a price of course."
 msgstr ""
 
-#: dialogs/Richard.lua:113
+#: dialogs/Richard.lua:112
 msgid "Three hundred per lesson, up front."
 msgstr ""
 
-#: dialogs/Richard.lua:116
+#: dialogs/Richard.lua:115
 msgid "Sorry, there is no human alive that could give you further training."
 msgstr ""
 
 #: dialogs/Richard.lua:119
-msgid "You will need "
+msgid "You will need %d training points."
 msgstr ""
 
 #: dialogs/Richard.lua:120
@@ -162,14 +158,14 @@ msgid ""
 "Now I see the feature set of your hacking program has already improved a lot."
 msgstr ""
 
-#: dialogs/Richard.lua:149
+#: dialogs/Richard.lua:148
 msgid "Hold on, I don't seem to have enough money right now."
 msgstr ""
 
-#: dialogs/Richard.lua:152
+#: dialogs/Richard.lua:150
 msgid "Ok, come back when you can afford to pay me if you are interested."
 msgstr ""
 
-#: dialogs/Richard.lua:163
+#: dialogs/Richard.lua:161
 msgid "Take care, Linarian."
 msgstr ""

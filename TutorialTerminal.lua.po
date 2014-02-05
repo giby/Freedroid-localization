@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,54 +17,54 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: dialogs/TutorialTerminal.lua:30
-msgid "guest"
+#: dialogs/TutorialTerminal.lua:29
+msgid "Login : "
 msgstr ""
 
 #: dialogs/TutorialTerminal.lua:31
-msgid "Entering as Guest"
+msgid "guest"
 msgstr ""
 
-#: dialogs/TutorialTerminal.lua:34
-msgid "First login from /dev/ttySO on %s %d"
+#: dialogs/TutorialTerminal.lua:32
+msgid "Entering as guest"
 msgstr ""
 
 #: dialogs/TutorialTerminal.lua:36
+msgid "First login from /dev/ttySO on %s %d"
+msgstr ""
+
+#: dialogs/TutorialTerminal.lua:39
 msgid "Last login from /dev/ttyS0 on %s %d"
 msgstr ""
 
-#: dialogs/TutorialTerminal.lua:41 dialogs/TutorialTerminal.lua:73
+#: dialogs/TutorialTerminal.lua:44 dialogs/TutorialTerminal.lua:80
 msgid "Gate status: CLOSED"
 msgstr ""
 
-#: dialogs/TutorialTerminal.lua:44 dialogs/TutorialTerminal.lua:60
+#: dialogs/TutorialTerminal.lua:47 dialogs/TutorialTerminal.lua:65
 msgid "Gate status: OPEN"
 msgstr ""
 
-#: dialogs/TutorialTerminal.lua:47
-msgid "GAME BUG. PLEASE REPORT, TUTORIAL-TERMINAL EveryTime LuaCode"
-msgstr ""
-
-#: dialogs/TutorialTerminal.lua:58
+#: dialogs/TutorialTerminal.lua:63
 msgid "open gate"
 msgstr ""
 
-#: dialogs/TutorialTerminal.lua:59
+#: dialogs/TutorialTerminal.lua:64
 msgid "Access granted. Opening gate ..."
 msgstr ""
 
-#: dialogs/TutorialTerminal.lua:71
+#: dialogs/TutorialTerminal.lua:78
 msgid "close gate"
 msgstr ""
 
-#: dialogs/TutorialTerminal.lua:72
+#: dialogs/TutorialTerminal.lua:79
 msgid "Access granted. Closing gate ..."
 msgstr ""
 
-#: dialogs/TutorialTerminal.lua:84
+#: dialogs/TutorialTerminal.lua:93
 msgid "logout"
 msgstr ""
 
-#: dialogs/TutorialTerminal.lua:85
+#: dialogs/TutorialTerminal.lua:94
 msgid "Exiting..."
 msgstr ""

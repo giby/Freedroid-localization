@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,42 +33,38 @@ msgstr ""
 msgid "*******"
 msgstr ""
 
-#: dialogs/DSB-MachineDeckControl.lua:31
+#: dialogs/DSB-MachineDeckControl.lua:32
 msgid "First login from /dev/ttySO on %s %d"
 msgstr ""
 
-#: dialogs/DSB-MachineDeckControl.lua:47
+#: dialogs/DSB-MachineDeckControl.lua:48
 msgid "Changing password for admin. Enter new password: "
 msgstr ""
 
-#: dialogs/DSB-MachineDeckControl.lua:48
+#: dialogs/DSB-MachineDeckControl.lua:49
 msgid "Enter new password again: "
 msgstr ""
 
-#: dialogs/DSB-MachineDeckControl.lua:49
+#: dialogs/DSB-MachineDeckControl.lua:50
 msgid "Password successfully changed."
 msgstr ""
 
-#: dialogs/DSB-MachineDeckControl.lua:59
+#: dialogs/DSB-MachineDeckControl.lua:60
 msgid "Disabling disruptor shield... "
 msgstr ""
 
-#: dialogs/DSB-MachineDeckControl.lua:60
+#: dialogs/DSB-MachineDeckControl.lua:61
 msgid "Shield disabled."
 msgstr ""
 
-#: dialogs/DSB-MachineDeckControl.lua:62
-msgid "Opening access to MS Office"
-msgstr ""
-
-#: dialogs/DSB-MachineDeckControl.lua:67
+#: dialogs/DSB-MachineDeckControl.lua:68
 msgid "WARNING: Another user is using this computer."
 msgstr ""
 
-#: dialogs/DSB-MachineDeckControl.lua:68
+#: dialogs/DSB-MachineDeckControl.lua:69
 msgid "Disruptor shield is active."
 msgstr ""
 
-#: dialogs/DSB-MachineDeckControl.lua:77
-msgid "Exiting"
+#: dialogs/DSB-MachineDeckControl.lua:78
+msgid "Exiting..."
 msgstr ""

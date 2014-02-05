@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,188 +17,176 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: dialogs/MO-HFGateAccessServer.lua:43
+#: dialogs/MO-HFGateAccessServer.lua:44
 msgid ""
 "CAPTCHA: Please write the lowercase word that answers the following: %d - %d "
 "= ?"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:48
+#: dialogs/MO-HFGateAccessServer.lua:49
 msgid "Non-human detected. Administering paralyzing shock."
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:49
+#: dialogs/MO-HFGateAccessServer.lua:50
 msgid ""
 "NOTE: If you are a human, try again, and make sure you enter a word and not "
 "digits."
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:56
+#: dialogs/MO-HFGateAccessServer.lua:57
 msgid "Welcome to MS gate access server for region #54648."
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:58
+#: dialogs/MO-HFGateAccessServer.lua:59
 msgid "WHAT?!"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:59
-msgid "Propagating a faulty firmware update"
-msgstr ""
-
-#: dialogs/MO-HFGateAccessServer.lua:72
+#: dialogs/MO-HFGateAccessServer.lua:73
 msgid "Please select action"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:83
+#: dialogs/MO-HFGateAccessServer.lua:84
 msgid "status"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:85
+#: dialogs/MO-HFGateAccessServer.lua:86
 msgid "Gate 1 status: OPENED"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:87
+#: dialogs/MO-HFGateAccessServer.lua:88
 msgid "Gate 1 status: CLOSED"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:94
+#: dialogs/MO-HFGateAccessServer.lua:95
 msgid "Gate 2 status: OPENED"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:96
+#: dialogs/MO-HFGateAccessServer.lua:97
 msgid "Gate 2 status: CLOSED"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:112
+#: dialogs/MO-HFGateAccessServer.lua:113
 msgid "open gate"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:113
+#: dialogs/MO-HFGateAccessServer.lua:114
 msgid "Permission denied"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:127
-msgid "sudo !!"
-msgstr ""
-
-#: dialogs/MO-HFGateAccessServer.lua:128
-msgid "sudo open gates"
-msgstr ""
-
-#: dialogs/MO-HFGateAccessServer.lua:129
+#: dialogs/MO-HFGateAccessServer.lua:130
 msgid "Which gates do you want to open?"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:134
+#: dialogs/MO-HFGateAccessServer.lua:135
 msgid "Permission denied."
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:147
+#: dialogs/MO-HFGateAccessServer.lua:148
 msgid "man open gates"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:148
+#: dialogs/MO-HFGateAccessServer.lua:149
 msgid "NAME"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:149
+#: dialogs/MO-HFGateAccessServer.lua:150
 msgid " open gates -- opens gates via console"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:151
+#: dialogs/MO-HFGateAccessServer.lua:152
 msgid "SYNOPSIS"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:152
+#: dialogs/MO-HFGateAccessServer.lua:153
 msgid " open gates --inner --outer"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:153
+#: dialogs/MO-HFGateAccessServer.lua:154
 msgid " "
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:154
+#: dialogs/MO-HFGateAccessServer.lua:155
 msgid "DESCRIPTION"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:155
+#: dialogs/MO-HFGateAccessServer.lua:156
 msgid " Opens gates via console. Awesome, isn't it?"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:157
+#: dialogs/MO-HFGateAccessServer.lua:158
 msgid "OPTIONS"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:158
+#: dialogs/MO-HFGateAccessServer.lua:159
 msgid " --inner"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:159
+#: dialogs/MO-HFGateAccessServer.lua:160
 msgid " Opens the inner gate."
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:161
+#: dialogs/MO-HFGateAccessServer.lua:162
 msgid " --outer"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:162
+#: dialogs/MO-HFGateAccessServer.lua:163
 msgid " Opens the outer gate."
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:164
+#: dialogs/MO-HFGateAccessServer.lua:165
 msgid "SEE ALSO"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:165
+#: dialogs/MO-HFGateAccessServer.lua:166
 msgid " These are not the gates you are looking for."
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:167
+#: dialogs/MO-HFGateAccessServer.lua:168
 msgid "AUTHOR"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:168
+#: dialogs/MO-HFGateAccessServer.lua:169
 msgid " The Hell Fortress GateAccessServer Manual Writer"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:170
+#: dialogs/MO-HFGateAccessServer.lua:171
 msgid " February 22, 1992"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:179
+#: dialogs/MO-HFGateAccessServer.lua:180
 msgid "open gates --inner"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:180 dialogs/MO-HFGateAccessServer.lua:214
+#: dialogs/MO-HFGateAccessServer.lua:181 dialogs/MO-HFGateAccessServer.lua:215
 msgid "inner gate opened"
-msgstr ""
-
-#: dialogs/MO-HFGateAccessServer.lua:181 dialogs/MO-HFGateAccessServer.lua:198
-#: dialogs/MO-HFGateAccessServer.lua:216
-msgid "[b]WARNING[/b]:"
 msgstr ""
 
 #: dialogs/MO-HFGateAccessServer.lua:182 dialogs/MO-HFGateAccessServer.lua:199
 #: dialogs/MO-HFGateAccessServer.lua:217
+msgid "[b]WARNING[/b]:"
+msgstr ""
+
+#: dialogs/MO-HFGateAccessServer.lua:183 dialogs/MO-HFGateAccessServer.lua:200
+#: dialogs/MO-HFGateAccessServer.lua:218
 msgid "Anomalies detected!"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:196
+#: dialogs/MO-HFGateAccessServer.lua:197
 msgid "open gates --outer"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:197 dialogs/MO-HFGateAccessServer.lua:215
+#: dialogs/MO-HFGateAccessServer.lua:198 dialogs/MO-HFGateAccessServer.lua:216
 msgid "outer gate opened"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:213
+#: dialogs/MO-HFGateAccessServer.lua:214
 msgid "open gates --inner --outer"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:229
+#: dialogs/MO-HFGateAccessServer.lua:230
 msgid "logout"
 msgstr ""
 
-#: dialogs/MO-HFGateAccessServer.lua:230
+#: dialogs/MO-HFGateAccessServer.lua:231
 msgid "exiting..."
 msgstr ""

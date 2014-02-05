@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -82,7 +82,7 @@ msgid "I KNOW! I KNOW!"
 msgstr ""
 
 #: dialogs/Sorenson.lua:51
-msgid "Oh."
+msgid "Oh!"
 msgstr ""
 
 #: dialogs/Sorenson.lua:52
@@ -173,66 +173,66 @@ msgstr ""
 msgid "519n 17!!!!"
 msgstr ""
 
-#: dialogs/Sorenson.lua:179
+#: dialogs/Sorenson.lua:180
 msgid "4444! 17 burn5! 7'm m3171n9!"
 msgstr ""
 
-#: dialogs/Sorenson.lua:180
+#: dialogs/Sorenson.lua:182
 msgid "44444444444444444!"
 msgstr ""
 
-#: dialogs/Sorenson.lua:189
+#: dialogs/Sorenson.lua:192
 msgid "H4! Y0ur s0ul 15 min3, Francis!"
 msgstr ""
 
-#: dialogs/Sorenson.lua:190
+#: dialogs/Sorenson.lua:194
 msgid "Wh47? N07 w0rk1b9?"
 msgstr ""
 
-#: dialogs/Sorenson.lua:191
+#: dialogs/Sorenson.lua:195
 msgid "Erm. I have a confession to make. My name is not Francis."
 msgstr ""
 
-#: dialogs/Sorenson.lua:192
+#: dialogs/Sorenson.lua:196
 msgid "N0000000000!!!!!!!"
 msgstr ""
 
-#: dialogs/Sorenson.lua:203
+#: dialogs/Sorenson.lua:207
 msgid "Huh?"
 msgstr ""
 
-#: dialogs/Sorenson.lua:204
+#: dialogs/Sorenson.lua:208
 msgid "I... Don't feel... good... Blood loss... So... Cold..."
 msgstr ""
 
-#: dialogs/Sorenson.lua:205
+#: dialogs/Sorenson.lua:210
 msgid "N0! Idi07!"
 msgstr ""
 
-#: dialogs/Sorenson.lua:216
+#: dialogs/Sorenson.lua:222
 msgid "N0! S7up1d illi73r4t3 p3n9u1n! D13!!"
 msgstr ""
 
-#: dialogs/Sorenson.lua:227
+#: dialogs/Sorenson.lua:234
 msgid "Yes! I am free! At last I am free!"
 msgstr ""
 
-#: dialogs/Sorenson.lua:230
+#: dialogs/Sorenson.lua:238
 msgid "W417... 1 f331... H0rr1b13..."
 msgstr ""
 
-#: dialogs/Sorenson.lua:231
+#: dialogs/Sorenson.lua:239
 msgid "Yes, fool! You have freed me! I can finally die! Goodbye idiot!"
 msgstr ""
 
-#: dialogs/Sorenson.lua:242
+#: dialogs/Sorenson.lua:251
 msgid "N00oo00oo0! T1m3 to d1e, m0rtal foo1!"
 msgstr ""
 
-#: dialogs/Sorenson.lua:253
+#: dialogs/Sorenson.lua:263
 msgid "N00oo00oo0! T1m3 to d1e, m0rta1 foo1!"
 msgstr ""
 
-#: dialogs/Sorenson.lua:263
+#: dialogs/Sorenson.lua:273
 msgid "Please come back later, Linarian. We must talk again."
 msgstr ""

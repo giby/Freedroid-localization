@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -164,7 +164,7 @@ msgid ""
 "putting up a REAL good fight."
 msgstr ""
 
-#: dialogs/Stone.lua:145 dialogs/Stone.lua:231
+#: dialogs/Stone.lua:145 dialogs/Stone.lua:233
 msgid "Lily Stone - Shop owner"
 msgstr ""
 
@@ -204,11 +204,6 @@ msgid ""
 "about two thousand circuits."
 msgstr ""
 
-#: dialogs/Stone.lua:170 dialogs/Stone.lua:195 dialogs/Stone.lua:234
-#: dialogs/Stone.lua:246 dialogs/Stone.lua:261
-msgid "Saving the shop"
-msgstr ""
-
 #: dialogs/Stone.lua:179
 msgid "Yes. A tradition of six generations will die with this shop..."
 msgstr ""
@@ -237,7 +232,7 @@ msgstr ""
 msgid "Oh thank you!"
 msgstr ""
 
-#: dialogs/Stone.lua:197 dialogs/Stone.lua:212
+#: dialogs/Stone.lua:197 dialogs/Stone.lua:213
 msgid "Hold on a minute, you are still a bit short on money."
 msgstr ""
 
@@ -269,76 +264,76 @@ msgstr ""
 msgid "Wait a second... I think I recognize you..."
 msgstr ""
 
-#: dialogs/Stone.lua:207
+#: dialogs/Stone.lua:208
 msgid "You are %s, aren't you...?"
 msgstr ""
 
-#: dialogs/Stone.lua:208
+#: dialogs/Stone.lua:209
 msgid "The hero..."
 msgstr ""
 
-#: dialogs/Stone.lua:213
+#: dialogs/Stone.lua:214
 msgid "Please return with the full amount if you want to help."
 msgstr ""
 
-#: dialogs/Stone.lua:214
+#: dialogs/Stone.lua:215
 msgid ""
 "Otherwise you're throwing good money after bad, and I couldn't let you do "
 "that."
 msgstr ""
 
-#: dialogs/Stone.lua:225
+#: dialogs/Stone.lua:226
 msgid ""
 "I thought so. My grandfather used to tell me stories about you. He said you "
 "would come here in a time of despair."
 msgstr ""
 
-#: dialogs/Stone.lua:226
+#: dialogs/Stone.lua:227
 msgid "And here you are."
 msgstr ""
 
-#: dialogs/Stone.lua:227
+#: dialogs/Stone.lua:228
 msgid "I hope your arrival changes the tide of this war..."
 msgstr ""
 
-#: dialogs/Stone.lua:228
+#: dialogs/Stone.lua:229
 msgid ""
 "I have something here for you. I managed to hide this Shotgun from the Red "
 "Guard."
 msgstr ""
 
-#: dialogs/Stone.lua:229
+#: dialogs/Stone.lua:230
 msgid ""
 "It used to belong to my grandfather, so it's very dear to me, but I'm sure "
 "he would have like you to have it on your journey to save us all."
 msgstr ""
 
-#: dialogs/Stone.lua:230
+#: dialogs/Stone.lua:232
 msgid ""
 "%s, if you ever find out who started the Great Assault... GIVE THEM A SWIFT "
 "KICK FROM LILY STONE!!!"
 msgstr ""
 
-#: dialogs/Stone.lua:244
+#: dialogs/Stone.lua:246
 msgid "If you want to remain a stranger, I will respect your wishes."
 msgstr ""
 
-#: dialogs/Stone.lua:245
+#: dialogs/Stone.lua:247
 msgid "So be it."
 msgstr ""
 
-#: dialogs/Stone.lua:256
+#: dialogs/Stone.lua:258
 msgid "You... monster..."
 msgstr ""
 
-#: dialogs/Stone.lua:257
+#: dialogs/Stone.lua:259
 msgid "No one makes fun of Lily Stone's family store!"
 msgstr ""
 
-#: dialogs/Stone.lua:258
+#: dialogs/Stone.lua:260
 msgid "Say your prayers, you oversized duck!!!"
 msgstr ""
 
-#: dialogs/Stone.lua:271
+#: dialogs/Stone.lua:273
 msgid "Have a nice day!"
 msgstr ""

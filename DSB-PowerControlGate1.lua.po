@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,49 +41,49 @@ msgstr ""
 msgid " "
 msgstr ""
 
-#: dialogs/DSB-PowerControlGate1.lua:36
+#: dialogs/DSB-PowerControlGate1.lua:37
 msgid "First login from /dev/ttySO on %s %d"
 msgstr ""
 
-#: dialogs/DSB-PowerControlGate1.lua:38
+#: dialogs/DSB-PowerControlGate1.lua:40
 msgid "Last login from /dev/ttyS0 on %s %d"
 msgstr ""
 
-#: dialogs/DSB-PowerControlGate1.lua:48
+#: dialogs/DSB-PowerControlGate1.lua:50
 msgid "GAME BUG. PLEASE REPORT."
 msgstr ""
 
-#: dialogs/DSB-PowerControlGate1.lua:58 dialogs/DSB-PowerControlGate1.lua:62
-#: dialogs/DSB-PowerControlGate1.lua:77
+#: dialogs/DSB-PowerControlGate1.lua:60 dialogs/DSB-PowerControlGate1.lua:64
+#: dialogs/DSB-PowerControlGate1.lua:79
 msgid "Gate status: CLOSED"
 msgstr ""
 
-#: dialogs/DSB-PowerControlGate1.lua:59
+#: dialogs/DSB-PowerControlGate1.lua:61
 msgid "Security Access to this area denied."
 msgstr ""
 
-#: dialogs/DSB-PowerControlGate1.lua:60
+#: dialogs/DSB-PowerControlGate1.lua:62
 msgid ""
 "Contact personnel in the Machine Deck Control Room if you believe this to be "
 "an error."
 msgstr ""
 
-#: dialogs/DSB-PowerControlGate1.lua:63
+#: dialogs/DSB-PowerControlGate1.lua:65
 msgid "Access granted. Opening gate ..."
 msgstr ""
 
-#: dialogs/DSB-PowerControlGate1.lua:64 dialogs/DSB-PowerControlGate1.lua:75
+#: dialogs/DSB-PowerControlGate1.lua:66 dialogs/DSB-PowerControlGate1.lua:77
 msgid "Gate status: OPEN"
 msgstr ""
 
-#: dialogs/DSB-PowerControlGate1.lua:76
+#: dialogs/DSB-PowerControlGate1.lua:78
 msgid "Access granted. Closing gate ..."
 msgstr ""
 
-#: dialogs/DSB-PowerControlGate1.lua:87
+#: dialogs/DSB-PowerControlGate1.lua:89
 msgid "Exiting"
 msgstr ""
 
-#: dialogs/DSB-PowerControlGate1.lua:88
+#: dialogs/DSB-PowerControlGate1.lua:90
 msgid "Have a nice day."
 msgstr ""

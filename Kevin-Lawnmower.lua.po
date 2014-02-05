@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -73,7 +73,7 @@ msgstr ""
 msgid "Recommended energy source: [b]Barf's Energy Drink[/b]"
 msgstr ""
 
-#: dialogs/Kevin-Lawnmower.lua:55 dialogs/Kevin-Lawnmower.lua:180
+#: dialogs/Kevin-Lawnmower.lua:55 dialogs/Kevin-Lawnmower.lua:184
 msgid "Resuming hibernation..."
 msgstr ""
 
@@ -145,7 +145,7 @@ msgstr ""
 msgid "fuel_level"
 msgstr ""
 
-#: dialogs/Kevin-Lawnmower.lua:118 dialogs/Kevin-Lawnmower.lua:190
+#: dialogs/Kevin-Lawnmower.lua:118 dialogs/Kevin-Lawnmower.lua:194
 msgid "exit"
 msgstr ""
 
@@ -161,70 +161,70 @@ msgstr ""
 msgid "Printing fuel level..."
 msgstr ""
 
-#: dialogs/Kevin-Lawnmower.lua:141
+#: dialogs/Kevin-Lawnmower.lua:142
 msgid "WARNING, less than [b]5%%[/b] fuel remaining!"
 msgstr ""
 
-#: dialogs/Kevin-Lawnmower.lua:143
+#: dialogs/Kevin-Lawnmower.lua:145
 msgid "[b]%s[/b]%% remaining"
 msgstr ""
 
-#: dialogs/Kevin-Lawnmower.lua:145
+#: dialogs/Kevin-Lawnmower.lua:147
 msgid "Tank completely refilled."
 msgstr ""
 
-#: dialogs/Kevin-Lawnmower.lua:155
+#: dialogs/Kevin-Lawnmower.lua:157
 msgid "So, where do I have to put in the drink...?"
 msgstr ""
 
-#: dialogs/Kevin-Lawnmower.lua:156
+#: dialogs/Kevin-Lawnmower.lua:158
 msgid "Ah, here!"
 msgstr ""
 
-#: dialogs/Kevin-Lawnmower.lua:157
+#: dialogs/Kevin-Lawnmower.lua:159
 msgid "[b]glug glug glug[/b]"
 msgstr ""
 
-#: dialogs/Kevin-Lawnmower.lua:158
+#: dialogs/Kevin-Lawnmower.lua:160
 msgid "Tank refilled."
 msgstr ""
 
-#: dialogs/Kevin-Lawnmower.lua:159
+#: dialogs/Kevin-Lawnmower.lua:161
 msgid "Fuel status:"
 msgstr ""
 
-#: dialogs/Kevin-Lawnmower.lua:160
+#: dialogs/Kevin-Lawnmower.lua:163
 msgid "[b]100[/b]%%!"
 msgstr ""
 
-#: dialogs/Kevin-Lawnmower.lua:161
+#: dialogs/Kevin-Lawnmower.lua:164
 msgid "This will approximately suffice for:"
 msgstr ""
 
-#: dialogs/Kevin-Lawnmower.lua:162
+#: dialogs/Kevin-Lawnmower.lua:165
 msgid "1 month and 14 days."
 msgstr ""
 
-#: dialogs/Kevin-Lawnmower.lua:163
+#: dialogs/Kevin-Lawnmower.lua:166
 msgid "Dropping waste product of last fuel filling..."
 msgstr ""
 
-#: dialogs/Kevin-Lawnmower.lua:164
+#: dialogs/Kevin-Lawnmower.lua:167
 msgid "Done."
 msgstr ""
 
-#: dialogs/Kevin-Lawnmower.lua:177
+#: dialogs/Kevin-Lawnmower.lua:180
 msgid "Sorry, tin can."
 msgstr ""
 
-#: dialogs/Kevin-Lawnmower.lua:178
+#: dialogs/Kevin-Lawnmower.lua:181
 msgid "Import error: [b]null[/b] fuel received."
 msgstr ""
 
-#: dialogs/Kevin-Lawnmower.lua:179
+#: dialogs/Kevin-Lawnmower.lua:183
 msgid "WARNING, less than [b]5[/b]%% fuel remaining!"
 msgstr ""
 
-#: dialogs/Kevin-Lawnmower.lua:191
+#: dialogs/Kevin-Lawnmower.lua:195
 msgid "exiting..."
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,352 +25,352 @@ msgstr ""
 msgid "Hey, man! I'm Bender, the dead man of this town. And you?"
 msgstr ""
 
-#: dialogs/Bender.lua:27
+#: dialogs/Bender.lua:26
+msgid "Bender"
+msgstr ""
+
+#: dialogs/Bender.lua:28
 msgid "I'm %s. I'm fine, thank you."
 msgstr ""
 
-#: dialogs/Bender.lua:33
+#: dialogs/Bender.lua:34
 msgid "Hello!"
 msgstr ""
 
-#: dialogs/Bender.lua:34
+#: dialogs/Bender.lua:35
 msgid "Hey, man!"
 msgstr ""
 
-#: dialogs/Bender.lua:35
+#: dialogs/Bender.lua:36
 msgid "How are you doing?"
 msgstr ""
 
-#: dialogs/Bender.lua:38 dialogs/Bender.lua:66
+#: dialogs/Bender.lua:39 dialogs/Bender.lua:68
 msgid "Too bad. I have never felt so sick."
 msgstr ""
 
-#: dialogs/Bender.lua:39 dialogs/Bender.lua:67
+#: dialogs/Bender.lua:40 dialogs/Bender.lua:69
 msgid "Let me die, man!"
 msgstr ""
 
-#: dialogs/Bender.lua:49 dialogs/Bender.lua:55 dialogs/Bender.lua:63
+#: dialogs/Bender.lua:50 dialogs/Bender.lua:57 dialogs/Bender.lua:65
 msgid "Much better. I'm cured. You're a good guy, man!"
 msgstr ""
 
-#: dialogs/Bender.lua:50
+#: dialogs/Bender.lua:51
 msgid "What was your name again?"
 msgstr ""
 
-#: dialogs/Bender.lua:52
+#: dialogs/Bender.lua:54
 msgid "Thanks %s, I owe you one."
 msgstr ""
 
-#: dialogs/Bender.lua:53
+#: dialogs/Bender.lua:55
 msgid "And I'll sure vote for you, if you want into the Red Guard!"
 msgstr ""
 
-#: dialogs/Bender.lua:56
+#: dialogs/Bender.lua:58
 msgid "Congratulations on getting into the Red Guard!"
 msgstr ""
 
-#: dialogs/Bender.lua:57
+#: dialogs/Bender.lua:59
 msgid "I voted for you and that was what got you in!"
 msgstr ""
 
-#: dialogs/Bender.lua:58
+#: dialogs/Bender.lua:60
 msgid ""
 "I said we'd be buddies, didn't I? Want to stand guard at the gate with me? "
 "It gets boring with just that 614 to talk to."
 msgstr ""
 
-#: dialogs/Bender.lua:59
+#: dialogs/Bender.lua:61
 msgid "I could tell you all the secrets of the Red Guard."
 msgstr ""
 
-#: dialogs/Bender.lua:92
+#: dialogs/Bender.lua:94
 msgid ""
 "Yeah. I'm the strongest man in all the world. That's 'cause I took ALL of "
 "the strength pills."
 msgstr ""
 
-#: dialogs/Bender.lua:93
+#: dialogs/Bender.lua:95
 msgid ""
 "And yet, I might be dead soon. The doc warned me, but I didn't listen. GRAH!"
 msgstr ""
 
-#: dialogs/Bender.lua:94
+#: dialogs/Bender.lua:96
 msgid "Bender - The strongest one"
 msgstr ""
 
-#: dialogs/Bender.lua:104
+#: dialogs/Bender.lua:106
 msgid ""
 "Nah. The strength pills were fine. They made me strong. The doc said so."
 msgstr ""
 
-#: dialogs/Bender.lua:105 dialogs/Bender.lua:114
+#: dialogs/Bender.lua:107 dialogs/Bender.lua:116
 msgid "It was the brain enlargement pills. They did me no good, man."
 msgstr ""
 
-#: dialogs/Bender.lua:123
+#: dialogs/Bender.lua:125
 msgid "You know man, I got those offers everybody gets."
 msgstr ""
 
-#: dialogs/Bender.lua:124
+#: dialogs/Bender.lua:126
 msgid "They offer some brain enlargement pills to enhance brain performance."
 msgstr ""
 
-#: dialogs/Bender.lua:125
+#: dialogs/Bender.lua:127
 msgid "'Enlarg3 your brain! Bu.y pi11s! Che4p!!11!!!'"
 msgstr ""
 
-#: dialogs/Bender.lua:126
+#: dialogs/Bender.lua:128
 msgid ""
 "And everybody in the town said I was dumb, which by the way IS NOT TRUE."
 msgstr ""
 
-#: dialogs/Bender.lua:127
+#: dialogs/Bender.lua:129
 msgid "So I thought these pills might make them think differently about me."
 msgstr ""
 
-#: dialogs/Bender.lua:136
+#: dialogs/Bender.lua:138
 msgid "Because they said I was dumb. So I had to do something about it, eh?"
 msgstr ""
 
-#: dialogs/Bender.lua:145
+#: dialogs/Bender.lua:147
 msgid ""
 "Yeah, the doc could help. But he won't. I've threatened him, but he won't."
 msgstr ""
 
-#: dialogs/Bender.lua:146
+#: dialogs/Bender.lua:148
 msgid ""
 "He's so angry cause I didn't listen. He warned me about the brain "
 "enlargement pill offers."
 msgstr ""
 
-#: dialogs/Bender.lua:147
+#: dialogs/Bender.lua:149
 msgid ""
 "They can cause some awful forms of cancer. But I didn't listen. And now he "
 "refuses to help me, man."
 msgstr ""
 
-#: dialogs/Bender.lua:156
+#: dialogs/Bender.lua:158
 msgid ""
 "Man, if you could do that, I'd give you everything. I still got some of "
 "those strength pills left."
 msgstr ""
 
-#: dialogs/Bender.lua:158
+#: dialogs/Bender.lua:160
 msgid "Also I could vote for you if you seek to join the guard of the town."
 msgstr ""
 
-#: dialogs/Bender.lua:160
+#: dialogs/Bender.lua:162
 msgid "Just get me a cure, and I'll be forever grateful!"
 msgstr ""
 
-#: dialogs/Bender.lua:161 dialogs/Bender.lua:208
-msgid "Bender's problem"
-msgstr ""
-
-#: dialogs/Bender.lua:172
+#: dialogs/Bender.lua:174
 msgid ""
 "Of course not. You're not a doctor. Only the doctor has the right medicine."
 msgstr ""
 
-#: dialogs/Bender.lua:173
+#: dialogs/Bender.lua:175
 msgid "But this rat would rather let me die!"
 msgstr ""
 
-#: dialogs/Bender.lua:174
+#: dialogs/Bender.lua:176
 msgid "I'll rip his guts out as soon as I get my hands on him, man!"
 msgstr ""
 
-#: dialogs/Bender.lua:184
+#: dialogs/Bender.lua:186
 msgid ""
 "No, the doc still refuses. I've tried to fetch the medicine by force with "
 "little luck."
 msgstr ""
 
-#: dialogs/Bender.lua:185
+#: dialogs/Bender.lua:187
 msgid ""
 "No matter how hard I shake him, the rat has never accepted. He's so angry "
 "'cause I didn't listen."
 msgstr ""
 
-#: dialogs/Bender.lua:186
+#: dialogs/Bender.lua:188
 msgid "Nobody else has the right medicine. I need a way to get it from him!"
 msgstr ""
 
-#: dialogs/Bender.lua:195
+#: dialogs/Bender.lua:197
 msgid "Wow, you really did it! I guess you beat the hell out of him."
 msgstr ""
 
-#: dialogs/Bender.lua:196
+#: dialogs/Bender.lua:198
 msgid "He wouldn't help me even after I pounded him a bit. A big bit."
 msgstr ""
 
-#: dialogs/Bender.lua:197
+#: dialogs/Bender.lua:199
 msgid "Man, you are the greatest hero!"
 msgstr ""
 
-#: dialogs/Bender.lua:199
+#: dialogs/Bender.lua:201
 msgid ""
 "Here, take this as a reward - and you can be sure that I'll vote for you if "
 "you seek membership in the Red Guard!"
 msgstr ""
 
-#: dialogs/Bender.lua:201
+#: dialogs/Bender.lua:203
 msgid "Here, take this as a reward."
 msgstr ""
 
-#: dialogs/Bender.lua:203
+#: dialogs/Bender.lua:205
 msgid "Thanks, man!"
 msgstr ""
 
-#: dialogs/Bender.lua:219
+#: dialogs/Bender.lua:221
 msgid "WHAT? Did you just say I'm stupid?"
 msgstr ""
 
-#: dialogs/Bender.lua:220
+#: dialogs/Bender.lua:222
 msgid "Don't say it, man."
 msgstr ""
 
-#: dialogs/Bender.lua:221
+#: dialogs/Bender.lua:223
 msgid "I can kill you so much, that no one will recognize you!"
 msgstr ""
 
-#: dialogs/Bender.lua:229
+#: dialogs/Bender.lua:231
 msgid "He's right inside this building. I'm waiting here for him, man."
 msgstr ""
 
-#: dialogs/Bender.lua:230
+#: dialogs/Bender.lua:232
 msgid ""
 "When he comes out, maybe I can pound him some more. Maybe then he'll help me "
 "at last!"
 msgstr ""
 
-#: dialogs/Bender.lua:231
+#: dialogs/Bender.lua:233
 msgid "Yes, he'll get a good beating. That will make him reconsider! That rat!"
 msgstr ""
 
-#: dialogs/Bender.lua:239
+#: dialogs/Bender.lua:241
 msgid "Did you get it?"
 msgstr ""
 
-#: dialogs/Bender.lua:240
+#: dialogs/Bender.lua:242
 msgid "What? You didn't get it?"
 msgstr ""
 
-#: dialogs/Bender.lua:241
+#: dialogs/Bender.lua:243
 msgid "Man, what are you doing here? Get the medicine! I need it now!"
 msgstr ""
 
-#: dialogs/Bender.lua:249
+#: dialogs/Bender.lua:251
 msgid "No. I have one left."
 msgstr ""
 
-#: dialogs/Bender.lua:250
+#: dialogs/Bender.lua:252
 msgid "Here, take it. I don't want it."
 msgstr ""
 
-#: dialogs/Bender.lua:259
+#: dialogs/Bender.lua:261
 msgid "Nah. But that is a totally awesome idea."
 msgstr ""
 
-#: dialogs/Bender.lua:260
+#: dialogs/Bender.lua:262
 msgid "Let's work it out -- just, uh, be sure not to let the Doc in on it."
 msgstr ""
 
-#: dialogs/Bender.lua:268
+#: dialogs/Bender.lua:270
 msgid "Yeah, sure."
 msgstr ""
 
-#: dialogs/Bender.lua:269
+#: dialogs/Bender.lua:271
 msgid "I know the shop keeper Lily's password."
 msgstr ""
 
-#: dialogs/Bender.lua:270
+#: dialogs/Bender.lua:272
 msgid "I sometimes login to her account and mess with it for the LULZ."
 msgstr ""
 
-#: dialogs/Bender.lua:271
+#: dialogs/Bender.lua:273
 msgid ""
 "It's the end of the world as we know it, and I... am so incredibly bored."
 msgstr ""
 
-#: dialogs/Bender.lua:272
+#: dialogs/Bender.lua:274
 msgid "Erm... excuse me?"
 msgstr ""
 
-#: dialogs/Bender.lua:273
+#: dialogs/Bender.lua:275
 msgid "Just a song my mother used to sing to me."
 msgstr ""
 
-#: dialogs/Bender.lua:281
+#: dialogs/Bender.lua:283
 msgid "Sure, but we will have to shake on it."
 msgstr ""
 
-#: dialogs/Bender.lua:282
+#: dialogs/Bender.lua:284
 msgid "OK..."
 msgstr ""
 
-#: dialogs/Bender.lua:283
+#: dialogs/Bender.lua:285
 msgid "It is an asterisk repeated four times."
 msgstr ""
 
-#: dialogs/Bender.lua:285
+#: dialogs/Bender.lua:287
 msgid "Wow."
 msgstr ""
 
-#: dialogs/Bender.lua:286
+#: dialogs/Bender.lua:288
 msgid "I am the most awesome hacker ever."
 msgstr ""
 
-#: dialogs/Bender.lua:287
+#: dialogs/Bender.lua:289
 msgid "Sure..."
 msgstr ""
 
-#: dialogs/Bender.lua:295
+#: dialogs/Bender.lua:297
 msgid "I'm killing time. Guard work is very boring."
 msgstr ""
 
-#: dialogs/Bender.lua:302
+#: dialogs/Bender.lua:304
 msgid "Yes, you are talking to the right guy, man."
 msgstr ""
 
-#: dialogs/Bender.lua:304
+#: dialogs/Bender.lua:306
 msgid "But now, I'm no good. I can't make you any elbow grease, sorry man."
 msgstr ""
 
-#: dialogs/Bender.lua:305
+#: dialogs/Bender.lua:307
 msgid "Maybe if I was feeling better..."
 msgstr ""
 
-#: dialogs/Bender.lua:307
+#: dialogs/Bender.lua:309
 msgid ""
 "Elbow grease just takes a bit of hard work. I'm not a fan of hard work, so I "
 "keep a can with me at all times."
 msgstr ""
 
-#: dialogs/Bender.lua:308
+#: dialogs/Bender.lua:310
 msgid "But since you helped me out with the Doctor, I'll give it to you."
 msgstr ""
 
-#: dialogs/Bender.lua:311
+#: dialogs/Bender.lua:313
 msgid "Thanks man!"
 msgstr ""
 
-#: dialogs/Bender.lua:321
+#: dialogs/Bender.lua:323
 msgid "What? I'm not an idiot! Understood?"
 msgstr ""
 
-#: dialogs/Bender.lua:322
+#: dialogs/Bender.lua:324
 msgid "No one says I'm stupid! I'm NOT STUPID!"
 msgstr ""
 
-#: dialogs/Bender.lua:323
+#: dialogs/Bender.lua:325
 msgid "I'LL BEAT YOU TO SPLINTERS!"
 msgstr ""
 
-#: dialogs/Bender.lua:324
+#: dialogs/Bender.lua:326
 msgid "I WILL KILL YOU SO HARD, YOU WILL DIE TO DEATH YOU FAT DUCK!"
 msgstr ""
 
-#: dialogs/Bender.lua:334
+#: dialogs/Bender.lua:336
 msgid "Later, man!"
 msgstr ""

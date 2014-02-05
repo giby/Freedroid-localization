@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,381 +29,389 @@ msgstr ""
 msgid "Password : "
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:42
+#: dialogs/AfterTakeover.lua:43
 msgid "First login from /dev/ttySO on %s %d"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:44
+#: dialogs/AfterTakeover.lua:46
 msgid "Last login from /dev/ttyS0 on %s %d"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:47
+#: dialogs/AfterTakeover.lua:50
 msgid "Welcome to [b]%s[/b]!"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:49
+#: dialogs/AfterTakeover.lua:52
 msgid "Hardware Check : BOT DAMAGED"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:50
+#: dialogs/AfterTakeover.lua:54
 msgid "This %s unit could stand to be repaired."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:54
+#: dialogs/AfterTakeover.lua:58
 msgid "BOTNET: UNIT TOO DAMAGED TO BROADCAST COMMANDS."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:55 dialogs/AfterTakeover.lua:329
+#: dialogs/AfterTakeover.lua:59 dialogs/AfterTakeover.lua:345
 msgid "Entering \"single node\" mode..."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:58
+#: dialogs/AfterTakeover.lua:62
 msgid "BOTNET: Most commands will be broadcast."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:61
+#: dialogs/AfterTakeover.lua:65
 msgid "SINGLE NODE: Commands will not be broadcast."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:73
+#: dialogs/AfterTakeover.lua:77
 msgid "cd repair&settings/"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:84
+#: dialogs/AfterTakeover.lua:89
 msgid "%s@hacked_%s/repair&settings: ~ # "
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:104
-msgid "./hold_position.sh"
-msgstr ""
-
-#: dialogs/AfterTakeover.lua:105
-msgid "Holding position."
-msgstr ""
-
-#: dialogs/AfterTakeover.lua:106
-msgid "script V 1.0.2 (c) gnu.org, 2054"
-msgstr ""
-
-#: dialogs/AfterTakeover.lua:107 dialogs/AfterTakeover.lua:146
-msgid "Checking requirements..."
-msgstr ""
-
-#: dialogs/AfterTakeover.lua:108
-msgid "Movement unit: Power-down... [Done]."
+#: dialogs/AfterTakeover.lua:99
+msgid "cd .."
 msgstr ""
 
 #: dialogs/AfterTakeover.lua:109
+msgid "./hold_position.sh"
+msgstr ""
+
+#: dialogs/AfterTakeover.lua:110
+msgid "Holding position."
+msgstr ""
+
+#: dialogs/AfterTakeover.lua:111
+msgid "script V 1.0.2 (c) gnu.org, 2054"
+msgstr ""
+
+#: dialogs/AfterTakeover.lua:112 dialogs/AfterTakeover.lua:153
+msgid "Checking requirements..."
+msgstr ""
+
+#: dialogs/AfterTakeover.lua:113
+msgid "Movement unit: Power-down... [Done]."
+msgstr ""
+
+#: dialogs/AfterTakeover.lua:114
 msgid "Status: All movement suppressed."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:124
+#: dialogs/AfterTakeover.lua:129
 msgid "./follow_me.sh"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:125
+#: dialogs/AfterTakeover.lua:130
 msgid "Initiating tracking sequence."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:126
+#: dialogs/AfterTakeover.lua:131
 msgid "Movement unit: Enabled."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:127
+#: dialogs/AfterTakeover.lua:133
 msgid "Acquiring lock on position of %s."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:128
+#: dialogs/AfterTakeover.lua:135
 msgid "Status: Following %s."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:143
+#: dialogs/AfterTakeover.lua:150
 msgid "./move_freely.sh"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:144
+#: dialogs/AfterTakeover.lua:151
 msgid "Enable movement."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:145
+#: dialogs/AfterTakeover.lua:152
 msgid "script V 1.0.5 (c) gnu.org, 2054"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:147
+#: dialogs/AfterTakeover.lua:154
 msgid "Movement unit: Power-up... [Done]."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:148
+#: dialogs/AfterTakeover.lua:155
 msgid "Resuming normal patrol operations... [Done]"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:149
+#: dialogs/AfterTakeover.lua:156
 msgid "Status: Patrolling."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:174
+#: dialogs/AfterTakeover.lua:181
 msgid "./repair.plx"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:177
+#: dialogs/AfterTakeover.lua:185
 msgid "Available amount of valuable circuits for repair: %d."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:198
+#: dialogs/AfterTakeover.lua:206
 msgid "Repairs on %s will take less than %d %s, %d valuable %s, and %d heat."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:207
+#: dialogs/AfterTakeover.lua:215
 msgid ""
 "You do not have enough valuable circuits to ensure repair of this %s unit."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:209
+#: dialogs/AfterTakeover.lua:217
 msgid "You cannot dissipate enough heat to ensure repair of this %s unit."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:211
+#: dialogs/AfterTakeover.lua:219
 msgid "Do you want to start repair of this %s unit?"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:220
+#: dialogs/AfterTakeover.lua:228
 msgid "%s is currently undamaged."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:232 dialogs/AfterTakeover.lua:376
-#: dialogs/AfterTakeover.lua:419
+#: dialogs/AfterTakeover.lua:242 dialogs/AfterTakeover.lua:393
+#: dialogs/AfterTakeover.lua:438
 msgid "Y"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:233
+#: dialogs/AfterTakeover.lua:243
 msgid "Repair in progress."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:234
+#: dialogs/AfterTakeover.lua:244
 msgid "Logout to complete repair process."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:246 dialogs/AfterTakeover.lua:394
-#: dialogs/AfterTakeover.lua:434
+#: dialogs/AfterTakeover.lua:258 dialogs/AfterTakeover.lua:412
+#: dialogs/AfterTakeover.lua:454
 msgid "N"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:247
+#: dialogs/AfterTakeover.lua:259
 msgid "Repair aborted."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:269
+#: dialogs/AfterTakeover.lua:281
 msgid "Always ask for confirmation before execution of hcf.py? [Y/N]"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:280
+#: dialogs/AfterTakeover.lua:293
 msgid "Confirmation will now be asked before execution of hcf.py."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:292
+#: dialogs/AfterTakeover.lua:306
 msgid "hcf.py will be executed without asking for confirmation."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:304
+#: dialogs/AfterTakeover.lua:318
 msgid "Broadcast commands to all units on level? [Y/N]"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:315
+#: dialogs/AfterTakeover.lua:330
 msgid ""
 "Commands will be broadcast and executed by all bots on this level under your "
 "control."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:316
+#: dialogs/AfterTakeover.lua:331
 msgid "Entering \"botnet\" mode..."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:328
+#: dialogs/AfterTakeover.lua:344
 msgid "Commands will only be executed by this bot."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:341
+#: dialogs/AfterTakeover.lua:357
 msgid "./settings.plx"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:342
+#: dialogs/AfterTakeover.lua:358
 msgid "Welcome to the settings menu."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:343
+#: dialogs/AfterTakeover.lua:359
 msgid "Version: 1.82c"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:344
+#: dialogs/AfterTakeover.lua:360
 msgid "No upgrades found."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:346
+#: dialogs/AfterTakeover.lua:362
 msgid "UNIT TOO DAMAGED TO BROADCAST COMMANDS."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:350
+#: dialogs/AfterTakeover.lua:366
 msgid "Which setting should be changed?"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:360
+#: dialogs/AfterTakeover.lua:376
 msgid "./hostname"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:361
+#: dialogs/AfterTakeover.lua:377
 msgid "Welcome to the hostname menu."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:362
+#: dialogs/AfterTakeover.lua:378
 msgid "Version: 0.15.01"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:363
+#: dialogs/AfterTakeover.lua:379
 msgid "Current botname: [b]%s[/b]"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:364
+#: dialogs/AfterTakeover.lua:380
 msgid "Select new name? [Y/N]"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:377
+#: dialogs/AfterTakeover.lua:394
 msgid "New Name: "
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:379
+#: dialogs/AfterTakeover.lua:396
 msgid "Type a new name for this %s unit."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:381
+#: dialogs/AfterTakeover.lua:398
 msgid "Bald"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:382
+#: dialogs/AfterTakeover.lua:399
 msgid "Bunny"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:407
+#: dialogs/AfterTakeover.lua:425
 msgid "Confirm renaming from [b]%s[/b] to [b]%s[/b]? [Y/N]"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:420
+#: dialogs/AfterTakeover.lua:439
 msgid "Renamed [b]%s[/b] to [b]%s[/b]."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:422
+#: dialogs/AfterTakeover.lua:441
 msgid "This %s unit is now designated: [b]%s[/b]"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:445
+#: dialogs/AfterTakeover.lua:465
 msgid "./hcf.py"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:447
+#: dialogs/AfterTakeover.lua:467
 msgid "Are you really sure you want to destroy %s? Y/N"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:461
+#: dialogs/AfterTakeover.lua:481
 msgid "Destruction confirmed."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:472
+#: dialogs/AfterTakeover.lua:492
 msgid "Destruction averted."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:492
+#: dialogs/AfterTakeover.lua:512
 msgid "Draining this %s unit will get you %d HP but kill it and take %d %s."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:499
+#: dialogs/AfterTakeover.lua:519
 msgid "Are you sure you want to drain this %s unit?"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:519
+#: dialogs/AfterTakeover.lua:539
 msgid "Yes"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:531
+#: dialogs/AfterTakeover.lua:551
 msgid "Bot not drained."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:532
+#: dialogs/AfterTakeover.lua:552
 msgid "Running hcf.py..."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:545
+#: dialogs/AfterTakeover.lua:565
 msgid "Executing: Halt and Catch Fire."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:547
+#: dialogs/AfterTakeover.lua:567
 msgid "Warning! Cooling subsystems disabled."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:548
+#: dialogs/AfterTakeover.lua:568
 msgid ""
 "Warning! Spontaneous oxidization witH emis$ion of light aND heAt detecteddd "
 "in THE#main| procesIng unit."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:549
+#: dialogs/AfterTakeover.lua:569
 msgid "WArn|n*! SsTeM=#faiPure%%^#n 3 S 1()$++"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:551
+#: dialogs/AfterTakeover.lua:571
 msgid "Warning: something seems wrong."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:552
+#: dialogs/AfterTakeover.lua:572
 msgid "Error report:"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:564
+#: dialogs/AfterTakeover.lua:584
 msgid "()%%#@(%% THE BLADE IS YOURS. )##%%*&%%*!"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:571
+#: dialogs/AfterTakeover.lua:591
 msgid "Bot drained."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:575
+#: dialogs/AfterTakeover.lua:595
 msgid "Failed to drain bot."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:576
+#: dialogs/AfterTakeover.lua:596
 msgid "I am free!"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:590
+#: dialogs/AfterTakeover.lua:610
 msgid "How do you want draining of bots to be handled?"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:593
+#: dialogs/AfterTakeover.lua:613
 msgid "Currently draining of bots is tried automatically."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:595
+#: dialogs/AfterTakeover.lua:615
 msgid "Currently draining of bots is never tried."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:597
+#: dialogs/AfterTakeover.lua:617
 msgid "Currently it is asked if draining a bot is to be tried."
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:642 dialogs/AfterTakeover.lua:657
+#: dialogs/AfterTakeover.lua:662 dialogs/AfterTakeover.lua:677
 msgid "Bots will be reprogrammed after takeover: [b]true[/b]"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:644 dialogs/AfterTakeover.lua:669
+#: dialogs/AfterTakeover.lua:664 dialogs/AfterTakeover.lua:689
 msgid "Bots will be reprogrammed after takeover: [b]false[/b]"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:682
+#: dialogs/AfterTakeover.lua:702
 msgid "Settings saved"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:683
+#: dialogs/AfterTakeover.lua:703
 msgid "Leaving settings.plx"
 msgstr ""
 
-#: dialogs/AfterTakeover.lua:695
+#: dialogs/AfterTakeover.lua:715
+msgid "logout"
+msgstr ""
+
+#: dialogs/AfterTakeover.lua:716
 msgid "Closing remote connection..."
 msgstr ""

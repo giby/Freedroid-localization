@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -100,11 +100,6 @@ msgid ""
 "even kill you."
 msgstr ""
 
-#: dialogs/Butch.lua:117 dialogs/Butch.lua:119 dialogs/Butch.lua:131
-#: dialogs/Butch.lua:223
-msgid "Novice Arena"
-msgstr ""
-
 #: dialogs/Butch.lua:118
 msgid ""
 "Oh, and the room is made out of some special material. People reported their "
@@ -173,10 +168,6 @@ msgstr ""
 msgid "But if you really want to, the door is now open."
 msgstr ""
 
-#: dialogs/Butch.lua:159 dialogs/Butch.lua:161 dialogs/Butch.lua:176
-msgid "Time to say goodnight"
-msgstr ""
-
 #: dialogs/Butch.lua:160
 msgid ""
 "Remember, if your teleporter didn't work in the noob-, errr, novice-arena, "
@@ -209,6 +200,10 @@ msgstr ""
 
 #: dialogs/Butch.lua:193
 msgid "Not like someone as inexperienced as you could understand it anyway."
+msgstr ""
+
+#: dialogs/Butch.lua:201 dialogs/Butch.lua:209
+msgid ". . ."
 msgstr ""
 
 #: dialogs/Butch.lua:217

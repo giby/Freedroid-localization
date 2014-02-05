@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,17 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#: src/action.c:535
+msgid ""
+"Colored patterns appear on the screen, but they do not look like any "
+"computer interface you have ever seen. Perhaps is this what they call a "
+"screen \"saver\"."
+msgstr ""
+
+#: src/action.c:551
+msgid "There is nothing on this sign."
+msgstr ""
 
 #: src/addon_crafting_ui.c:100
 msgid "Features:"
@@ -223,6 +234,11 @@ msgstr ""
 msgid "Right click to use\n"
 msgstr ""
 
+#: src/hud.c:184
+#, c-format
+msgid "Item use: %s\n"
+msgstr ""
+
 #: src/hud.c:191
 #, c-format
 msgid "Sockets: used %d/%d\n"
@@ -254,6 +270,23 @@ msgstr ""
 #: src/influ.c:147
 #, c-format
 msgid "%s empty, reloading..."
+msgstr ""
+
+#: src/influ.c:974 src/menu.c:979
+msgid "Load Latest"
+msgstr ""
+
+#: src/influ.c:975 src/menu.c:980
+msgid "Load Backup"
+msgstr ""
+
+#: src/influ.c:976 src/lvledit/lvledit_menu.c:1006 src/menu.c:982
+msgid "Quit to Main Menu"
+msgstr ""
+
+#: src/influ.c:977 src/lvledit/lvledit_menu.c:1007 src/menu.c:838
+#: src/menu.c:985
+msgid "Exit FreedroidRPG"
 msgstr ""
 
 #: src/influ.c:1505
@@ -549,6 +582,382 @@ msgstr ""
 msgid "I can't carry any more."
 msgstr ""
 
+#: src/keyboard.c:206
+msgid "keychart"
+msgstr ""
+
+#: src/keyboard.c:207
+msgid "fullscreen"
+msgstr ""
+
+#: src/keyboard.c:208
+msgid "grab_input"
+msgstr ""
+
+#: src/keyboard.c:209
+msgid "quit"
+msgstr ""
+
+#: src/keyboard.c:210
+msgid "wall_transparency"
+msgstr ""
+
+#: src/keyboard.c:211
+msgid "take_screenshot"
+msgstr ""
+
+#: src/keyboard.c:214
+msgid "inventory"
+msgstr ""
+
+#: src/keyboard.c:215
+msgid "skill"
+msgstr ""
+
+#: src/keyboard.c:216
+msgid "character"
+msgstr ""
+
+#: src/keyboard.c:217
+msgid "quests"
+msgstr ""
+
+#: src/keyboard.c:218
+msgid "reload"
+msgstr ""
+
+#: src/keyboard.c:219
+msgid "autorun"
+msgstr ""
+
+#: src/keyboard.c:221
+msgid "move_north"
+msgstr ""
+
+#: src/keyboard.c:222
+msgid "move_south"
+msgstr ""
+
+#: src/keyboard.c:223
+msgid "move_east"
+msgstr ""
+
+#: src/keyboard.c:224
+msgid "move_west"
+msgstr ""
+
+#: src/keyboard.c:226
+msgid "quicksave"
+msgstr ""
+
+#: src/keyboard.c:227
+msgid "quickload"
+msgstr ""
+
+#: src/keyboard.c:228
+msgid "pause"
+msgstr ""
+
+#: src/keyboard.c:229
+msgid "show_item_labels"
+msgstr ""
+
+#: src/keyboard.c:230
+msgid "automap"
+msgstr ""
+
+#: src/keyboard.c:232
+msgid "activate_program0"
+msgstr ""
+
+#: src/keyboard.c:233
+msgid "activate_program1"
+msgstr ""
+
+#: src/keyboard.c:234
+msgid "activate_program2"
+msgstr ""
+
+#: src/keyboard.c:235
+msgid "activate_program3"
+msgstr ""
+
+#: src/keyboard.c:236
+msgid "activate_program4"
+msgstr ""
+
+#: src/keyboard.c:237
+msgid "activate_program5"
+msgstr ""
+
+#: src/keyboard.c:238
+msgid "activate_program6"
+msgstr ""
+
+#: src/keyboard.c:239
+msgid "activate_program7"
+msgstr ""
+
+#: src/keyboard.c:241
+msgid "quick_inventory0"
+msgstr ""
+
+#: src/keyboard.c:242
+msgid "quick_inventory1"
+msgstr ""
+
+#: src/keyboard.c:243
+msgid "quick_inventory2"
+msgstr ""
+
+#: src/keyboard.c:244
+msgid "quick_inventory3"
+msgstr ""
+
+#: src/keyboard.c:245
+msgid "quick_inventory4"
+msgstr ""
+
+#: src/keyboard.c:246
+msgid "quick_inventory5"
+msgstr ""
+
+#: src/keyboard.c:247
+msgid "quick_inventory6"
+msgstr ""
+
+#: src/keyboard.c:248
+msgid "quick_inventory7"
+msgstr ""
+
+#: src/keyboard.c:249
+msgid "quick_inventory8"
+msgstr ""
+
+#: src/keyboard.c:250
+msgid "quick_inventory9"
+msgstr ""
+
+#: src/keyboard.c:252
+msgid "close_windows"
+msgstr ""
+
+#: src/keyboard.c:253
+msgid "game_escape_menu"
+msgstr ""
+
+#: src/keyboard.c:256
+msgid "drop_item"
+msgstr ""
+
+#: src/keyboard.c:257
+msgid "place_obstacle_kp1"
+msgstr ""
+
+#: src/keyboard.c:258
+msgid "place_obstacle_kp2"
+msgstr ""
+
+#: src/keyboard.c:259
+msgid "place_obstacle_kp3"
+msgstr ""
+
+#: src/keyboard.c:260
+msgid "place_obstacle_kp4"
+msgstr ""
+
+#: src/keyboard.c:261
+msgid "place_obstacle_kp5"
+msgstr ""
+
+#: src/keyboard.c:262
+msgid "place_obstacle_kp6"
+msgstr ""
+
+#: src/keyboard.c:263
+msgid "place_obstacle_kp7"
+msgstr ""
+
+#: src/keyboard.c:264
+msgid "place_obstacle_kp8"
+msgstr ""
+
+#: src/keyboard.c:265 src/keyboard.c:266
+msgid "place_obstacle_kp9"
+msgstr ""
+
+#: src/keyboard.c:267
+msgid "change_obstacle_label"
+msgstr ""
+
+#: src/keyboard.c:268
+msgid "change_map_label"
+msgstr ""
+
+#: src/keyboard.c:269
+msgid "zoom_out"
+msgstr ""
+
+#: src/keyboard.c:270
+msgid "cycle_marked_object"
+msgstr ""
+
+#: src/keyboard.c:271
+msgid "next_tab"
+msgstr ""
+
+#: src/keyboard.c:272
+msgid "previous_tab"
+msgstr ""
+
+#: src/keyboard.c:273
+msgid "undo"
+msgstr ""
+
+#: src/keyboard.c:274
+msgid "redo"
+msgstr ""
+
+#: src/keyboard.c:275
+msgid "beautify_grass"
+msgstr ""
+
+#: src/keyboard.c:276
+msgid "beautify_water"
+msgstr ""
+
+#: src/keyboard.c:277
+msgid "toggle_waypoint"
+msgstr ""
+
+#: src/keyboard.c:278
+msgid "toggle_waypoint_randomspawn"
+msgstr ""
+
+#: src/keyboard.c:279
+msgid "connect_waypoint"
+msgstr ""
+
+#: src/keyboard.c:280
+msgid "toolbar_scroll_left"
+msgstr ""
+
+#: src/keyboard.c:281
+msgid "toolbar_scroll_right"
+msgstr ""
+
+#: src/keyboard.c:282
+msgid "toolbar_step_left"
+msgstr ""
+
+#: src/keyboard.c:283
+msgid "toolbar_step_right"
+msgstr ""
+
+#: src/keyboard.c:284
+msgid "cut"
+msgstr ""
+
+#: src/keyboard.c:285
+msgid "copy"
+msgstr ""
+
+#: src/keyboard.c:286
+msgid "paste"
+msgstr ""
+
+#: src/keyboard.c:287
+msgid "delete"
+msgstr ""
+
+#: src/keyboard.c:288
+msgid "next_selection_type"
+msgstr ""
+
+#: src/keyboard.c:289
+msgid "previous_selection_type"
+msgstr ""
+
+#: src/keyboard.c:290
+msgid "run_map_validator"
+msgstr ""
+
+#: src/keyboard.c:293
+msgid "cheat_xp+_1k"
+msgstr ""
+
+#: src/keyboard.c:294
+msgid "cheat_xp*_2"
+msgstr ""
+
+#: src/keyboard.c:295
+msgid "cheat_melee"
+msgstr ""
+
+#: src/keyboard.c:296
+msgid "cheat_range"
+msgstr ""
+
+#: src/keyboard.c:297
+msgid "cheat_programing"
+msgstr ""
+
+#: src/keyboard.c:298
+msgid "cheat_melee_down"
+msgstr ""
+
+#: src/keyboard.c:299
+msgid "cheat_range_down"
+msgstr ""
+
+#: src/keyboard.c:300
+msgid "cheat_programing_down"
+msgstr ""
+
+#: src/keyboard.c:301
+msgid "cheat_drop_random_item"
+msgstr ""
+
+#: src/keyboard.c:302
+msgid "cheat_drop_random_magical_item"
+msgstr ""
+
+#: src/keyboard.c:303
+msgid "cheat_respawn_level"
+msgstr ""
+
+#: src/keyboard.c:304
+msgid "cheat_level_editor"
+msgstr ""
+
+#: src/keyboard.c:305
+msgid "cheat_menu"
+msgstr ""
+
+#: src/keyboard.c:306
+msgid "cheat_reload_graphics"
+msgstr ""
+
+#: src/keyboard.c:307
+msgid "cheat_inc_repair"
+msgstr ""
+
+#: src/keyboard.c:308
+msgid "cheat_dec_repair"
+msgstr ""
+
+#: src/keyboard.c:312
+msgid "rtprof_switch_activation"
+msgstr ""
+
+#: src/keyboard.c:313
+msgid "rtprof_clear_probes"
+msgstr ""
+
+#: src/keyboard.c:339
+msgid "Key chart"
+msgstr ""
+
 #: src/keyboard.c:371
 msgid "ARROWS to select, ENTER to remap, ESCAPE to exit"
 msgstr ""
@@ -579,23 +988,23 @@ msgstr ""
 msgid "Programming ability improved!"
 msgstr ""
 
-#: src/lua.c:363 src/lua/luaFD_tux.c:680
+#: src/lua.c:363
 #, c-format
-msgid "Received Item: %s (on floor)"
+msgid "Received item: %s (on floor)"
 msgstr ""
 
-#: src/lua.c:365 src/lua/luaFD_tux.c:682
+#: src/lua.c:365
 #, c-format
-msgid "Received Item: %s"
+msgid "Received item: %s"
 msgstr ""
 
 #: src/lua.c:418 src/lua/luaFD_tux.c:755
-msgid "1 Item received!"
+msgid "1 item received!"
 msgstr ""
 
-#: src/lua.c:497 src/lua/luaFD_tux.c:283
+#: src/lua.c:497
 #, c-format
-msgid "+%d Experience Points"
+msgid "+%d experience points"
 msgstr ""
 
 #: src/lua.c:529 src/lua/luaFD_tux.c:317
@@ -606,6 +1015,21 @@ msgstr ""
 #: src/lua.c:531 src/lua/luaFD_tux.c:319
 #, c-format
 msgid "Lost %d valuable circuits!"
+msgstr ""
+
+#: src/lua/luaFD_tux.c:283
+#, c-format
+msgid "+%d Experience Points"
+msgstr ""
+
+#: src/lua/luaFD_tux.c:680
+#, c-format
+msgid "Received Item: %s (on floor)"
+msgstr ""
+
+#: src/lua/luaFD_tux.c:682
+#, c-format
+msgid "Received Item: %s"
 msgstr ""
 
 #: src/lvledit/lvledit.c:152
@@ -652,6 +1076,13 @@ msgstr ""
 #: src/lvledit/lvledit_display.c:320
 #, c-format
 msgid " Source waypoint selected : X=%d Y=%d. "
+msgstr ""
+
+#: src/lvledit/lvledit_display.c:335
+#, c-format
+msgid ""
+" This level is automatically generated. \n"
+" Editing will have no effect."
 msgstr ""
 
 #: src/lvledit/lvledit_enemy.c:87
@@ -760,6 +1191,13 @@ msgid ""
 " Rushes Tux: "
 msgstr ""
 
+#: src/lvledit/lvledit_map.c:385
+#, c-format
+msgid ""
+"Saving levels to %s/levels.dat instead of the default location map/levels."
+"dat."
+msgstr ""
+
 #: src/lvledit/lvledit_map.c:396
 msgid "Your ship was saved..."
 msgstr ""
@@ -797,9 +1235,9 @@ msgstr ""
 #: src/lvledit/lvledit_menu.c:126 src/lvledit/lvledit_menu.c:241
 #: src/lvledit/lvledit_menu.c:415 src/lvledit/lvledit_menu.c:634
 #: src/lvledit/lvledit_menu.c:917 src/menu.c:874 src/menu.c:926
-#: src/menu.c:1068 src/menu.c:1161 src/menu.c:1272 src/menu.c:1328
-#: src/menu.c:1398 src/menu.c:1429 src/menu.c:1576 src/menu.c:1607
-#: src/menu.c:1631 src/menu.c:1689
+#: src/menu.c:1068 src/menu.c:1153 src/menu.c:1264 src/menu.c:1329
+#: src/menu.c:1399 src/menu.c:1430 src/menu.c:1577 src/menu.c:1608
+#: src/menu.c:1632 src/menu.c:1690
 msgid "Back"
 msgstr ""
 
@@ -821,6 +1259,15 @@ msgstr ""
 #: src/lvledit/lvledit_menu.c:238
 #, c-format
 msgid "Neighbor level West: %d.  (<-/->)"
+msgstr ""
+
+#: src/lvledit/lvledit_menu.c:271 src/lvledit/lvledit_menu.c:286
+#: src/lvledit/lvledit_menu.c:301 src/lvledit/lvledit_menu.c:316
+#: src/lvledit/lvledit_menu.c:657 src/lvledit/lvledit_menu.c:1034
+msgid ""
+"\n"
+" Please enter new level number: \n"
+"\n"
 msgstr ""
 
 #: src/lvledit/lvledit_menu.c:413
@@ -896,7 +1343,7 @@ msgstr ""
 
 #: src/lvledit/lvledit_menu.c:570
 #, c-format
-msgid "Random dungeon; no"
+msgid "Random dungeon: no"
 msgstr ""
 
 #: src/lvledit/lvledit_menu.c:576
@@ -942,6 +1389,13 @@ msgstr ""
 
 #: src/lvledit/lvledit_menu.c:633
 msgid "Add/Rem Level"
+msgstr ""
+
+#: src/lvledit/lvledit_menu.c:684
+msgid ""
+"\n"
+" Please enter new drop class: \n"
+"\n"
 msgstr ""
 
 #: src/lvledit/lvledit_menu.c:723
@@ -1006,14 +1460,6 @@ msgstr ""
 
 #: src/lvledit/lvledit_menu.c:1005
 msgid "Show Help"
-msgstr ""
-
-#: src/lvledit/lvledit_menu.c:1006 src/menu.c:982
-msgid "Quit to Main Menu"
-msgstr ""
-
-#: src/lvledit/lvledit_menu.c:1007 src/menu.c:838 src/menu.c:985
-msgid "Exit FreedroidRPG"
 msgstr ""
 
 #: src/lvledit/lvledit_tool_place.c:685
@@ -1178,6 +1624,30 @@ msgid ""
 "saving an unclean world state."
 msgstr ""
 
+#: src/lvledit/lvledit_widgets.c:479
+msgid "Obstacle"
+msgstr ""
+
+#: src/lvledit/lvledit_widgets.c:481
+msgid "Floor"
+msgstr ""
+
+#: src/lvledit/lvledit_widgets.c:483
+msgid "Item"
+msgstr ""
+
+#: src/lvledit/lvledit_widgets.c:485
+msgid "Enemy"
+msgstr ""
+
+#: src/lvledit/lvledit_widgets.c:488
+msgid "Wayp."
+msgstr ""
+
+#: src/lvledit/lvledit_widgets.c:490
+msgid "Label"
+msgstr ""
+
 #: src/main.c:397
 msgid "Overheating!"
 msgstr ""
@@ -1231,11 +1701,11 @@ msgstr ""
 msgid "OpenGL output active: NO"
 msgstr ""
 
-#: src/menu.c:229 src/menu.c:1572
+#: src/menu.c:229 src/menu.c:1573
 msgid "[down]"
 msgstr ""
 
-#: src/menu.c:230 src/menu.c:1561
+#: src/menu.c:230 src/menu.c:1562
 msgid "[up]"
 msgstr ""
 
@@ -1259,7 +1729,7 @@ msgstr ""
 msgid "Contribute"
 msgstr ""
 
-#: src/menu.c:855 src/menu.c:1111 src/menu.c:1218 src/menu.c:1225
+#: src/menu.c:855 src/menu.c:1110 src/menu.c:1210 src/menu.c:1217
 msgid ""
 "You need to restart FreedroidRPG for the changes to take effect.\n"
 "\n"
@@ -1311,139 +1781,141 @@ msgstr ""
 msgid "Save Hero"
 msgstr ""
 
-#: src/menu.c:979
-msgid "Load Latest"
-msgstr ""
-
-#: src/menu.c:980
-msgid "Load Backup"
-msgstr ""
-
 #: src/menu.c:984
 msgid "Return to Level Editor"
 msgstr ""
 
-#: src/menu.c:1144
+#: src/menu.c:1030
+#, c-format
+msgid ""
+"You selected %d x %d pixels.\n"
+"\n"
+"You need to restart FreedroidRPG for the changes to take effect.\n"
+"\n"
+"Sorry for the inconvenience."
+msgstr ""
+
+#: src/menu.c:1139
 #, c-format
 msgid "Change screen resolution"
 msgstr ""
 
-#: src/menu.c:1146
+#: src/menu.c:1141
 #, c-format
 msgid "Fullscreen mode: %s"
 msgstr ""
 
-#: src/menu.c:1146
+#: src/menu.c:1141
 msgid "OFF"
 msgstr ""
 
-#: src/menu.c:1146
+#: src/menu.c:1141
 msgid "ON"
 msgstr ""
 
-#: src/menu.c:1150
+#: src/menu.c:1145
 #, c-format
 msgid "<-- Gamma correction: %1.2f -->"
 msgstr ""
 
-#: src/menu.c:1154 src/menu.c:1158 src/menu.c:1319 src/menu.c:1322
-#: src/menu.c:1325 src/menu.c:1393 src/menu.c:1394 src/menu.c:1395
-#: src/menu.c:1426
+#: src/menu.c:1149 src/menu.c:1316 src/menu.c:1319 src/menu.c:1322
+#: src/menu.c:1327 src/menu.c:1394 src/menu.c:1395 src/menu.c:1396
+#: src/menu.c:1427
 msgid "NO"
 msgstr ""
 
-#: src/menu.c:1154
+#: src/menu.c:1149
 #, c-format
 msgid "Show blood: %s"
 msgstr ""
 
-#: src/menu.c:1154 src/menu.c:1158 src/menu.c:1319 src/menu.c:1322
-#: src/menu.c:1325 src/menu.c:1393 src/menu.c:1394 src/menu.c:1395
-#: src/menu.c:1426
+#: src/menu.c:1149 src/menu.c:1316 src/menu.c:1319 src/menu.c:1322
+#: src/menu.c:1327 src/menu.c:1394 src/menu.c:1395 src/menu.c:1396
+#: src/menu.c:1427
 msgid "YES"
 msgstr ""
 
-#: src/menu.c:1158
-#, c-format
-msgid "Graphics lazy loading: %s"
-msgstr ""
-
-#: src/menu.c:1244
+#: src/menu.c:1236
 #, c-format
 msgid "<-- Background music volume: %1.2f -->"
 msgstr ""
 
-#: src/menu.c:1248
+#: src/menu.c:1240
 #, c-format
 msgid "<-- Sound effects volume: %1.2f -->"
 msgstr ""
 
-#: src/menu.c:1254
+#: src/menu.c:1246
 #, c-format
 msgid "<-- Output: Stereo -->"
 msgstr ""
 
-#: src/menu.c:1258
+#: src/menu.c:1250
 #, c-format
 msgid "<-- Output: 4.0 Surround -->"
 msgstr ""
 
-#: src/menu.c:1262
+#: src/menu.c:1254
 #, c-format
 msgid "<-- Output: 5.1 Surround -->"
 msgstr ""
 
-#: src/menu.c:1266
+#: src/menu.c:1258
 #, c-format
 msgid "<-- Output: Error -->"
 msgstr ""
 
-#: src/menu.c:1319
+#: src/menu.c:1316
 #, c-format
 msgid "Limit framerate (powersaving): %s"
 msgstr ""
 
-#: src/menu.c:1322
+#: src/menu.c:1319
 #, c-format
 msgid "Show light radius: %s"
 msgstr ""
 
-#: src/menu.c:1325
+#: src/menu.c:1322
 #, c-format
 msgid "Show obstacle shadows: %s"
 msgstr ""
 
-#: src/menu.c:1393
+#: src/menu.c:1327
 #, c-format
-msgid "Show position: %s"
+msgid "Precache item graphics: %s"
 msgstr ""
 
 #: src/menu.c:1394
 #, c-format
-msgid "Show framerate: %s"
+msgid "Show position: %s"
 msgstr ""
 
 #: src/menu.c:1395
 #, c-format
-msgid "Show enemies' energy bars: %s"
+msgid "Show framerate: %s"
 msgstr ""
 
 #: src/menu.c:1396
 #, c-format
-msgid "<-- Max. screen messages: %d -->"
+msgid "Show enemies' energy bars: %s"
 msgstr ""
 
 #: src/menu.c:1397
 #, c-format
+msgid "<-- Max. screen messages: %d -->"
+msgstr ""
+
+#: src/menu.c:1398
+#, c-format
 msgid "<-- Screen message lifetime: %3.1fs -->"
 msgstr ""
 
-#: src/menu.c:1426
+#: src/menu.c:1427
 #, c-format
-msgid "Show enemies' states: %s"
+msgid "Show enemies' states (debug): %s"
 msgstr ""
 
-#: src/menu.c:1469
+#: src/menu.c:1470
 msgid ""
 "\n"
 "     Please enter a name\n"
@@ -1455,38 +1927,38 @@ msgid ""
 "     > "
 msgstr ""
 
-#: src/menu.c:1491
+#: src/menu.c:1492
 #, c-format
 msgid ""
 "A character named \"%s\" already exists.\n"
 "Please choose another name."
 msgstr ""
 
-#: src/menu.c:1610
+#: src/menu.c:1611
 msgid ""
 "\n"
 "\n"
 "No saved games found!"
 msgstr ""
 
-#: src/menu.c:1630
+#: src/menu.c:1631
 msgid "Sure!"
 msgstr ""
 
-#: src/menu.c:1633
+#: src/menu.c:1634
 #, c-format
 msgid "Really delete hero '%s'?"
 msgstr ""
 
-#: src/menu.c:1686
+#: src/menu.c:1687
 msgid "New Hero"
 msgstr ""
 
-#: src/menu.c:1687
+#: src/menu.c:1688
 msgid "Load existing Hero"
 msgstr ""
 
-#: src/menu.c:1688
+#: src/menu.c:1689
 msgid "Delete existing Hero"
 msgstr ""
 
@@ -1860,6 +2332,16 @@ msgstr ""
 msgid "Passive"
 msgstr ""
 
+#: src/skills.c:918
+#, c-format
+msgid "Repair items, degrading them a bit"
+msgstr ""
+
+#: src/skills.c:920
+#, c-format
+msgid "Detect enemies"
+msgstr ""
+
 #: src/skills.c:922
 #, c-format
 msgid "Lighten area"
@@ -1921,6 +2403,10 @@ msgstr ""
 #: src/takeover.c:398
 #, c-format
 msgid "Finish-%d.%d"
+msgstr ""
+
+#: src/takeover.c:557
+msgid "For more information, click the help button."
 msgstr ""
 
 #: src/takeover.c:596

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -362,129 +362,129 @@ msgstr ""
 msgid "You won! Good job."
 msgstr ""
 
-#: dialogs/Ewald.lua:420
+#: dialogs/Ewald.lua:421
 msgid "You won %d valuable circuits by gambling dice with Ewald."
 msgstr ""
 
-#: dialogs/Ewald.lua:422
+#: dialogs/Ewald.lua:423
 msgid "You lost. Bad luck."
 msgstr ""
 
-#: dialogs/Ewald.lua:428
+#: dialogs/Ewald.lua:430
 msgid "You lost %d valuable circuits by gambling dice with Ewald."
 msgstr ""
 
-#: dialogs/Ewald.lua:441
+#: dialogs/Ewald.lua:443
 msgid "Coin flipping it is."
 msgstr ""
 
-#: dialogs/Ewald.lua:442
+#: dialogs/Ewald.lua:444
 msgid "So. What do you think? Heads or tails?"
 msgstr ""
 
-#: dialogs/Ewald.lua:451
+#: dialogs/Ewald.lua:453
 msgid "Heads, eh? I always like heads."
 msgstr ""
 
-#: dialogs/Ewald.lua:465
+#: dialogs/Ewald.lua:467
 msgid "Tails? Fits, since you've got one."
 msgstr ""
 
-#: dialogs/Ewald.lua:480
+#: dialogs/Ewald.lua:482
 msgid "Here goes nothing."
 msgstr ""
 
-#: dialogs/Ewald.lua:482
+#: dialogs/Ewald.lua:484
 msgid "Looks like it is '%s'."
 msgstr ""
 
-#: dialogs/Ewald.lua:484
+#: dialogs/Ewald.lua:486
 msgid "So do you think there will be an even or odd number of '%s' flips?"
 msgstr ""
 
-#: dialogs/Ewald.lua:541
+#: dialogs/Ewald.lua:543
 msgid "%s."
 msgstr ""
 
-#: dialogs/Ewald.lua:545
+#: dialogs/Ewald.lua:547
 msgid "The last four coin flips:"
 msgstr ""
 
-#: dialogs/Ewald.lua:547
+#: dialogs/Ewald.lua:549
 msgid "Last flip. I hope it is the one I want!"
 msgstr ""
 
-#: dialogs/Ewald.lua:551
+#: dialogs/Ewald.lua:553
 msgid "Looks like that is %d tails, and %d heads."
 msgstr ""
 
-#: dialogs/Ewald.lua:555
+#: dialogs/Ewald.lua:557
 msgid "Tails won..."
 msgstr ""
 
-#: dialogs/Ewald.lua:558
+#: dialogs/Ewald.lua:560
 msgid "Heads won..."
 msgstr ""
 
-#: dialogs/Ewald.lua:563
+#: dialogs/Ewald.lua:565
 msgid "...and there were an odd number of %s."
 msgstr ""
 
-#: dialogs/Ewald.lua:566
+#: dialogs/Ewald.lua:568
 msgid "...and there were an even number of %s."
 msgstr ""
 
-#: dialogs/Ewald.lua:571
+#: dialogs/Ewald.lua:573
 msgid "Looks like another winning combination! Good job!"
 msgstr ""
 
-#: dialogs/Ewald.lua:576
+#: dialogs/Ewald.lua:578
 msgid "You won %d valuable circuits in the coin-flip game with Ewald."
 msgstr ""
 
-#: dialogs/Ewald.lua:578
+#: dialogs/Ewald.lua:580
 msgid "Looks like you got everything wrong... here is some of your bet back."
 msgstr ""
 
-#: dialogs/Ewald.lua:588 dialogs/Ewald.lua:597
+#: dialogs/Ewald.lua:590 dialogs/Ewald.lua:599
 msgid "You lost %d valuable circuits in the coin-flip game with Ewald."
 msgstr ""
 
-#: dialogs/Ewald.lua:590
+#: dialogs/Ewald.lua:592
 msgid ""
 "You lost. You were half right, but half wrong. Pick one and stay with it."
 msgstr ""
 
-#: dialogs/Ewald.lua:599
+#: dialogs/Ewald.lua:601
 msgid ""
 "THIS IS AN ERROR! REPORT IT PLEASE! E-MAIL: freedroid-discussion@lists."
 "sourceforge.net"
 msgstr ""
 
-#: dialogs/Ewald.lua:625
+#: dialogs/Ewald.lua:630
 msgid "Sure."
 msgstr ""
 
-#: dialogs/Ewald.lua:631
+#: dialogs/Ewald.lua:636
 msgid "You do not have enough bucks to bet the same."
 msgstr ""
 
-#: dialogs/Ewald.lua:650
+#: dialogs/Ewald.lua:655
 msgid "I play just a dice game and a coin-flipping game."
 msgstr ""
 
-#: dialogs/Ewald.lua:660
+#: dialogs/Ewald.lua:665
 msgid "You have won %d circuits."
 msgstr ""
 
-#: dialogs/Ewald.lua:662
+#: dialogs/Ewald.lua:667
 msgid "You have lost %d circuits."
 msgstr ""
 
-#: dialogs/Ewald.lua:671
+#: dialogs/Ewald.lua:676
 msgid "We can play again whenever you want!"
 msgstr ""
 
-#: dialogs/Ewald.lua:687
+#: dialogs/Ewald.lua:692
 msgid "Goodbye and remember: My bar is always open."
 msgstr ""

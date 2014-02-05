@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,178 +25,174 @@ msgstr ""
 msgid "I don't care! Identify yourself, right now!"
 msgstr ""
 
-#: dialogs/Tybalt.lua:26
+#: dialogs/Tybalt.lua:27
 msgid "%s... I'm %s."
 msgstr ""
 
-#: dialogs/Tybalt.lua:27
+#: dialogs/Tybalt.lua:28
 msgid ""
 "All right, I'm Tybalt. I'm guarding the town citadel gate. Only authorized "
 "personnel are permitted."
 msgstr ""
 
-#: dialogs/Tybalt.lua:28
+#: dialogs/Tybalt.lua:29
 msgid "Tybalt - Citadel Gate Guard"
 msgstr ""
 
-#: dialogs/Tybalt.lua:53
+#: dialogs/Tybalt.lua:54
 msgid ""
 "You are going in the wrong direction. Turn around, and he will be on your "
 "right."
 msgstr ""
 
-#: dialogs/Tybalt.lua:61
+#: dialogs/Tybalt.lua:62
 msgid ""
 "Our headquarters, the strengthened building behind me. It's the area "
 "reserved to the red guard."
 msgstr ""
 
-#: dialogs/Tybalt.lua:62
+#: dialogs/Tybalt.lua:63
 msgid "We need to protect our equipment and documents: lives depend on it."
 msgstr ""
 
-#: dialogs/Tybalt.lua:63
+#: dialogs/Tybalt.lua:64
 msgid ""
 "Our firearms are enough to kick off any droid, and to blow everything up."
 msgstr ""
 
-#: dialogs/Tybalt.lua:64
+#: dialogs/Tybalt.lua:65
 msgid "Luckily, no overloading reactor is near it. Ha-ha."
 msgstr ""
 
-#: dialogs/Tybalt.lua:73
-msgid "So, ... Hey, I don't have to answer questions."
-msgstr ""
-
-#: dialogs/Tybalt.lua:75
-msgid "I have no time for a guided tour."
+#: dialogs/Tybalt.lua:74
+msgid "So, ... Hey, I don't have to answer questions!"
 msgstr ""
 
 #: dialogs/Tybalt.lua:76
+msgid "I have no time for a guided tour."
+msgstr ""
+
+#: dialogs/Tybalt.lua:77
 msgid ""
 "You can talk to Richard, the quartermaster. He knows the citadel better than "
 "I."
 msgstr ""
 
-#: dialogs/Tybalt.lua:86
+#: dialogs/Tybalt.lua:87
 msgid ""
 "Of course. Guard members are always authorized to enter the town citadel. "
 "The gate is open. Enjoy your stay."
 msgstr ""
 
-#: dialogs/Tybalt.lua:89
+#: dialogs/Tybalt.lua:90
 msgid ""
 "Sorry pal, but I don't think so. Only authorized personnel are permitted and "
 "that means members of the Red Guard."
 msgstr ""
 
-#: dialogs/Tybalt.lua:90
+#: dialogs/Tybalt.lua:91
 msgid "Talk to Spencer if you have any business inside. I cannot let you pass."
 msgstr ""
 
-#: dialogs/Tybalt.lua:102
+#: dialogs/Tybalt.lua:103
 msgid ""
 "It's locked so no one can sneak inside while I'm not looking. That's why."
 msgstr ""
 
-#: dialogs/Tybalt.lua:113
+#: dialogs/Tybalt.lua:114
 msgid "Yes. All with a bunch of laser autoguns. Adjusted to shoot on sight."
 msgstr ""
 
-#: dialogs/Tybalt.lua:114
+#: dialogs/Tybalt.lua:116
 msgid "%s, I discourage you to test our security system."
 msgstr ""
 
-#: dialogs/Tybalt.lua:122
+#: dialogs/Tybalt.lua:124
 msgid ""
 "I am always looking. What? Are you planning to steal from us, like that last "
 "guy from out of town?"
 msgstr ""
 
-#: dialogs/Tybalt.lua:123
+#: dialogs/Tybalt.lua:125
 msgid ""
 "I'm stationed here to make certain that doesn't happen again. Apparently the "
 "last guy suborned the droid that was here and took it with him."
 msgstr ""
 
-#: dialogs/Tybalt.lua:124
-msgid "A strange guy stealing from town"
-msgstr ""
-
-#: dialogs/Tybalt.lua:133
+#: dialogs/Tybalt.lua:136
 msgid "Fascinating. Can I have a hundred please?"
 msgstr ""
 
-#: dialogs/Tybalt.lua:143
+#: dialogs/Tybalt.lua:147
 msgid "Well, too bad."
 msgstr ""
 
-#: dialogs/Tybalt.lua:154
+#: dialogs/Tybalt.lua:158
 msgid "Thank you."
 msgstr ""
 
-#: dialogs/Tybalt.lua:158
+#: dialogs/Tybalt.lua:163
 msgid "That is not a hundred."
 msgstr ""
 
-#: dialogs/Tybalt.lua:170
+#: dialogs/Tybalt.lua:177
 msgid "What door?"
 msgstr ""
 
-#: dialogs/Tybalt.lua:171
+#: dialogs/Tybalt.lua:178
 msgid "The door to the citadel!"
 msgstr ""
 
-#: dialogs/Tybalt.lua:172
+#: dialogs/Tybalt.lua:179
 msgid "But you are not a member of the Red Guard."
 msgstr ""
 
-#: dialogs/Tybalt.lua:173
+#: dialogs/Tybalt.lua:180
 msgid "You cannot come in."
 msgstr ""
 
-#: dialogs/Tybalt.lua:174
+#: dialogs/Tybalt.lua:181
 msgid "I paid you!"
 msgstr ""
 
-#: dialogs/Tybalt.lua:175
+#: dialogs/Tybalt.lua:182
 msgid "Really? I don't remember that."
 msgstr ""
 
-#: dialogs/Tybalt.lua:184
+#: dialogs/Tybalt.lua:191
 msgid "What money?"
 msgstr ""
 
-#: dialogs/Tybalt.lua:185
+#: dialogs/Tybalt.lua:192
 msgid "I'm not a charity. If this is a problem, talk to Spencer."
 msgstr ""
 
-#: dialogs/Tybalt.lua:186
+#: dialogs/Tybalt.lua:193
 msgid "But he doesn't love robbers and foul play."
 msgstr ""
 
-#: dialogs/Tybalt.lua:188
+#: dialogs/Tybalt.lua:196
 msgid "Wait, %s, maybe we may make a deal."
 msgstr ""
 
-#: dialogs/Tybalt.lua:189
+#: dialogs/Tybalt.lua:197
 msgid ""
 "You don't talk to Spencer about it, and I don't tell him you tried to bribe "
 "me."
 msgstr ""
 
-#: dialogs/Tybalt.lua:190
+#: dialogs/Tybalt.lua:198
 msgid ""
 "Just because I am such a nice guy, I'm even willing to give you half of your "
 "money back."
 msgstr ""
 
-#: dialogs/Tybalt.lua:191
+#: dialogs/Tybalt.lua:199
 msgid ""
 "Of course, if you still want to complain, I'll get you kicked out of the Red "
 "Guard in no time."
 msgstr ""
 
-#: dialogs/Tybalt.lua:202
+#: dialogs/Tybalt.lua:210
 msgid "Good riddance."
 msgstr ""

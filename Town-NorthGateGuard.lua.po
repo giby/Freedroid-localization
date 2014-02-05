@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -73,7 +73,7 @@ msgstr ""
 msgid "Ok, Linarian! You asked for it!"
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:81 dialogs/Town-NorthGateGuard.lua:200
+#: dialogs/Town-NorthGateGuard.lua:81 dialogs/Town-NorthGateGuard.lua:203
 msgid "Open fire!"
 msgstr ""
 
@@ -92,13 +92,6 @@ msgstr ""
 msgid ""
 "I think that freak lives somewhere to the east. I would love to get my hands "
 "on him and beat the life out of him. Slowly."
-msgstr ""
-
-#: dialogs/Town-NorthGateGuard.lua:98 dialogs/Town-NorthGateGuard.lua:100
-#: dialogs/Town-NorthGateGuard.lua:101 dialogs/Town-NorthGateGuard.lua:104
-#: dialogs/Town-NorthGateGuard.lua:107 dialogs/Town-NorthGateGuard.lua:124
-#: dialogs/Town-NorthGateGuard.lua:310
-msgid "A strange guy stealing from town"
 msgstr ""
 
 #: dialogs/Town-NorthGateGuard.lua:120
@@ -166,155 +159,151 @@ msgstr ""
 msgid "State your name Linarian."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:157 dialogs/Town-NorthGateGuard.lua:190
+#: dialogs/Town-NorthGateGuard.lua:158 dialogs/Town-NorthGateGuard.lua:193
 msgid "My name is %s."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:158
+#: dialogs/Town-NorthGateGuard.lua:159
 msgid "You don't look too stupid. Try not to mess up."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:159
+#: dialogs/Town-NorthGateGuard.lua:161
 msgid "You may now enter %s."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:167
+#: dialogs/Town-NorthGateGuard.lua:169
 msgid "What did you say, you oversized duck?"
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:178
+#: dialogs/Town-NorthGateGuard.lua:180
 msgid "Well, you aren't going anywhere. I'm watching you."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:186
+#: dialogs/Town-NorthGateGuard.lua:188
 msgid "My apologies, Linarian. You are new here, and do not know."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:187
+#: dialogs/Town-NorthGateGuard.lua:189
 msgid ""
 "The red outfit indicates that I am of the Red Guard. We are the defenders of "
 "the town and impose the law."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:188
+#: dialogs/Town-NorthGateGuard.lua:190
 msgid ""
 "With the continued bot attacks, and the grumbling townsfolk, all of us are a "
 "little on edge."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:189
+#: dialogs/Town-NorthGateGuard.lua:191
 msgid "Tell me your name, and then you may pass."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:191
+#: dialogs/Town-NorthGateGuard.lua:194
 msgid "You may enter."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:199
+#: dialogs/Town-NorthGateGuard.lua:202
 msgid "Nobody says things about my mother. Forget you, Linarian!"
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:210
+#: dialogs/Town-NorthGateGuard.lua:213
 msgid "Sure you said that."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:218
+#: dialogs/Town-NorthGateGuard.lua:221
 msgid ""
 "How about I punch you until you spit out your name and get out of here, and "
 "we call it even?"
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:219
+#: dialogs/Town-NorthGateGuard.lua:222
 msgid "OW"
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:220
+#: dialogs/Town-NorthGateGuard.lua:223
 msgid "Your name?"
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:222
+#: dialogs/Town-NorthGateGuard.lua:225
 msgid "OW. That HURT!"
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:223
+#: dialogs/Town-NorthGateGuard.lua:227
 msgid ""
 "Get out of here. The Doc is the third door on the right along the main path."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:234
+#: dialogs/Town-NorthGateGuard.lua:238
 msgid ""
 "I'll be happy to send you his way, I already told you you have to talk to "
 "him anyway. But I need your name before I let you in."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:236
+#: dialogs/Town-NorthGateGuard.lua:240
 msgid ""
 "Talk to Spencer. His office is in the citadel, straight ahead, the first one "
 "on your left. You can't miss it."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:237
+#: dialogs/Town-NorthGateGuard.lua:241
 msgid "Now stop bothering me! You crazy loon."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:241 dialogs/Town-NorthGateGuard.lua:281
-msgid "Deliverance"
-msgstr ""
-
-#: dialogs/Town-NorthGateGuard.lua:250
+#: dialogs/Town-NorthGateGuard.lua:254
 msgid "You are as out of your mind as that Sorenson lady."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:251
+#: dialogs/Town-NorthGateGuard.lua:255
 msgid ""
 "But I guess she's already here, so it doesn't matter if we have another loon."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:252
+#: dialogs/Town-NorthGateGuard.lua:257
 msgid "I'm a Linarian, not a loon. %s the Linarian."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:253
+#: dialogs/Town-NorthGateGuard.lua:259
 msgid "Get out of here %s, the loon, and stop bothering me."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:277
+#: dialogs/Town-NorthGateGuard.lua:283
 msgid ""
 "Spencer's office is in the citadel, straight ahead. First one on your left."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:285
+#: dialogs/Town-NorthGateGuard.lua:291
 msgid "No, you were already told that."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:287 dialogs/Town-NorthGateGuard.lua:291
+#: dialogs/Town-NorthGateGuard.lua:293 dialogs/Town-NorthGateGuard.lua:297
 msgid "Stop wasting my time!"
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:289
+#: dialogs/Town-NorthGateGuard.lua:295
 msgid "Are you joking? You already talked to him."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:301
+#: dialogs/Town-NorthGateGuard.lua:307
 msgid ""
 "Really? Wow... I must say, you are efficient. Well, at least we won't lose "
 "anything else to that freak."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:303
+#: dialogs/Town-NorthGateGuard.lua:309
 msgid "I will never again call you a loon. You are a most deadly penguin."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:306
+#: dialogs/Town-NorthGateGuard.lua:312
 msgid ""
 "Here's a little reward we scraped together in case anyone solved our thief "
 "problem. I'll let Spencer know what you did."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:319
+#: dialogs/Town-NorthGateGuard.lua:325
 msgid "Mhmmm."
 msgstr ""
 
-#: dialogs/Town-NorthGateGuard.lua:323
+#: dialogs/Town-NorthGateGuard.lua:330
 msgid "%s... the Loon"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,107 +29,111 @@ msgstr ""
 msgid "Hello. I'm Jennifer."
 msgstr ""
 
-#: dialogs/Jennifer.lua:44
+#: dialogs/Jennifer.lua:45
 msgid "I'm %s."
 msgstr ""
 
-#: dialogs/Jennifer.lua:45
+#: dialogs/Jennifer.lua:46
 msgid "What are you doing here?"
 msgstr ""
 
-#: dialogs/Jennifer.lua:46
+#: dialogs/Jennifer.lua:47
 msgid "I'm a machinist, working here, repairing bots and stuff like this."
 msgstr ""
 
-#: dialogs/Jennifer.lua:54
+#: dialogs/Jennifer.lua:55
 msgid "Well, yes."
 msgstr ""
 
-#: dialogs/Jennifer.lua:55
+#: dialogs/Jennifer.lua:56
 msgid "Someone thought he had to tidy up the space..."
 msgstr ""
 
-#: dialogs/Jennifer.lua:56
+#: dialogs/Jennifer.lua:57
 msgid "...and now I cannot find my equipment anymore, what an idiot!"
 msgstr ""
 
-#: dialogs/Jennifer.lua:57
+#: dialogs/Jennifer.lua:58
 msgid "I'm especially searching for my toolbox."
 msgstr ""
 
-#: dialogs/Jennifer.lua:58
+#: dialogs/Jennifer.lua:59
 msgid "Okay, I will keep my eyes open if I see some toolbox."
 msgstr ""
 
-#: dialogs/Jennifer.lua:59
+#: dialogs/Jennifer.lua:60
 msgid "Thank you."
 msgstr ""
 
-#: dialogs/Jennifer.lua:68
+#: dialogs/Jennifer.lua:69
 msgid "Uhm yes, that's my job here."
 msgstr ""
 
-#: dialogs/Jennifer.lua:77
-msgid "The bots should have killed you immediately."
+#: dialogs/Jennifer.lua:70
+msgid "..."
 msgstr ""
 
 #: dialogs/Jennifer.lua:78
-msgid "It's hell in here for me and you don't seem to be even armed."
+msgid "The bots should have killed you immediately."
 msgstr ""
 
 #: dialogs/Jennifer.lua:79
-msgid "Well..."
+msgid "It's hell in here for me and you don't seem to be even armed."
 msgstr ""
 
 #: dialogs/Jennifer.lua:80
-msgid "The workers here get special chips implanted."
+msgid "Well..."
 msgstr ""
 
 #: dialogs/Jennifer.lua:81
-msgid "Ew."
+msgid "The workers here get special chips implanted."
 msgstr ""
 
 #: dialogs/Jennifer.lua:82
-msgid "So the bots can identify us as 'friendly' and won't rip us apart."
+msgid "Ew."
 msgstr ""
 
 #: dialogs/Jennifer.lua:83
-msgid "Uh."
+msgid "So the bots can identify us as 'friendly' and won't rip us apart."
 msgstr ""
 
 #: dialogs/Jennifer.lua:84
-msgid "Is there any way for me to get such a chip?"
+msgid "Uh."
 msgstr ""
 
 #: dialogs/Jennifer.lua:85
+msgid "Is there any way for me to get such a chip?"
+msgstr ""
+
+#: dialogs/Jennifer.lua:86
 msgid ""
 "I don't think you will be able to get one. You don't look very human-like."
 msgstr ""
 
-#: dialogs/Jennifer.lua:86
+#: dialogs/Jennifer.lua:87
 msgid "How did you get in here anyway?"
 msgstr ""
 
-#: dialogs/Jennifer.lua:94
+#: dialogs/Jennifer.lua:95
 msgid "Mh well ok."
 msgstr ""
 
-#: dialogs/Jennifer.lua:102
+#: dialogs/Jennifer.lua:103
 msgid "Heh. I see."
 msgstr ""
 
-#: dialogs/Jennifer.lua:110
+#: dialogs/Jennifer.lua:111
 msgid "If you say so..."
 msgstr ""
 
-#: dialogs/Jennifer.lua:118
+#: dialogs/Jennifer.lua:119
 msgid "Oh yes, it is!"
 msgstr ""
 
-#: dialogs/Jennifer.lua:119
+#: dialogs/Jennifer.lua:120
 msgid "Thank you very much!"
 msgstr ""
 
-#: dialogs/Jennifer.lua:129
+#: dialogs/Jennifer.lua:130
 msgid "See you later."
 msgstr ""

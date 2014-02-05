@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,7 +30,7 @@ msgstr ""
 
 #: dialogs/SADD.lua:51 dialogs/SADD.lua:75 dialogs/SADD.lua:83
 #: dialogs/SADD.lua:145 dialogs/SADD.lua:312
-msgid "SECONDARY OBJECTIVE: prevent secret information leakage"
+msgid "[b]SECONDARY OBJECTIVE[/b]: prevent secret information leakage"
 msgstr ""
 
 #: dialogs/SADD.lua:52
@@ -50,15 +50,17 @@ msgid "SADD - Secret Area Defense Droid"
 msgstr ""
 
 #: dialogs/SADD.lua:73 dialogs/SADD.lua:143
-msgid "PRIMARY OBJECTIVE 1: do not let unauthorized people in."
+msgid "[b]PRIMARY OBJECTIVE 1[/b]: do not let unauthorized people in."
 msgstr ""
 
 #: dialogs/SADD.lua:74 dialogs/SADD.lua:144 dialogs/SADD.lua:148
-msgid "PRIMARY OBJECTIVE 2: authorized personnel must have access to the zone."
+msgid ""
+"[b]PRIMARY OBJECTIVE 2[/b]: authorized personnel must have access to the "
+"zone."
 msgstr ""
 
 #: dialogs/SADD.lua:84
-msgid "*INFO* secret information theft attempt detected"
+msgid "[b]INFO[/b] secret information theft attempt detected"
 msgstr ""
 
 #: dialogs/SADD.lua:85
@@ -104,15 +106,15 @@ msgid ""
 msgstr ""
 
 #: dialogs/SADD.lua:109
-msgid "*INFO* secret information theft detected!"
+msgid "[b]INFO[/b] secret information theft detected!"
 msgstr ""
 
 #: dialogs/SADD.lua:110
-msgid "*INFO* information classified as critical!"
+msgid "[b]INFO[/b] information classified as critical!"
 msgstr ""
 
 #: dialogs/SADD.lua:111
-msgid "*INFO* locking zone!"
+msgid "[b]INFO[/b] locking zone!"
 msgstr ""
 
 #: dialogs/SADD.lua:122
@@ -219,10 +221,6 @@ msgstr ""
 msgid "Go, and bring dilithium. I badly need it."
 msgstr ""
 
-#: dialogs/SADD.lua:209 dialogs/SADD.lua:225 dialogs/SADD.lua:254
-msgid "SADD's power supply"
-msgstr ""
-
 #: dialogs/SADD.lua:220
 msgid "Good. I've opened the depot door for you."
 msgstr ""
@@ -305,8 +303,8 @@ msgstr ""
 
 #: dialogs/SADD.lua:313
 msgid ""
-"DIRECTIVE 372: All persons leaving with secret information must have proper "
-"authorization."
+"[b]DIRECTIVE 372[/b]: All persons leaving with secret information must have "
+"proper authorization."
 msgstr ""
 
 #: dialogs/SADD.lua:314
@@ -373,15 +371,15 @@ msgstr ""
 msgid "Will you let me inside the base?"
 msgstr ""
 
-#: dialogs/SADD.lua:386
+#: dialogs/SADD.lua:387
 msgid "I'm sorry %s, I'm afraid I can't do that."
 msgstr ""
 
-#: dialogs/SADD.lua:387
+#: dialogs/SADD.lua:388
 msgid ""
 "Nice try, though. I may owe you, but I can't let you in. You must leave."
 msgstr ""
 
-#: dialogs/SADD.lua:396
+#: dialogs/SADD.lua:397
 msgid "Exactly."
 msgstr ""

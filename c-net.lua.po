@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,169 +29,173 @@ msgstr ""
 msgid "Login :"
 msgstr ""
 
-#: dialogs/c-net.lua:60
+#: dialogs/c-net.lua:59
+msgid "guest"
+msgstr ""
+
+#: dialogs/c-net.lua:62
 msgid "First time login detected."
 msgstr ""
 
-#: dialogs/c-net.lua:61
+#: dialogs/c-net.lua:63
 msgid "Please enter your name"
 msgstr ""
 
-#: dialogs/c-net.lua:62 dialogs/c-net.lua:69
+#: dialogs/c-net.lua:64 dialogs/c-net.lua:72
 msgid "Name : "
 msgstr ""
 
-#: dialogs/c-net.lua:64
+#: dialogs/c-net.lua:67
 msgid "Please set password for your personalized guest login, %s"
 msgstr ""
 
-#: dialogs/c-net.lua:65
+#: dialogs/c-net.lua:68
 msgid ""
 "Use at least one lower case letter, one upper case letter, one number, and "
 "one symbol."
 msgstr ""
 
-#: dialogs/c-net.lua:66 dialogs/c-net.lua:71 dialogs/c-net.lua:85
-#: dialogs/c-net.lua:104
+#: dialogs/c-net.lua:69 dialogs/c-net.lua:74 dialogs/c-net.lua:88
+#: dialogs/c-net.lua:107
 msgid "Password : "
 msgstr ""
 
-#: dialogs/c-net.lua:74 dialogs/c-net.lua:92 dialogs/c-net.lua:111
-#: dialogs/c-net.lua:131
+#: dialogs/c-net.lua:70 dialogs/c-net.lua:75
+msgid "******"
+msgstr ""
+
+#: dialogs/c-net.lua:77 dialogs/c-net.lua:95 dialogs/c-net.lua:114
+#: dialogs/c-net.lua:134
 msgid "Last login from /dev/tty3 on unknown"
 msgstr ""
 
-#: dialogs/c-net.lua:123
+#: dialogs/c-net.lua:126
 msgid "Password: "
 msgstr ""
 
-#: dialogs/c-net.lua:142
+#: dialogs/c-net.lua:145
 msgid "Login incorrect"
 msgstr ""
 
-#: dialogs/c-net.lua:143
+#: dialogs/c-net.lua:146
 msgid "Connection to c-net terminated."
 msgstr ""
 
-#: dialogs/c-net.lua:178
+#: dialogs/c-net.lua:181
 msgid "Date unknown"
 msgstr ""
 
-#: dialogs/c-net.lua:256
-msgid "./mountdisk.sh"
-msgstr ""
-
-#: dialogs/c-net.lua:258
-msgid "Mounting volume \"Kevins_Security_File\"..."
-msgstr ""
-
-#: dialogs/c-net.lua:259
-msgid "Private memory and/or virtual address space exhausted."
+#: dialogs/c-net.lua:193
+msgid "Login Tty Name"
 msgstr ""
 
 #: dialogs/c-net.lua:260
-msgid "Not enough free memory to load data file."
+msgid "./mountdisk.sh"
+msgstr ""
+
+#: dialogs/c-net.lua:262
+msgid "Mounting volume \"Kevins_Security_File\"..."
+msgstr ""
+
+#: dialogs/c-net.lua:263
+msgid "Private memory and/or virtual address space exhausted."
 msgstr ""
 
 #: dialogs/c-net.lua:264
+msgid "Not enough free memory to load data file."
+msgstr ""
+
+#: dialogs/c-net.lua:268
 msgid "List for Spencer:"
 msgstr ""
 
-#: dialogs/c-net.lua:311
-msgid "Deliverance"
-msgstr ""
-
-#: dialogs/c-net.lua:315
+#: dialogs/c-net.lua:319
 msgid "no disk found"
 msgstr ""
 
-#: dialogs/c-net.lua:326
+#: dialogs/c-net.lua:330
 msgid "Corrupted file."
 msgstr ""
 
-#: dialogs/c-net.lua:327
+#: dialogs/c-net.lua:331
 msgid "Bot #Dead# Tux #Hacked/Failed#Ratio"
 msgstr ""
 
-#: dialogs/c-net.lua:365
+#: dialogs/c-net.lua:369
 msgid "bomb armed"
 msgstr ""
 
-#: dialogs/c-net.lua:374
+#: dialogs/c-net.lua:378
 msgid "bomb defused"
 msgstr ""
 
-#: dialogs/c-net.lua:384
+#: dialogs/c-net.lua:388
 msgid "Terminals Disabled"
 msgstr ""
 
-#: dialogs/c-net.lua:385
+#: dialogs/c-net.lua:389
 msgid "Script run. After logout this terminal will be disabled."
 msgstr ""
 
-#: dialogs/c-net.lua:386
+#: dialogs/c-net.lua:390
 #, lisp-format
 msgid "root@c-net:~$"
 msgstr ""
 
-#: dialogs/c-net.lua:394 dialogs/c-net.lua:428
+#: dialogs/c-net.lua:399 dialogs/c-net.lua:435
 msgid "Valid tracks:"
 msgstr ""
 
-#: dialogs/c-net.lua:400
+#: dialogs/c-net.lua:405
 msgid "please enter track"
 msgstr ""
 
-#: dialogs/c-net.lua:425
+#: dialogs/c-net.lua:431
 msgid "WARNING, '%s' not a valid track."
 msgstr ""
 
-#: dialogs/c-net.lua:426
+#: dialogs/c-net.lua:433
 msgid "enter 'exit' to exit."
 msgstr ""
 
-#: dialogs/c-net.lua:427
+#: dialogs/c-net.lua:434
 msgid "Please retry."
 msgstr ""
 
-#: dialogs/c-net.lua:481
+#: dialogs/c-net.lua:488
 msgid "./global_thermonuclear_war"
 msgstr ""
 
-#: dialogs/c-net.lua:482
+#: dialogs/c-net.lua:489
 msgid "Sorry, only winning move is not to play. New game?"
 msgstr ""
 
-#: dialogs/c-net.lua:494
+#: dialogs/c-net.lua:501
 msgid "./tetris"
 msgstr ""
 
-#: dialogs/c-net.lua:511
-msgid "./progress_quest"
-msgstr ""
-
-#: dialogs/c-net.lua:514
+#: dialogs/c-net.lua:521
 msgid "Roll your Stats."
 msgstr ""
 
-#: dialogs/c-net.lua:518
+#: dialogs/c-net.lua:525
 msgid "You are already playing Progress Quest:"
 msgstr ""
 
-#: dialogs/c-net.lua:519
+#: dialogs/c-net.lua:526
 msgid "You are selling an item!"
 msgstr ""
 
-#: dialogs/c-net.lua:538
+#: dialogs/c-net.lua:545
 msgid ""
 "You rolled Stats of STR: [b]%d[/b], CON: [b]%d[/b], DEX: [b]%d[/b], INT: "
 "[b]%d[/b], WIS: [b]%d[/b], CHA: [b]%d[/b]."
 msgstr ""
 
-#: dialogs/c-net.lua:547
+#: dialogs/c-net.lua:555
 msgid "Welcome to Progress Quest!"
 msgstr ""
 
-#: dialogs/c-net.lua:566
+#: dialogs/c-net.lua:575
 msgid "Connection to c-net closed."
 msgstr ""

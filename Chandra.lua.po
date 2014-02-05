@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -334,161 +334,161 @@ msgstr ""
 msgid "Machine gun?! But... But it's a servant bot!"
 msgstr ""
 
-#: dialogs/Chandra.lua:201
+#: dialogs/Chandra.lua:202
 msgid "I know, %s. I know."
 msgstr ""
 
-#: dialogs/Chandra.lua:202
+#: dialogs/Chandra.lua:203
 msgid ""
 "Let's see... Oh, there is also the 296, which was used for serving drinks. "
 "Ewald once had one of those in his bar."
 msgstr ""
 
-#: dialogs/Chandra.lua:203
+#: dialogs/Chandra.lua:204
 msgid "Once? What happened to it?"
 msgstr ""
 
-#: dialogs/Chandra.lua:204
+#: dialogs/Chandra.lua:205
 msgid ""
 "No one knows. One day it simply wasn't there. Ewald probably remembers more "
 "than I do, though."
 msgstr ""
 
-#: dialogs/Chandra.lua:214
+#: dialogs/Chandra.lua:215
 msgid ""
 "Though I do not know the details, I assure you there are many. Robots and "
 "automated machinery served almost every purpose you can imagine, and "
 "probably some that you can't."
 msgstr ""
 
-#: dialogs/Chandra.lua:215
+#: dialogs/Chandra.lua:216
 msgid ""
 "They were used by the military, aboard ships, as security droids and more. "
 "Right now, however, most of the people who knew them up close are pushing up "
 "daisies."
 msgstr ""
 
-#: dialogs/Chandra.lua:224
+#: dialogs/Chandra.lua:225
 msgid "I guess you mean in the universe?"
 msgstr ""
 
-#: dialogs/Chandra.lua:225
+#: dialogs/Chandra.lua:226
 msgid "Yes, I think that is your name for it."
 msgstr ""
 
-#: dialogs/Chandra.lua:226
+#: dialogs/Chandra.lua:227
 msgid ""
 "Well, we are in a barred spiral galaxy, twenty-six thousand light years away "
 "from the galactic core."
 msgstr ""
 
-#: dialogs/Chandra.lua:227
+#: dialogs/Chandra.lua:228
 msgid ""
 "The galactic radius is 43,000 light years and the circumference is estimated "
 "at 270,000 light years."
 msgstr ""
 
-#: dialogs/Chandra.lua:228
+#: dialogs/Chandra.lua:229
 msgid ""
 "This is a planetary system of ten planets, and we are presently located on "
 "the third one from our star, Sol."
 msgstr ""
 
-#: dialogs/Chandra.lua:229
+#: dialogs/Chandra.lua:230
 msgid ""
 "I am not an astronomer, so I could be wrong. I am too tired to keep track of "
 "what is a planet and what is just an oversized rock."
 msgstr ""
 
-#: dialogs/Chandra.lua:230
+#: dialogs/Chandra.lua:231
 msgid "This could be just about anywhere. Your description is too ambiguous."
 msgstr ""
 
-#: dialogs/Chandra.lua:231
+#: dialogs/Chandra.lua:232
 msgid "Sorry, star sciences are my weak point."
 msgstr ""
 
-#: dialogs/Chandra.lua:232
+#: dialogs/Chandra.lua:233
 msgid "...Right."
 msgstr ""
 
-#: dialogs/Chandra.lua:240
+#: dialogs/Chandra.lua:241
 msgid "Oh did he? What exactly did he say about me?"
 msgstr ""
 
-#: dialogs/Chandra.lua:241
+#: dialogs/Chandra.lua:242
 msgid "He said you might know more about who I am, about Linarians."
 msgstr ""
 
-#: dialogs/Chandra.lua:242
+#: dialogs/Chandra.lua:243
 msgid ""
 "Hmmm... I'm not so sure about 'who', but he is quite right about my "
 "knowledge of Linarians... quite right indeed. What would you like to know, "
 "my friend?"
 msgstr ""
 
-#: dialogs/Chandra.lua:255 dialogs/Chandra.lua:267
+#: dialogs/Chandra.lua:256 dialogs/Chandra.lua:268
 msgid "Yes?"
 msgstr ""
 
-#: dialogs/Chandra.lua:277 dialogs/Chandra.lua:399
+#: dialogs/Chandra.lua:278 dialogs/Chandra.lua:400
 msgid "Did you have any other questions?"
 msgstr ""
 
-#: dialogs/Chandra.lua:287
+#: dialogs/Chandra.lua:288
 msgid ""
 "Ah yes, I heard that your memory had been affected by stasis. I will share "
 "with you what I know."
 msgstr ""
 
-#: dialogs/Chandra.lua:288 dialogs/Chandra.lua:305
+#: dialogs/Chandra.lua:289 dialogs/Chandra.lua:306
 msgid ""
 "Linarians came to this planet about a century ago. While their specialties "
 "can vary, they are most widely known for their nearly-magical skills with "
 "computers."
 msgstr ""
 
-#: dialogs/Chandra.lua:291
+#: dialogs/Chandra.lua:292
 msgid ""
 "[b](Chandra quickly glances around. After verifying that no one else seems "
 "to be paying attention to your conversation, he takes a quick breath and "
 "continues quietly.)[/b]"
 msgstr ""
 
-#: dialogs/Chandra.lua:292
+#: dialogs/Chandra.lua:293
 msgid ""
 "Since you are asking this question and you have even come into our town, I "
 "am assuming that your memory has been completely damaged."
 msgstr ""
 
-#: dialogs/Chandra.lua:293
+#: dialogs/Chandra.lua:294
 msgid ""
 "What I am about to tell you is not easy to say, nor will it be easy to hear. "
 "For that I apologize, but you must know the truth."
 msgstr ""
 
-#: dialogs/Chandra.lua:294
+#: dialogs/Chandra.lua:295
 msgid "[b](He pauses for a breath.)[/b]"
 msgstr ""
 
-#: dialogs/Chandra.lua:295
+#: dialogs/Chandra.lua:296
 msgid ""
 "When your people first arrived, there was a miscommunication that resulted "
 "in the leaders of Earth acting aggressively. Unfortunately, most of your "
 "people did not survive..."
 msgstr ""
 
-#: dialogs/Chandra.lua:296
+#: dialogs/Chandra.lua:297
 msgid "For that my friend, I am deeply sorry."
 msgstr ""
 
-#: dialogs/Chandra.lua:297
+#: dialogs/Chandra.lua:298
 msgid ""
 "[b](He hangs his head slightly and you feel he is sincere in his remorse.)[/"
 "b]"
 msgstr ""
 
-#: dialogs/Chandra.lua:301
+#: dialogs/Chandra.lua:302
 msgid ""
 "[b](Chandra moves his head ever so slightly as he quickly glances around. "
 "After noticing the nearby presence of the Red Guard member, his posture and "
@@ -496,132 +496,132 @@ msgid ""
 "escort...)[/b]"
 msgstr ""
 
-#: dialogs/Chandra.lua:302
+#: dialogs/Chandra.lua:303
 msgid "What else would you like to know?"
 msgstr ""
 
-#: dialogs/Chandra.lua:306
+#: dialogs/Chandra.lua:307
 msgid ""
 "I'd rather not repeat what I said earlier. It pains me to think of it..."
 msgstr ""
 
-#: dialogs/Chandra.lua:317
+#: dialogs/Chandra.lua:318
 msgid "What happened to the other Linarians that survived first contact?"
 msgstr ""
 
-#: dialogs/Chandra.lua:318
+#: dialogs/Chandra.lua:319
 msgid ""
 "Sadly, I do not know. All that remains are legends. For a time, Linarians "
 "wandered the planet performing grand deeds and earning the respect of most "
 "of humanity."
 msgstr ""
 
-#: dialogs/Chandra.lua:319
+#: dialogs/Chandra.lua:320
 msgid ""
 "But as time passed, so did the memories of the great deeds. It is unlikely "
 "that you will find many who know more about your people's noble past."
 msgstr ""
 
-#: dialogs/Chandra.lua:320 dialogs/Chandra.lua:337
+#: dialogs/Chandra.lua:321 dialogs/Chandra.lua:338
 msgid ""
 "Perhaps there are still other Linarians alive here on our planet. Or maybe "
 "some went back to your own planet."
 msgstr ""
 
-#: dialogs/Chandra.lua:332
+#: dialogs/Chandra.lua:333
 msgid "Your people slaughtered us?!"
 msgstr ""
 
-#: dialogs/Chandra.lua:333
+#: dialogs/Chandra.lua:334
 msgid ""
 "Yes, this is the truth and it is something most humans regret. It is this "
 "regret that has helped erase the Linarians from our history."
 msgstr ""
 
-#: dialogs/Chandra.lua:334
+#: dialogs/Chandra.lua:335
 msgid ""
 "Humanity does not have a pretty history. We have done many horrible things "
 "to each other as well. There are many things we regret so deeply that we "
 "wish we could forget."
 msgstr ""
 
-#: dialogs/Chandra.lua:335
+#: dialogs/Chandra.lua:336
 msgid ""
 "Over time, most people have willingly forgotten our actions and focused on "
 "the good deeds the Linarians performed despite our senseless behavior."
 msgstr ""
 
-#: dialogs/Chandra.lua:336
+#: dialogs/Chandra.lua:337
 msgid ""
 "Even though we tried to celebrate the grand deeds and heroics of the "
 "surviving Linarians, the memories faded. The memories turned into legends "
 "and myths as the Linarians slowly withdrew from the world."
 msgstr ""
 
-#: dialogs/Chandra.lua:338
+#: dialogs/Chandra.lua:339
 msgid ""
 "Spencer and the Red Guard would not want you to know these things, as you "
 "might not be willing to help our failing community."
 msgstr ""
 
-#: dialogs/Chandra.lua:339
+#: dialogs/Chandra.lua:340
 msgid ""
 "However, to not share this information with you is another transgression "
 "that I cannot be a part of. Please %s, we need your help!"
 msgstr ""
 
-#: dialogs/Chandra.lua:348
+#: dialogs/Chandra.lua:349
 msgid ""
 "Oh! This is great news! I was fearful that the truth would not settle well."
 msgstr ""
 
-#: dialogs/Chandra.lua:349
+#: dialogs/Chandra.lua:350
 msgid ""
 "I should have never doubted the nobility and legendary honor of Linarians."
 msgstr ""
 
-#: dialogs/Chandra.lua:361
+#: dialogs/Chandra.lua:362
 msgid ""
 "Stupid humans! How dare you?! Your crimes are unforgivable! You all deserve "
 "to be slaughtered by these robots!"
 msgstr ""
 
-#: dialogs/Chandra.lua:362
+#: dialogs/Chandra.lua:363
 msgid "But..."
 msgstr ""
 
-#: dialogs/Chandra.lua:363
+#: dialogs/Chandra.lua:364
 msgid "And I am more than happy to help them!"
 msgstr ""
 
-#: dialogs/Chandra.lua:374
+#: dialogs/Chandra.lua:375
 msgid ""
 "[b]<chuckles>[/b] This is not the first time the people of Earth have seen "
 "one of your kind."
 msgstr ""
 
-#: dialogs/Chandra.lua:375
+#: dialogs/Chandra.lua:376
 msgid ""
 "Of course, its been almost one hundred years since Linarians first came to "
 "this planet. As you might imagine most of the people who were alive then are "
 "long gone."
 msgstr ""
 
-#: dialogs/Chandra.lua:376
+#: dialogs/Chandra.lua:377
 msgid ""
 "But the townspeople were made aware of your existence upon your discovery. "
 "Everyone was quickly informed of the legends performed by the Linarians of "
 "the past."
 msgstr ""
 
-#: dialogs/Chandra.lua:377
+#: dialogs/Chandra.lua:378
 msgid ""
 "While you will find some people helpful because of this, others may be a bit "
 "more hostile. The hostility is a matter of xenophobia and pride in one's own "
 "species."
 msgstr ""
 
-#: dialogs/Chandra.lua:379
+#: dialogs/Chandra.lua:380
 msgid ""
 "Don't tell anyone else, but I'm surprised the Red Guard ordered you to be "
 "thawed. They are human supremacists to the extreme. For them to accept your "
@@ -629,16 +629,16 @@ msgid ""
 "Red Guard, Linarian."
 msgstr ""
 
-#: dialogs/Chandra.lua:389
+#: dialogs/Chandra.lua:390
 msgid ""
 "The planet you mean? No one knows that. None of you ever said anything about "
 "it."
 msgstr ""
 
-#: dialogs/Chandra.lua:390
+#: dialogs/Chandra.lua:391
 msgid "Sorry, I cannot help you with that."
 msgstr ""
 
-#: dialogs/Chandra.lua:407
+#: dialogs/Chandra.lua:408
 msgid "Feel free to come here any time you want."
 msgstr ""

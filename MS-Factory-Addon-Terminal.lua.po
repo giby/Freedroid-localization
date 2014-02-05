@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,37 +22,41 @@ msgid "Login : "
 msgstr ""
 
 #: dialogs/MS-Factory-Addon-Terminal.lua:29
-#: dialogs/MS-Factory-Addon-Terminal.lua:34
-#: dialogs/MS-Factory-Addon-Terminal.lua:37
+msgid "user"
+msgstr ""
+
+#: dialogs/MS-Factory-Addon-Terminal.lua:30
+#: dialogs/MS-Factory-Addon-Terminal.lua:35
+#: dialogs/MS-Factory-Addon-Terminal.lua:38
 msgid "Password : "
 msgstr ""
 
-#: dialogs/MS-Factory-Addon-Terminal.lua:32
-#: dialogs/MS-Factory-Addon-Terminal.lua:36
+#: dialogs/MS-Factory-Addon-Terminal.lua:33
+#: dialogs/MS-Factory-Addon-Terminal.lua:37
 msgid "Incorrect password or username"
 msgstr ""
 
-#: dialogs/MS-Factory-Addon-Terminal.lua:33
+#: dialogs/MS-Factory-Addon-Terminal.lua:34
 msgid "Mmmh..."
 msgstr ""
 
-#: dialogs/MS-Factory-Addon-Terminal.lua:39
-#: dialogs/MS-Factory-Addon-Terminal.lua:43
+#: dialogs/MS-Factory-Addon-Terminal.lua:40
+#: dialogs/MS-Factory-Addon-Terminal.lua:44
 msgid "Login succeeded!"
 msgstr ""
 
-#: dialogs/MS-Factory-Addon-Terminal.lua:40
+#: dialogs/MS-Factory-Addon-Terminal.lua:41
 msgid "Oh well...."
 msgstr ""
 
-#: dialogs/MS-Factory-Addon-Terminal.lua:45
+#: dialogs/MS-Factory-Addon-Terminal.lua:46
 msgid "Last login from /dev/ttyS0 on Fri, 9 dec 2059."
 msgstr ""
 
-#: dialogs/MS-Factory-Addon-Terminal.lua:71
+#: dialogs/MS-Factory-Addon-Terminal.lua:72
 msgid "Exiting"
 msgstr ""
 
-#: dialogs/MS-Factory-Addon-Terminal.lua:72
+#: dialogs/MS-Factory-Addon-Terminal.lua:73
 msgid "M$ - What will be next?"
 msgstr ""

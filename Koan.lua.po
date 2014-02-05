@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -54,10 +54,6 @@ msgstr ""
 
 #: dialogs/Koan.lua:63
 msgid "I see you've brought a friend along with you."
-msgstr ""
-
-#: dialogs/Koan.lua:73 dialogs/Koan.lua:126 dialogs/Koan.lua:148
-msgid "Doing Duncan a favor"
 msgstr ""
 
 #: dialogs/Koan.lua:85

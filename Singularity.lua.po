@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -123,12 +123,7 @@ msgid ""
 msgstr ""
 
 #: dialogs/Singularity.lua:93
-msgid "Message 42607 to All Droids : Enemy spotted. Order to destroy."
-msgstr ""
-
-#: dialogs/Singularity.lua:96 dialogs/Singularity.lua:119
-#: dialogs/Singularity.lua:132
-msgid "The yellow toolkit"
+msgid "Message 42607 to All Droids : Enemy spotted. Order is to destroy."
 msgstr ""
 
 #: dialogs/Singularity.lua:105
@@ -164,10 +159,6 @@ msgstr ""
 msgid ""
 "The server room entryway has been unlocked. You now have access. We wish you "
 "a high probability of success."
-msgstr ""
-
-#: dialogs/Singularity.lua:120
-msgid "Droids are my friends"
 msgstr ""
 
 #: dialogs/Singularity.lua:129

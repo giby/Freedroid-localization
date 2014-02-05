@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 13:12+0000\n"
+"POT-Creation-Date: 2014-02-05 20:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -63,13 +63,6 @@ msgstr ""
 msgid ""
 "Speaking of moment, you can also [b]sprint[/b] by holding the [b]control "
 "key[/b]."
-msgstr ""
-
-#: dialogs/TutorialTom.lua:127 dialogs/TutorialTom.lua:218
-#: dialogs/TutorialTom.lua:236 dialogs/TutorialTom.lua:251
-#: dialogs/TutorialTom.lua:266 dialogs/TutorialTom.lua:283
-#: dialogs/TutorialTom.lua:307
-msgid "Tutorial Movement"
 msgstr ""
 
 #: dialogs/TutorialTom.lua:128
@@ -249,13 +242,6 @@ msgstr ""
 msgid "Left click on the chest to open it up and see what is inside."
 msgstr ""
 
-#: dialogs/TutorialTom.lua:331 dialogs/TutorialTom.lua:434
-#: dialogs/TutorialTom.lua:436 dialogs/TutorialTom.lua:497
-#: dialogs/TutorialTom.lua:513 dialogs/TutorialTom.lua:545
-#: dialogs/TutorialTom.lua:615
-msgid "Tutorial Melee"
-msgstr ""
-
 #: dialogs/TutorialTom.lua:341
 msgid "Well, you've discovered a great secret: chests sometimes contain items."
 msgstr ""
@@ -320,6 +306,10 @@ msgstr ""
 
 #: dialogs/TutorialTom.lua:368
 msgid "Well, it can help you avoid indecent exposure charges."
+msgstr ""
+
+#: dialogs/TutorialTom.lua:369
+msgid "..."
 msgstr ""
 
 #: dialogs/TutorialTom.lua:370
@@ -846,11 +836,6 @@ msgid ""
 "captivity."
 msgstr ""
 
-#: dialogs/TutorialTom.lua:635 dialogs/TutorialTom.lua:667
-#: dialogs/TutorialTom.lua:693 dialogs/TutorialTom.lua:731
-msgid "Tutorial Shooting"
-msgstr ""
-
 #: dialogs/TutorialTom.lua:643
 msgid ""
 "The basic idea behind ranged weaponry is to hurt or kill an enemy without "
@@ -1173,11 +1158,6 @@ msgstr ""
 msgid "This way an upgraded item is created."
 msgstr ""
 
-#: dialogs/TutorialTom.lua:804 dialogs/TutorialTom.lua:827
-#: dialogs/TutorialTom.lua:975 dialogs/TutorialTom.lua:992
-msgid "Tutorial Upgrading Items"
-msgstr ""
-
 #: dialogs/TutorialTom.lua:805
 msgid ""
 "The [b]Hacking[/b] program we will speak a bit more of in a little while."
@@ -1217,11 +1197,6 @@ msgstr ""
 
 #: dialogs/TutorialTom.lua:832
 msgid "Terminals act very similar to hacked bots."
-msgstr ""
-
-#: dialogs/TutorialTom.lua:833 dialogs/TutorialTom.lua:850
-#: dialogs/TutorialTom.lua:873 dialogs/TutorialTom.lua:946
-msgid "Tutorial Hacking"
 msgstr ""
 
 #: dialogs/TutorialTom.lua:842
