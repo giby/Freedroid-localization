@@ -17,42 +17,30 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: dialogs/Mike.lua:36
-msgid "You have won the arena."
+#: dialogs/Vending-Machine.lua:25
+msgid "[b][OK][/b] Waking up from sleep mode..."
 msgstr ""
 
-#: dialogs/Mike.lua:39
-msgid "Novice arena cleared!"
+#: dialogs/Vending-Machine.lua:26
+msgid "[b][OK][/b] Obtaining ware table..."
 msgstr ""
 
-#: dialogs/Mike.lua:40
-msgid "Level cleared!"
+#: dialogs/Vending-Machine.lua:27
+msgid "[b][OK][/b] Loading graphical user interface..."
 msgstr ""
 
-#: dialogs/Mike.lua:45
-msgid "You have left the arena."
+#: dialogs/Vending-Machine.lua:28
+msgid "[b][OK][/b] Preparing trade..."
 msgstr ""
 
-#: dialogs/Mike.lua:48
-msgid "The arena is already started."
+#: dialogs/Vending-Machine.lua:30
+msgid "Trade done."
 msgstr ""
 
-#: dialogs/Mike.lua:65
-msgid "Choose a level."
+#: dialogs/Vending-Machine.lua:31
+msgid "[b][OK][/b] Shutting down graphical user interface..."
 msgstr ""
 
-#: dialogs/Mike.lua:73
-msgid "Start Novice Arena"
-msgstr ""
-
-#: dialogs/Mike.lua:81
-msgid "Start Elite Arena"
-msgstr ""
-
-#: dialogs/Mike.lua:89
-msgid "Start Champion Arena"
-msgstr ""
-
-#: dialogs/Mike.lua:98
-msgid "Terminate"
+#: dialogs/Vending-Machine.lua:32
+msgid "[b][OK][/b] Entering sleep mode..."
 msgstr ""

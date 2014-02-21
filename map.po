@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 20:16+0000\n"
+"POT-Creation-Date: 2014-02-21 00:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,47 +17,47 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: map/events.dat:623
+#: map/events.dat:763
 msgid "The yellow toolkit"
 msgstr ""
 
-#: map/events.dat:637
+#: map/events.dat:777
 msgid "Elbow grease has been applied to the Automated Factory."
 msgstr ""
 
-#: map/events.dat:755
+#: map/events.dat:895
 msgid "An Explosive Situation"
 msgstr ""
 
-#: map/events.dat:1104
+#: map/events.dat:1244
 msgid "It's a trap!"
 msgstr ""
 
-#: map/events.dat:1620
+#: map/events.dat:1765
 msgid "Wave "
 msgstr ""
 
-#: map/events.dat:1622
+#: map/events.dat:1767
 msgid "Final Wave - Take care!"
 msgstr ""
 
-#: map/events.dat:1645
+#: map/events.dat:1790
 msgid "All bots are killed! Go to center for next wave."
 msgstr ""
 
-#: map/events.dat:1648
+#: map/events.dat:1793
 msgid "All bots are killed! You won."
 msgstr ""
 
-#: map/events.dat:1906
+#: map/events.dat:2051
 msgid "Tania's Escape"
 msgstr ""
 
-#: map/events.dat:6407
+#: map/events.dat:6568
 msgid "Security failure at Hell's Fortress reception desk."
 msgstr ""
 
-#: map/events.dat:6420
+#: map/events.dat:6581
 msgid "Spencer still needed alive to win game."
 msgstr ""
 

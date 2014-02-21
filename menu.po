@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-05 20:17+0000\n"
+"POT-Creation-Date: 2014-02-21 00:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -132,27 +132,27 @@ msgstr ""
 msgid "[n]--- Start of Dialog ---\n"
 msgstr ""
 
-#: src/enemy.c:891
+#: src/enemy.c:895
 #, c-format
 msgid "Your friend [s]%s[v] was killed by %s."
 msgstr ""
 
-#: src/enemy.c:895
+#: src/enemy.c:899
 #, c-format
 msgid "You killed [s]%s[v]."
 msgstr ""
 
-#: src/enemy.c:899
+#: src/enemy.c:903
 #, c-format
 msgid "[s]%s[v] halted and caught fire."
 msgstr ""
 
-#: src/enemy.c:902
+#: src/enemy.c:906
 #, c-format
 msgid "[s]%s[v] is dead."
 msgstr ""
 
-#: src/enemy.c:907
+#: src/enemy.c:911
 #, c-format
 msgid "For defeating [s]%s[v], you receive %d experience."
 msgstr ""
@@ -272,20 +272,20 @@ msgstr ""
 msgid "%s empty, reloading..."
 msgstr ""
 
-#: src/influ.c:974 src/menu.c:979
+#: src/influ.c:974 src/menu.c:978
 msgid "Load Latest"
 msgstr ""
 
-#: src/influ.c:975 src/menu.c:980
+#: src/influ.c:975 src/menu.c:979
 msgid "Load Backup"
 msgstr ""
 
-#: src/influ.c:976 src/lvledit/lvledit_menu.c:1006 src/menu.c:982
+#: src/influ.c:976 src/lvledit/lvledit_menu.c:1006 src/menu.c:981
 msgid "Quit to Main Menu"
 msgstr ""
 
-#: src/influ.c:977 src/lvledit/lvledit_menu.c:1007 src/menu.c:838
-#: src/menu.c:985
+#: src/influ.c:977 src/lvledit/lvledit_menu.c:1007 src/menu.c:837
+#: src/menu.c:984
 msgid "Exit FreedroidRPG"
 msgstr ""
 
@@ -306,7 +306,7 @@ msgstr ""
 msgid "Starting new game."
 msgstr ""
 
-#: src/init.c:1166
+#: src/init.c:1165
 msgid ""
 "You are playing a Release Candidate.\n"
 "Strange bugs may still be present in the game.\n"
@@ -317,11 +317,11 @@ msgid ""
 "Good luck!\n"
 msgstr ""
 
-#: src/init.c:1184 src/init.c:1185
+#: src/init.c:1183 src/init.c:1184
 msgid "Game over.\n"
 msgstr ""
 
-#: src/init.c:1256 src/init.c:1257
+#: src/init.c:1255 src/init.c:1256
 msgid "Game won.\n"
 msgstr ""
 
@@ -532,437 +532,69 @@ msgid "You are running a program!"
 msgstr ""
 
 #: src/items.c:738
+msgid "You are taking a pill!"
+msgstr ""
+
+#: src/items.c:741
 msgid ""
 "You are doing something so weird the game does not understand what it is"
 msgstr ""
 
-#: src/items.c:741
+#: src/items.c:744
 #, c-format
 msgid "How do you expect to do two things at a time? %s"
 msgstr ""
 
-#: src/items.c:792
+#: src/items.c:795
 msgid "The doctor warned you. You are now weak and sickly."
 msgstr ""
 
-#: src/items.c:806
+#: src/items.c:809
 #, c-format
 msgid "You have reached the maximum skill level for %s"
 msgstr ""
 
-#: src/items.c:1559
+#: src/items.c:1562
 msgid "You can not use the inventory while paralyzed."
 msgstr ""
 
-#: src/items.c:1639
+#: src/items.c:1642
 msgid "You cannot fight with this!"
 msgstr ""
 
-#: src/items.c:1645
+#: src/items.c:1648
 msgid "You cannot yet fight with this!"
 msgstr ""
 
-#: src/items.c:1684
+#: src/items.c:1687
 msgid "Two-handed weapon requirements not met: shield bonus doesn't count."
 msgstr ""
 
-#: src/items.c:1697
+#: src/items.c:1700
 msgid "You cannot equip this!"
 msgstr ""
 
-#: src/items.c:1703
+#: src/items.c:1706
 msgid "You cannot equip this yet!"
 msgstr ""
 
-#: src/items.c:1735
+#: src/items.c:1738
 msgid "Shield requirements not met: two-handed weapon bonus doesn't count."
 msgstr ""
 
-#: src/items.c:1877 src/items.c:2078
+#: src/items.c:1880 src/items.c:2081
 msgid "I can't carry any more."
 msgstr ""
 
-#: src/keyboard.c:206
-msgid "keychart"
-msgstr ""
-
-#: src/keyboard.c:207
-msgid "fullscreen"
-msgstr ""
-
-#: src/keyboard.c:208
-msgid "grab_input"
-msgstr ""
-
-#: src/keyboard.c:209
-msgid "quit"
-msgstr ""
-
-#: src/keyboard.c:210
-msgid "wall_transparency"
-msgstr ""
-
-#: src/keyboard.c:211
-msgid "take_screenshot"
-msgstr ""
-
-#: src/keyboard.c:214
-msgid "inventory"
-msgstr ""
-
-#: src/keyboard.c:215
-msgid "skill"
-msgstr ""
-
-#: src/keyboard.c:216
-msgid "character"
-msgstr ""
-
-#: src/keyboard.c:217
-msgid "quests"
-msgstr ""
-
-#: src/keyboard.c:218
-msgid "reload"
-msgstr ""
-
-#: src/keyboard.c:219
-msgid "autorun"
-msgstr ""
-
-#: src/keyboard.c:221
-msgid "move_north"
-msgstr ""
-
-#: src/keyboard.c:222
-msgid "move_south"
-msgstr ""
-
-#: src/keyboard.c:223
-msgid "move_east"
-msgstr ""
-
-#: src/keyboard.c:224
-msgid "move_west"
-msgstr ""
-
-#: src/keyboard.c:226
-msgid "quicksave"
-msgstr ""
-
-#: src/keyboard.c:227
-msgid "quickload"
-msgstr ""
-
-#: src/keyboard.c:228
-msgid "pause"
-msgstr ""
-
-#: src/keyboard.c:229
-msgid "show_item_labels"
-msgstr ""
-
-#: src/keyboard.c:230
-msgid "automap"
-msgstr ""
-
-#: src/keyboard.c:232
-msgid "activate_program0"
-msgstr ""
-
-#: src/keyboard.c:233
-msgid "activate_program1"
-msgstr ""
-
-#: src/keyboard.c:234
-msgid "activate_program2"
-msgstr ""
-
-#: src/keyboard.c:235
-msgid "activate_program3"
-msgstr ""
-
-#: src/keyboard.c:236
-msgid "activate_program4"
-msgstr ""
-
-#: src/keyboard.c:237
-msgid "activate_program5"
-msgstr ""
-
-#: src/keyboard.c:238
-msgid "activate_program6"
-msgstr ""
-
-#: src/keyboard.c:239
-msgid "activate_program7"
-msgstr ""
-
-#: src/keyboard.c:241
-msgid "quick_inventory0"
-msgstr ""
-
-#: src/keyboard.c:242
-msgid "quick_inventory1"
-msgstr ""
-
-#: src/keyboard.c:243
-msgid "quick_inventory2"
-msgstr ""
-
-#: src/keyboard.c:244
-msgid "quick_inventory3"
-msgstr ""
-
-#: src/keyboard.c:245
-msgid "quick_inventory4"
-msgstr ""
-
-#: src/keyboard.c:246
-msgid "quick_inventory5"
-msgstr ""
-
-#: src/keyboard.c:247
-msgid "quick_inventory6"
-msgstr ""
-
-#: src/keyboard.c:248
-msgid "quick_inventory7"
-msgstr ""
-
-#: src/keyboard.c:249
-msgid "quick_inventory8"
-msgstr ""
-
-#: src/keyboard.c:250
-msgid "quick_inventory9"
-msgstr ""
-
-#: src/keyboard.c:252
-msgid "close_windows"
-msgstr ""
-
-#: src/keyboard.c:253
-msgid "game_escape_menu"
-msgstr ""
-
-#: src/keyboard.c:256
-msgid "drop_item"
-msgstr ""
-
-#: src/keyboard.c:257
-msgid "place_obstacle_kp1"
-msgstr ""
-
-#: src/keyboard.c:258
-msgid "place_obstacle_kp2"
-msgstr ""
-
-#: src/keyboard.c:259
-msgid "place_obstacle_kp3"
-msgstr ""
-
-#: src/keyboard.c:260
-msgid "place_obstacle_kp4"
-msgstr ""
-
-#: src/keyboard.c:261
-msgid "place_obstacle_kp5"
-msgstr ""
-
-#: src/keyboard.c:262
-msgid "place_obstacle_kp6"
-msgstr ""
-
-#: src/keyboard.c:263
-msgid "place_obstacle_kp7"
-msgstr ""
-
-#: src/keyboard.c:264
-msgid "place_obstacle_kp8"
-msgstr ""
-
-#: src/keyboard.c:265 src/keyboard.c:266
-msgid "place_obstacle_kp9"
-msgstr ""
-
-#: src/keyboard.c:267
-msgid "change_obstacle_label"
-msgstr ""
-
-#: src/keyboard.c:268
-msgid "change_map_label"
-msgstr ""
-
-#: src/keyboard.c:269
-msgid "zoom_out"
-msgstr ""
-
-#: src/keyboard.c:270
-msgid "cycle_marked_object"
-msgstr ""
-
-#: src/keyboard.c:271
-msgid "next_tab"
-msgstr ""
-
-#: src/keyboard.c:272
-msgid "previous_tab"
-msgstr ""
-
-#: src/keyboard.c:273
-msgid "undo"
-msgstr ""
-
-#: src/keyboard.c:274
-msgid "redo"
-msgstr ""
-
-#: src/keyboard.c:275
-msgid "beautify_grass"
-msgstr ""
-
-#: src/keyboard.c:276
-msgid "beautify_water"
-msgstr ""
-
-#: src/keyboard.c:277
-msgid "toggle_waypoint"
-msgstr ""
-
-#: src/keyboard.c:278
-msgid "toggle_waypoint_randomspawn"
-msgstr ""
-
-#: src/keyboard.c:279
-msgid "connect_waypoint"
-msgstr ""
-
-#: src/keyboard.c:280
-msgid "toolbar_scroll_left"
-msgstr ""
-
-#: src/keyboard.c:281
-msgid "toolbar_scroll_right"
-msgstr ""
-
-#: src/keyboard.c:282
-msgid "toolbar_step_left"
-msgstr ""
-
-#: src/keyboard.c:283
-msgid "toolbar_step_right"
-msgstr ""
-
 #: src/keyboard.c:284
-msgid "cut"
-msgstr ""
-
-#: src/keyboard.c:285
-msgid "copy"
-msgstr ""
-
-#: src/keyboard.c:286
-msgid "paste"
-msgstr ""
-
-#: src/keyboard.c:287
-msgid "delete"
-msgstr ""
-
-#: src/keyboard.c:288
-msgid "next_selection_type"
-msgstr ""
-
-#: src/keyboard.c:289
-msgid "previous_selection_type"
-msgstr ""
-
-#: src/keyboard.c:290
-msgid "run_map_validator"
-msgstr ""
-
-#: src/keyboard.c:293
-msgid "cheat_xp+_1k"
-msgstr ""
-
-#: src/keyboard.c:294
-msgid "cheat_xp*_2"
-msgstr ""
-
-#: src/keyboard.c:295
-msgid "cheat_melee"
-msgstr ""
-
-#: src/keyboard.c:296
-msgid "cheat_range"
-msgstr ""
-
-#: src/keyboard.c:297
-msgid "cheat_programing"
-msgstr ""
-
-#: src/keyboard.c:298
-msgid "cheat_melee_down"
-msgstr ""
-
-#: src/keyboard.c:299
-msgid "cheat_range_down"
-msgstr ""
-
-#: src/keyboard.c:300
-msgid "cheat_programing_down"
-msgstr ""
-
-#: src/keyboard.c:301
-msgid "cheat_drop_random_item"
-msgstr ""
-
-#: src/keyboard.c:302
-msgid "cheat_drop_random_magical_item"
-msgstr ""
-
-#: src/keyboard.c:303
-msgid "cheat_respawn_level"
-msgstr ""
-
-#: src/keyboard.c:304
-msgid "cheat_level_editor"
-msgstr ""
-
-#: src/keyboard.c:305
-msgid "cheat_menu"
-msgstr ""
-
-#: src/keyboard.c:306
-msgid "cheat_reload_graphics"
-msgstr ""
-
-#: src/keyboard.c:307
-msgid "cheat_inc_repair"
-msgstr ""
-
-#: src/keyboard.c:308
-msgid "cheat_dec_repair"
-msgstr ""
-
-#: src/keyboard.c:312
-msgid "rtprof_switch_activation"
-msgstr ""
-
-#: src/keyboard.c:313
-msgid "rtprof_clear_probes"
-msgstr ""
-
-#: src/keyboard.c:339
 msgid "Key chart"
 msgstr ""
 
-#: src/keyboard.c:371
+#: src/keyboard.c:316
 msgid "ARROWS to select, ENTER to remap, ESCAPE to exit"
 msgstr ""
 
-#: src/keyboard.c:818
+#: src/keyboard.c:765
 #, c-format
 msgid "Screenshot saved to \"%s\" in your .freedroid_rpg/ directory."
 msgstr ""
@@ -1234,10 +866,10 @@ msgstr ""
 
 #: src/lvledit/lvledit_menu.c:126 src/lvledit/lvledit_menu.c:241
 #: src/lvledit/lvledit_menu.c:415 src/lvledit/lvledit_menu.c:634
-#: src/lvledit/lvledit_menu.c:917 src/menu.c:874 src/menu.c:926
-#: src/menu.c:1068 src/menu.c:1153 src/menu.c:1264 src/menu.c:1329
-#: src/menu.c:1399 src/menu.c:1430 src/menu.c:1577 src/menu.c:1608
-#: src/menu.c:1632 src/menu.c:1690
+#: src/lvledit/lvledit_menu.c:917 src/menu.c:873 src/menu.c:925
+#: src/menu.c:1067 src/menu.c:1152 src/menu.c:1263 src/menu.c:1328
+#: src/menu.c:1398 src/menu.c:1429 src/menu.c:1576 src/menu.c:1607
+#: src/menu.c:1631 src/menu.c:1689
 msgid "Back"
 msgstr ""
 
@@ -1664,128 +1296,128 @@ msgstr ""
 msgid "Weapon reloaded"
 msgstr ""
 
-#: src/menu.c:47 src/menu.c:832
+#: src/menu.c:44 src/menu.c:831
 msgid "Play"
 msgstr ""
 
-#: src/menu.c:48
+#: src/menu.c:45
 msgid "Your characters: "
 msgstr ""
 
-#: src/menu.c:49
+#: src/menu.c:46
 msgid "Select character to delete: "
 msgstr ""
 
-#: src/menu.c:98
+#: src/menu.c:95
 #, c-format
 msgid "OpenGL support compiled: YES"
 msgstr ""
 
-#: src/menu.c:100
+#: src/menu.c:97
 #, c-format
 msgid "OpenGL support compiled: NO"
 msgstr ""
 
-#: src/menu.c:103
+#: src/menu.c:100
 #, c-format
 msgid "OpenGL output active: "
 msgstr ""
 
-#: src/menu.c:105
+#: src/menu.c:102
 #, c-format
 msgid "OpenGL output active: YES"
 msgstr ""
 
-#: src/menu.c:107
+#: src/menu.c:104
 #, c-format
 msgid "OpenGL output active: NO"
 msgstr ""
 
-#: src/menu.c:229 src/menu.c:1573
+#: src/menu.c:226 src/menu.c:1572
 msgid "[down]"
 msgstr ""
 
-#: src/menu.c:230 src/menu.c:1562
+#: src/menu.c:227 src/menu.c:1561
 msgid "[up]"
 msgstr ""
 
-#: src/menu.c:833
+#: src/menu.c:832
 msgid "Tutorial"
 msgstr ""
 
-#: src/menu.c:834
+#: src/menu.c:833
 msgid "Level Editor"
 msgstr ""
 
-#: src/menu.c:835 src/menu.c:978
+#: src/menu.c:834 src/menu.c:977
 msgid "Options"
 msgstr ""
 
-#: src/menu.c:836
+#: src/menu.c:835
 msgid "Credits"
 msgstr ""
 
-#: src/menu.c:837
+#: src/menu.c:836
 msgid "Contribute"
 msgstr ""
 
-#: src/menu.c:855 src/menu.c:1110 src/menu.c:1210 src/menu.c:1217
+#: src/menu.c:854 src/menu.c:1109 src/menu.c:1209 src/menu.c:1216
 msgid ""
 "You need to restart FreedroidRPG for the changes to take effect.\n"
 "\n"
 "Sorry for the inconvenience."
 msgstr ""
 
-#: src/menu.c:873
+#: src/menu.c:872
 #, c-format
 msgid "Difficulty: %s"
 msgstr ""
 
-#: src/menu.c:919
+#: src/menu.c:918
 msgid "Gameplay"
 msgstr ""
 
-#: src/menu.c:920
+#: src/menu.c:919
 msgid "Graphics"
 msgstr ""
 
-#: src/menu.c:921
+#: src/menu.c:920
 msgid "Sound"
 msgstr ""
 
-#: src/menu.c:922
+#: src/menu.c:921
 msgid "Keys"
 msgstr ""
 
-#: src/menu.c:923
+#: src/menu.c:922
 msgid "Droid talk"
 msgstr ""
 
-#: src/menu.c:924
+#: src/menu.c:923
 msgid "On-Screen displays"
 msgstr ""
 
-#: src/menu.c:925
+#: src/menu.c:924
 msgid "Performance tweaks"
 msgstr ""
 
-#: src/menu.c:973
+#: src/menu.c:972
 msgid "Resume Play"
 msgstr ""
 
-#: src/menu.c:975
+#: src/menu.c:974
 msgid "Resume Playtest"
 msgstr ""
 
-#: src/menu.c:977
+#: src/menu.c:976
 msgid "Save Hero"
 msgstr ""
 
-#: src/menu.c:984
+#: src/menu.c:983
 msgid "Return to Level Editor"
 msgstr ""
 
-#: src/menu.c:1030
+#: src/menu.c:1029
 #, c-format
 msgid ""
 "You selected %d x %d pixels.\n"
@@ -1795,127 +1427,127 @@ msgid ""
 "Sorry for the inconvenience."
 msgstr ""
 
-#: src/menu.c:1139
+#: src/menu.c:1138
 #, c-format
 msgid "Change screen resolution"
 msgstr ""
 
-#: src/menu.c:1141
+#: src/menu.c:1140
 #, c-format
 msgid "Fullscreen mode: %s"
 msgstr ""
 
-#: src/menu.c:1141
+#: src/menu.c:1140
 msgid "OFF"
 msgstr ""
 
-#: src/menu.c:1141
+#: src/menu.c:1140
 msgid "ON"
 msgstr ""
 
-#: src/menu.c:1145
+#: src/menu.c:1144
 #, c-format
 msgid "<-- Gamma correction: %1.2f -->"
 msgstr ""
 
-#: src/menu.c:1149 src/menu.c:1316 src/menu.c:1319 src/menu.c:1322
-#: src/menu.c:1327 src/menu.c:1394 src/menu.c:1395 src/menu.c:1396
-#: src/menu.c:1427
+#: src/menu.c:1148 src/menu.c:1315 src/menu.c:1318 src/menu.c:1321
+#: src/menu.c:1326 src/menu.c:1393 src/menu.c:1394 src/menu.c:1395
+#: src/menu.c:1426
 msgid "NO"
 msgstr ""
 
-#: src/menu.c:1149
+#: src/menu.c:1148
 #, c-format
 msgid "Show blood: %s"
 msgstr ""
 
-#: src/menu.c:1149 src/menu.c:1316 src/menu.c:1319 src/menu.c:1322
-#: src/menu.c:1327 src/menu.c:1394 src/menu.c:1395 src/menu.c:1396
-#: src/menu.c:1427
+#: src/menu.c:1148 src/menu.c:1315 src/menu.c:1318 src/menu.c:1321
+#: src/menu.c:1326 src/menu.c:1393 src/menu.c:1394 src/menu.c:1395
+#: src/menu.c:1426
 msgid "YES"
 msgstr ""
 
-#: src/menu.c:1236
+#: src/menu.c:1235
 #, c-format
 msgid "<-- Background music volume: %1.2f -->"
 msgstr ""
 
-#: src/menu.c:1240
+#: src/menu.c:1239
 #, c-format
 msgid "<-- Sound effects volume: %1.2f -->"
 msgstr ""
 
-#: src/menu.c:1246
+#: src/menu.c:1245
 #, c-format
 msgid "<-- Output: Stereo -->"
 msgstr ""
 
-#: src/menu.c:1250
+#: src/menu.c:1249
 #, c-format
 msgid "<-- Output: 4.0 Surround -->"
 msgstr ""
 
-#: src/menu.c:1254
+#: src/menu.c:1253
 #, c-format
 msgid "<-- Output: 5.1 Surround -->"
 msgstr ""
 
-#: src/menu.c:1258
+#: src/menu.c:1257
 #, c-format
 msgid "<-- Output: Error -->"
 msgstr ""
 
-#: src/menu.c:1316
+#: src/menu.c:1315
 #, c-format
 msgid "Limit framerate (powersaving): %s"
 msgstr ""
 
-#: src/menu.c:1319
+#: src/menu.c:1318
 #, c-format
 msgid "Show light radius: %s"
 msgstr ""
 
-#: src/menu.c:1322
+#: src/menu.c:1321
 #, c-format
 msgid "Show obstacle shadows: %s"
 msgstr ""
 
-#: src/menu.c:1327
+#: src/menu.c:1326
 #, c-format
 msgid "Precache item graphics: %s"
 msgstr ""
 
-#: src/menu.c:1394
+#: src/menu.c:1393
 #, c-format
 msgid "Show position: %s"
 msgstr ""
 
-#: src/menu.c:1395
+#: src/menu.c:1394
 #, c-format
 msgid "Show framerate: %s"
 msgstr ""
 
-#: src/menu.c:1396
+#: src/menu.c:1395
 #, c-format
 msgid "Show enemies' energy bars: %s"
 msgstr ""
 
-#: src/menu.c:1397
+#: src/menu.c:1396
 #, c-format
 msgid "<-- Max. screen messages: %d -->"
 msgstr ""
 
-#: src/menu.c:1398
+#: src/menu.c:1397
 #, c-format
 msgid "<-- Screen message lifetime: %3.1fs -->"
 msgstr ""
 
-#: src/menu.c:1427
+#: src/menu.c:1426
 #, c-format
 msgid "Show enemies' states (debug): %s"
 msgstr ""
 
-#: src/menu.c:1470
+#: src/menu.c:1469
 msgid ""
 "\n"
 "     Please enter a name\n"
@@ -1927,38 +1559,38 @@ msgid ""
 "     > "
 msgstr ""
 
-#: src/menu.c:1492
+#: src/menu.c:1491
 #, c-format
 msgid ""
 "A character named \"%s\" already exists.\n"
 "Please choose another name."
 msgstr ""
 
-#: src/menu.c:1611
+#: src/menu.c:1610
 msgid ""
 "\n"
 "\n"
 "No saved games found!"
 msgstr ""
 
-#: src/menu.c:1631
+#: src/menu.c:1630
 msgid "Sure!"
 msgstr ""
 
-#: src/menu.c:1634
+#: src/menu.c:1633
 #, c-format
 msgid "Really delete hero '%s'?"
 msgstr ""
 
-#: src/menu.c:1687
+#: src/menu.c:1686
 msgid "New Hero"
 msgstr ""
 
-#: src/menu.c:1688
+#: src/menu.c:1687
 msgid "Load existing Hero"
 msgstr ""
 
-#: src/menu.c:1689
+#: src/menu.c:1688
 msgid "Delete existing Hero"
 msgstr ""
 
